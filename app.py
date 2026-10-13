@@ -64,7 +64,7 @@ def overleaf_button(tex: str, name: str) -> None:
         <input type="hidden" name="engine" value="pdflatex">
         <button type="submit" style="width:100%;padding:.45rem .8rem;border-radius:.5rem;border:1px solid #2e9e5b;
           background:#2e9e5b;color:white;font:500 14px sans-serif;cursor:pointer">Open in Overleaf ↗</button>
-      </form>""", height=44)
+      </form>""", height=54)
 
 
 df = load()
@@ -211,8 +211,8 @@ with tab_apply:
                         f"<span style='opacity:.7'>{html.escape(r.location or 'Location not given')} · {r.src} · "
                         f"posted {r.posted or '—'}{' · ⚠️ ' + r.flag_text if r.flag_text else ''}</span>",
                         unsafe_allow_html=True)
-            c2.metric("ATS", f"{r.ats_after:.0f}", f"+{r.ats_after - r.ats_before:.1f}" if r.ats_after > r.ats_before
-                      else None, label_visibility="collapsed")
+            c2.metric("ATS score", f"{r.ats_after:.0f}", f"+{r.ats_after - r.ats_before:.1f} tailored"
+                      if r.ats_after > r.ats_before else None, delta_arrow="off")
             c3.link_button("Apply ↗", r.url, width="stretch")
             if r.pdf:
                 c3.link_button("Resume PDF", r.pdf, width="stretch")
