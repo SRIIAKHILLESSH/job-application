@@ -1,0 +1,362 @@
+00fcc8a46362
+023d8563e194
+030bd8c888b0
+045418c5f0ad
+084510f353e2
+08f4421f7ff4
+0bd9bafe64db
+0c0f49da01e1
+0d27ce3e6ce2
+0dcdf4444b0b
+0e040d998f3e
+100a10d65582
+105b52dc874c
+1084e1ff0e52
+122806ebfa16
+12960151d800
+136281f4af3a
+2032a5083fb8
+23df70806234
+2600a50f66ee
+271063ec4e61
+28ab5da3680a
+28cd53f03dc0
+2a335cd892e2
+2a41d59fe885
+2c4b4b09a26a
+2debacf4f6a6
+2f83122c1b1e
+3205298673bf
+3342d4d8197d
+36e4b128b493
+36edf2b9ea0d
+37248b92ba9a
+378611f0af75
+38aa876af375
+38ed199e3424
+3984f483d79f
+3b0aaf9ca69b
+3bad67898cf4
+3c20e0448dc8
+3d5ede10a369
+3d85ed3316d6
+409e59067189
+40e3d7402f9e
+40fa881f4299
+4384f69bc77c
+447d388dda52
+4b16291439cb
+4d2f97b5d1b0
+4fc8fd793a96
+4fe89c6a3261
+51e0d2033209
+524be752d28e
+52d1f028bf9f
+53be252e0e43
+54086487e848
+54295caeb7c5
+549b0e2d0117
+54b0d28fd29d
+553178884f84
+56ad093b825a
+5ab3e7f677ea
+5b084a621435
+5bfc9de63b89
+6069238fbc2f
+620c9f56f77f
+62c8fa3e3198
+644c2204cded
+671753ea1e19
+675bcfff99d2
+6784eccceff0
+6874eb29e4c8
+6afe93de1d3a
+6baa5f309147
+6c8a746af9dd
+6dea77293c85
+6f111c297b07
+70959ce78c2f
+7135cdcffba8
+74e596edf177
+7675f562ee4a
+76a15b287e59
+7760a5c9d7d1
+782d4a2503f6
+78a0f6177333
+78c1b8b0866e
+7a5999b88ffa
+7aa0e0cc6e8a
+7b824c030750
+7d7e8f6e249b
+7e1000872505
+81d4c5261e67
+827d15158294
+83837945615f
+840e915ec39f
+849c72bab7ab
+86a9648bd6a8
+86f381c701b5
+8bace8403d8e
+91d014baed5b
+92e67d463822
+9588c3382ca2
+9e050f05b284
+9f0409a01004
+9f3cf012a057
+9f3dffbe791b
+9f85e4a086e7
+a-tek inc|oracle cloud infrastructure (oci) engineer
+a1ef3e26647c
+a29438c00fb1
+a359a6119752
+a38aba16590a
+a3f4c9581980
+a41d94dd7b62
+a49a135a911d
+a5e52a567a78
+a70f3057a632
+a99e86eed7be
+abilitylinks|senior cloud engineer
+accenture federal services|databricks developer
+accenture|telephony cloud engineer 6525375
+addison group|sr. software engineer - python
+afit staffing|data engineer - hybrid - indianapolis
+airbnb|senior analytics engineer, airbnb.org
+alchemy|aws data engineer – dynamodb
+allspring global investments|python engineer
+alpha omega integration|etl data engineer
+ampstek|sr. python developer w/d banking domain exp
+anthropic|data engineer, billing & payments
+anthropic|data engineer, product
+anthropic|it systems engineer, client platform engineer, macos
+artech l.l.c.|python developer
+averity|python developer
+b0effcb37c9b
+b1597afd4c38
+b2acb5ce207f
+b58a678d17ae
+bae systems, inc.|senior devops software engineer
+bb172dc3a2bd
+bb7987ad7d6c
+bc8b1c86b8a2
+bcabfad48ce0
+bd4c85fbdd7f
+belay technologies, inc|devops engineer - cleared position
+bf57e164e6c4
+bitful consulting|senior data engineer
+booz allen hamilton|aws cloud engineer, senior
+booz allen hamilton|cloud engineer
+booz allen hamilton|data engineer
+bright vision technologies|azure cloud engineer
+bright vision technologies|senior python developer
+bv teck|azure platform engineer
+bv teck|network devops engineer
+bv teck|oci cloud engineer
+bv teck|sap data engineer
+bv teck|senior python developer
+c0e361aff3c1
+c201015cf54c
+c21550079b71
+c2970230ea88
+c30ca7eaf1f8
+c34c02bf8698
+c42ba0df01ad
+c99e4241c839
+c9dcf1b38cd2
+ca03852ec9ef
+caterpillar|senior data engineer
+cbts|senior python developer
+cd291cfdbe6e
+ce1afcee40b9
+ced9ff28a930
+cede5b6f3d60
+centric software|senior devops engineer
+cgi|senior devops engineer
+chime financial, inc|senior software engineer, data platform
+cleveland clinic|aws cloud engineer ii
+cleveland clinic|azure cloud engineer ii
+coinbase|senior machine learning platform engineer
+country financial|data engineer
+country financial|data engineering consultant
+cox automotive inc.|data engineer i
+cox automotive inc.|data engineer ii
+customers bank|cloud infrastructure engineer
+d0a941f606b3
+d1ba5c7f5410
+d2f044ed76c8
+d3a8ad289aa2
+d4192a5a9c98
+d56bec89a8b1
+d5ab230f20f4
+d85aa8ff4174
+d9c824f86ec2
+da48f6d58416
+damcosoft|ai python developer with react experience(miami, fl/ new jersey ) fte role
+davita|devops engineer (technology)
+dbba883ddb88
+dcb1283573e0
+dce74816bfdd
+dd7882a58d7d
+e131e49cdc3d
+e2153e8a14e8
+e5c3fa36454b
+e8100ee23d10
+e845b7c61ca1
+e90a15f01566
+e92a3099914c
+e9bbc063c63e
+e9e795c010fb
+e9ffad8b2eb9
+ecs|cloud devops engineer
+ed2ccda9e0b3
+eec3455428bc
+elastic|analytics engineer, hr analytics
+envision technology solutions|python developer
+esimplicity|senior devops engineer
+esri|devops / platform engineer – ts/sci
+everforth ecs|cloud devops engineer
+evlo ai|data engineer
+f165755689f4
+f23a62e83b9c
+f4ce1de873a9
+f584395c651c
+f623ad6d47e7
+f68f9f90e0ba
+f7e2c3e7da3d
+f8c817ae324e
+faa5a78d1cf3
+faire|senior finance analytics engineer
+falls technology|python software engineer (apis & data platforms) - sme | ts/sci w/ poly
+fb643122290c
+fc9939d7042c
+fcb62b81818c
+ffd767ce9049
+ffd98cad51f3
+fidelity investments|senior cloud engineer
+fidelity investments|senior data engineer
+figma|data platform engineer
+firefly aerospace|devops engineer ii
+foundation software, inc.|sr. data engineer
+fusion health|devops engineer
+general dynamics information technology|full stack python developer - ts/sci with polygraph
+general motors (gm)|senior data engineer
+gitlab|distinguished engineer, core devops
+gitlab|senior cx platform engineer
+gitlab|senior platform engineer, gitlab orbit
+global ktech|junior devops engineer
+global payments|data engineer
+google|analytics engineer
+greenstate credit union|data engineer
+guidehouse|etl developer
+harris | oakmark|cloud infrastructure and security engineer
+hcl global systems inc|python developer- phoenix, az
+hilton|cloud engineer (contract)
+honeywell aerospace|data engineer ii
+infosys|aws python developer
+infosys|python developer
+intrepid control systems|devops engineer
+jobgether|business intelligence analyst - analytics engineer hybrid
+joby aviation|senior platform engineer
+kiewit|senior cloud engineer
+lmi|data engineer (supply chain) - clearance required
+localize|senior devops engineer
+lorven technologies inc.|python developer
+lpl financial|avp software engineer - data platform engineering (python/aws)
+lvt (liveview technologies)|senior devops engineer i
+machina labs|senior devops engineer
+malta|data engineer
+mastech|senior cloud infrastructure engineer
+mavis tire|azure cloud engineer
+mecka|senior software engineer, device & data platform
+mercury|senior analytics engineer
+metrostar|devops engineer (6842) (up to $25k sign-on)
+metrostar|sr. devops engineer (6842) (up to $25k sign-on)
+modal|analytics engineer
+mongodb|senior site reliability engineer, infrastructure security
+mongodb|senior software engineer (sre), infrastructure security
+mosaic diagnostic imaging|software engineer (python/sql) – healthcare data | san juan, on-site
+mujin us|senior devops developer
+national grid|senior platform engineer - data & analytics platforms
+noda ai|senior platform engineer
+north east medical services|senior devops engineer
+nuro|software engineer, cloud infrastructure and observability
+nvidia|senior devops engineer
+okta|senior site reliability engineer  - epg
+okta|senior software engineer, data platform
+onedigital|analytics engineer ii, marketing technology - remote
+openai|data engineer, core experimentation
+openai|data engineer, hardware & consumer devices
+openai|software engineer, devops
+openeye|senior devops engineer
+optisources llc|cleared ai and data engineer (ci poly)
+optum|site reliability engineer (sre)
+optum|sr data engineer
+origami risk llc|devops engineer, platform
+osair technologies|oracle cloud infrastructure
+ottersoft|knowledge graph / data integration engineer
+pacific life|analytics engineer
+palantir|data engineer - talent acquisition operations
+people in ai|senior devops engineer
+piper companies|senior cloud infrastructure engineer (az - 174837 - 175278 - 175868
+premise health|senior analytics engineering analyst
+prescient edge|cloud engineer
+rackspace technology|azure cloud engineer ii - night shift
+rcr technology|enterprise data warehouse (edw) etl/data engineer
+reinventing geospatial (rgi)|devops infrastructure engineer
+replit|senior site reliability engineer
+rite-hite|sr devops engineer
+rivago infotech inc|python developer
+rockwell automation|senior software engineer - devops (plex)
+samsara|data engineer
+samsara|senior ai data & analytics engineer ii
+saragossa|software engineer(python/backend) - professional services firm - $130,000-$160,000
+sbt global|azure cloud data engineer(korean bilingual)
+schott|manufacturing data and analytics engineer
+sentara health|senior cloud engineer
+shield healthcare|data integration engineer
+shieldai|senior analytics engineer - finance (r6185)
+simmons bank|data engineer i
+snowflake|data engineering solutions specialist
+spacexsi|analytics engineer - x
+spacexsi|software engineer, data platform
+spacex|sr. software engineer, devops (starlink)
+stride, inc.|senior aws cloud engineer
+supabase|cloud platform engineer
+supabase|platform engineer - compute
+supabase|platform engineer, edge & networking
+supabase|platform engineer, managed postgres
+synechron|python developer
+synechron|senior python developer with ai ml experience
+synopsys software integrity|data engineer - talent acquisition operations
+talan|senior python engineer - pre-trade (gas & power industry)
+talkiatry|senior analytics engineer, marketing
+taskrabbit|analytics engineer
+tata consultancy services|python developer
+tata consultancy services|sr. aws cloud engineer
+technica corporation|azure cloud engineer, mid.
+technica corporation|azure cloud engineer, senior
+teema|data engineer – databricks migration
+tetrascience|senior scientific data engineer
+the depository trust & clearing corporation (dtcc)|software engineer (python & ai solutions)
+the hanover insurance group|technology analytics engineer (remote)
+torentify|ai software engineer (python) - remote
+torentify|software engineer (python, javascript)
+trinzic|associate aws devops engineer
+trinzic|aws devops engineer
+turing|remote software engineer - python/typescript
+uncomn|cloud engineer 3-4 (mid/senior-level)
+upmc|data engineer, senior (pittsburgh, pa)
+vaco by highspring|platform engineer (azure)
+valuetainment|devops engineer
+vanta|senior analytics engineer
+vercel|software engineer - data platform
+volant media uk ltd|senior cloud engineer
+waters|sr. data engineer
+westport properties, inc.|associate data engineer
+white sky technologies llc|devops cloud engineer
+white sky technologies llc|senior devops cloud engineer
+whiteboard federal technologies|devops engineer (clearance required)
+wissenpro|aws cloud infrastructure engineer
+zappos|data engineer i, zappos analytics
+zeta global|senior data engineer -  healthcare data & audience applications
+zip co|senior data engineer
