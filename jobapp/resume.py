@@ -4,7 +4,9 @@ Tailoring only *rearranges and re-labels what is already true*:
   1. headline matches the job family (Data / DevOps / Python), all roles you have held
   2. skills inside each skills line are reordered so the job's keywords come first
   3. bullets inside each role are reordered so the most relevant ones come first
-  4. skills from resume/skills_bank.yml (skills you confirmed you have but aren't on the resume) are added
+  4. umbrella terms implied by tools already listed (Terraform -> "Infrastructure as Code", Redshift/Snowflake ->
+     "Data Warehouse") are named when the job uses them
+  5. skills from resume/skills_bank.yml (skills you confirmed you have but aren't on the resume) are added
      only when the job asks for them
 Nothing is invented, and there is no hidden or white text. Skills the job wants that you don't have stay missing.
 """
@@ -98,9 +100,10 @@ def _tailor_summary(tex: str, want: dict[str, float]) -> str:
 
 
 def tailor(tex: str, family: str, want: dict[str, float], bank: list[str]) -> tuple[str, list[str]]:
-    """Return (tailored tex, bank skills that were added)."""
+    """Return (tailored tex, skills that were added: implied umbrella terms + skills bank)."""
     have = set(skills.counts(to_text(tex)))
-    add = [s for s in bank if s in want and s not in have]
+    add = sorted(s for s in skills.implied(have) if s in want)
+    add += [s for s in bank if s in want and s not in have and s not in add]
     out = tex
     if family in HEADLINES:
         out = re.sub(r"(\\textbf\{)Data Engineer \| Python \| DevOps \| Cloud(\})",

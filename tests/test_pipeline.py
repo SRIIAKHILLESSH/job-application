@@ -91,3 +91,13 @@ def test_multiword_states_are_not_split():
 def test_few_keywords_are_not_a_perfect_score():
     s = ats.score("Network Engineer", "Linux and Python.", resume.to_text(MASTER))
     assert s["ats"] < 50
+
+
+def test_tailoring_names_umbrella_terms_backed_by_listed_tools():
+    want = ats.job_keywords("DevOps Engineer", "Infrastructure as Code, data warehouse, Kubernetes")
+    tex, added = resume.tailor(MASTER, "devops", want, bank=[])
+    assert set(added) == {"Infrastructure as Code", "Data Warehouse"}  # Terraform / Redshift+Snowflake are listed
+    assert "Kubernetes" not in added
+    before = ats.score("DevOps Engineer", "Infrastructure as Code, data warehouse, Kubernetes", resume.to_text(MASTER))
+    after = ats.score("DevOps Engineer", "Infrastructure as Code, data warehouse, Kubernetes", resume.to_text(tex))
+    assert after["ats"] > before["ats"]

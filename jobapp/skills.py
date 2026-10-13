@@ -121,6 +121,23 @@ _EDGE_L, _EDGE_R = r"(?<![A-Za-z0-9+#/])", r"(?![A-Za-z0-9+#])"
 PATTERNS = {name: re.compile(_EDGE_L + "(?:" + "|".join(alts) + ")" + _EDGE_R, re.I) for name, (_, alts) in VOCAB.items()}
 
 
+# Umbrella terms that are true whenever one of the listed tools is on the resume. Tailoring may name them
+# explicitly (e.g. a job asks for "Infrastructure as Code" and the resume shows Terraform).
+IMPLIED: dict[str, list[str]] = {
+    "Infrastructure as Code": ["Terraform", "CloudFormation", "Ansible"],
+    "Data Warehouse": ["Redshift", "Snowflake", "BigQuery", "Greenplum"],
+    "Data Lake": ["Delta Lake", "Lakehouse"],
+    "Lakehouse": ["Delta Lake"],
+    "Batch Processing": ["Apache Spark", "PySpark"],
+    "Monitoring": ["CloudWatch", "Prometheus", "Grafana", "Datadog"],
+}
+
+
+def implied(have) -> set[str]:
+    have = set(have)
+    return {k for k, tools in IMPLIED.items() if k not in have and have & set(tools)}
+
+
 def counts(text: str) -> Counter:
     """How many times each vocabulary skill appears in the text."""
     return Counter({name: n for name, p in PATTERNS.items() if (n := len(p.findall(text or "")))})

@@ -110,13 +110,13 @@ scored = v[v.ats_after.notna()]
 # ---------------------------------------------------------------- KPIs
 today = pd.Timestamp.now(tz="UTC").tz_localize(None).normalize()
 k = st.columns(6)
-k[0].metric("Jobs in view", f"{len(v):,}", f"of {len(df):,} total", delta_color="off")
+k[0].metric("Jobs in view", f"{len(v):,}", f"of {len(df):,} total", delta_color="off", delta_arrow="off")
 k[1].metric("New today", int((v.found >= today).sum()))
 k[2].metric("Ready (≥ 90)", int((v.decision == "ready").sum()))
 k[3].metric("Tailored resumes", int((v.decision == "tailored").sum()))
 k[4].metric("Average ATS", f"{scored.ats_after.mean():.0f}" if len(scored) else "—",
             f"+{(scored.ats_after - scored.ats_before).mean():.1f} from tailoring" if len(scored) else None,
-            delta_color="off")
+            delta_color="off", delta_arrow="off")
 k[5].metric("Companies", v.company.nunique())
 
 if v.empty:
@@ -161,8 +161,8 @@ with tab_dash:
         f = v.family.str.title().value_counts().reset_index()
         fig = px.pie(f, names="family", values="count", hole=.55, title="By role family",
                      color_discrete_sequence=["#3b7dd8", "#2e9e5b", "#e3a33b"])
-        fig.update_traces(textinfo="label+value")
-        fig.update_layout(showlegend=False)
+        fig.update_traces(textinfo="value", textposition="inside")
+        fig.update_layout(legend=dict(orientation="h", y=-0.1))
         chart(fig, 280)
     with c:
         top = v.company.value_counts().head(10).sort_values().reset_index()
@@ -258,7 +258,7 @@ with tab_job:
             st.markdown("**Matched:** " + chips(r.matched, "ok"), unsafe_allow_html=True)
             st.markdown("**Missing:** " + chips(r.missing, "miss"), unsafe_allow_html=True)
             if r.added_skills:
-                st.markdown("**Added from your skills bank:** " + chips(r.added_skills, "add"), unsafe_allow_html=True)
+                st.markdown("**Added to the tailored resume:** " + chips(r.added_skills, "add"), unsafe_allow_html=True)
         if r["flags"]:
             st.error("Check before applying: " + r.flag_text)
         if pd.notna(r.get("years_required")):
