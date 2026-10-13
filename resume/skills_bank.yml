@@ -1,0 +1,4 @@
+# Skills you really have that are NOT on resume/master.tex.
+# When a job asks for one of these, the tailored resume adds it to the matching skills line.
+# Only list things you could talk about in an interview. Names must match jobapp/skills.py (e.g. Kafka, Kubernetes, dbt).
+skills: []

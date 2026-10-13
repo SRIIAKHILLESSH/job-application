@@ -1,0 +1,76 @@
+# What the job scanner looks for. Edit freely; the next cloud run picks it up.
+
+thresholds:
+  ats_ready: 90        # ATS score >= this: job link goes straight to the database with the master resume
+  min_relevance: 50    # ATS score below this: job is not relevant enough and is skipped
+  max_tailor_per_run: 40   # cap on tailored resumes per run (highest scores first)
+  max_years_required: 6    # skip jobs asking for more years than this
+  max_age_days: 30         # ignore postings older than this
+
+# Job title families. A title must match one "include" pattern and no "exclude" pattern (case-insensitive regex).
+titles:
+  data:
+    - data engineer
+    - data engineering
+    - etl (developer|engineer)
+    - analytics engineer
+    - data platform
+    - big data
+    - data integration
+    - data pipeline
+    - databricks
+  devops:
+    - devops
+    - dev ops
+    - cloud engineer
+    - cloud infrastructure
+    - site reliability
+    - \bsre\b
+    - platform engineer
+    - build (and|&) release
+  python:
+    - python (developer|engineer)
+    - software engineer.*python
+    - backend engineer.*python
+
+exclude_titles:
+  - \bstaff\b
+  - principal
+  - director
+  - manager
+  - \bhead of\b
+  - \bvp\b
+  - vice president
+  - \blead\b
+  - architect
+  - \bintern\b
+  - internship
+  - sales
+  - recruit
+  - \biii\b
+  - \biv\b
+
+# LinkedIn + Indeed public search (no login).
+search:
+  sites: [indeed, linkedin]
+  terms:
+    - data engineer
+    - devops engineer
+    - cloud engineer
+    - python developer
+    - etl developer
+    - analytics engineer
+  location: United States
+  results_per_term: 40
+  hours_old: 30
+
+# Public company job boards (Greenhouse / Lever / Ashby). Many Wellfound startups post here.
+boards:
+  greenhouse: [databricks, stripe, airbnb, robinhood, coinbase, datadog, cloudflare, gitlab, mongodb, elastic,
+               twilio, instacart, lyft, pinterest, reddit, dropbox, asana, figma, brex, chime, affirm, gusto, samsara,
+               okta, fivetran, starburst, cockroachlabs, grafanalabs, mixpanel, zscaler, squarespace, duolingo,
+               peloton, roku, toast, flexport, nuro, waymo, anthropic, scaleai, discord, vercel, netlify, sofi,
+               carvana, newrelic, sumologic, pagerduty, launchdarkly, mercury]
+  lever: [palantir, spotify, shieldai, outreach, zoox, matchgroup, jumpcloud, binance]
+  ashby: [openai, ramp, notion, linear, vanta, replit, posthog, supabase, snowflake, hex, modal, cursor, perplexity,
+          zapier, benchling, plaid, sentry]
