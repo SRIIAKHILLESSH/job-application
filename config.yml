@@ -64,6 +64,10 @@ search:
   results_per_term: 40
   hours_old: 30
 
+# Your saved links (links.yml, or the website's "My job links" tab).
+links:
+  max_jobs_per_link: 50    # jobs pulled from each link per scan
+
 # Public company job boards (Greenhouse / Lever / Ashby). Many Wellfound startups post here.
 boards:
   greenhouse: [databricks, stripe, airbnb, robinhood, coinbase, datadog, cloudflare, gitlab, mongodb, elastic,

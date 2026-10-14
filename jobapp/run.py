@@ -5,6 +5,9 @@
       min_relevance <= ATS < ats_ready -> tailor the resume, re-score, job link + tailored resume to the database
       ATS < min_relevance      -> not relevant, skipped
 
+Jobs from your saved links (links.yml) skip the title and location filters (the link already chose them) and are
+kept even when they score low or ask for many years, as "low_match", so every job on a link is listed.
+
 Run: python -m jobapp.run            (add --no-search to skip LinkedIn/Indeed, --dry-run to write nothing)
 """
 from __future__ import annotations
@@ -17,7 +20,7 @@ from datetime import datetime, timezone
 
 import yaml
 
-from . import ats, filters, resume, sources, store
+from . import ats, filters, links, resume, sources, store
 
 CONFIG = store.ROOT / "config.yml"
 BUILD = store.ROOT / "build"
@@ -38,23 +41,26 @@ def collect(cfg: dict, use_search: bool) -> tuple[list[dict], dict]:
         more, rep2 = sources.search(cfg)
         jobs += more
         report.update(rep2)
-    return jobs, report
+    more, rep3 = links.collect(cfg)
+    return jobs + more, report | rep3
 
 
 def process(jobs: list[dict], cfg: dict, seen: set[str], master_tex: str, bank: list[str], now: str) -> dict:
     th = cfg["thresholds"]
     master_text = resume.to_text(master_tex)
     counts = {"fetched": len(jobs), "title_match": 0, "us_or_remote": 0, "fresh": 0, "new": 0,
-              "no_description": 0, "too_senior": 0, "not_relevant": 0, "ready": 0, "tailored": 0, "not_tailored": 0}
+              "no_description": 0, "too_senior": 0, "not_relevant": 0, "ready": 0, "tailored": 0, "not_tailored": 0,
+              "low_match": 0}
 
     # 1. cheap filters + de-duplication (same company + title from several sources -> keep the one with a description)
     best: dict[str, dict] = {}
     for j in jobs:
-        fam = filters.family(j["title"], cfg)
+        from_link = "link_name" in j
+        fam = filters.family(j["title"], cfg) or ("other" if from_link else None)
         if not fam:
             continue
         counts["title_match"] += 1
-        if not filters.us_or_remote(j["location"], j.get("remote")):
+        if not from_link and not filters.us_or_remote(j["location"], j.get("remote")):
             continue
         counts["us_or_remote"] += 1
         if not filters.fresh(j["posted"], th["max_age_days"]):
@@ -64,8 +70,12 @@ def process(jobs: list[dict], cfg: dict, seen: set[str], master_tex: str, bank: 
         if j["id"] in seen or key in seen:
             continue
         j["family"] = fam
-        if key not in best or len(j["description"]) > len(best[key]["description"]):
+        old = best.get(key)
+        if old is None or len(j["description"]) > len(old["description"]):
             best[key] = j
+        link_name = (old or {}).get("link_name", j.get("link_name"))  # found both ways: keep your link's name
+        if link_name is not None:
+            best[key]["link_name"] = link_name
     new = list(best.values())
     counts["new"] = len(new)
 
@@ -74,18 +84,20 @@ def process(jobs: list[dict], cfg: dict, seen: set[str], master_tex: str, bank: 
     for j in new:
         seen_now |= {j["id"], store.norm_key(j["company"], j["title"])}
         rec = {k: j[k] for k in ("id", "source", "company", "title", "location", "url", "posted", "family")}
-        rec |= {"found_utc": now, "flags": ats.flags(j["description"]), "years_required": ats.years_required(j["description"])}
+        rec |= {"link_name": j.get("link_name"), "found_utc": now, "flags": ats.flags(j["description"]), "years_required": ats.years_required(j["description"])}
         if len(j["description"]) < 200:
             counts["no_description"] += 1
             keep.append(rec | {"decision": "no_description", "ats_before": None, "ats_after": None, "matched": [],
                                "missing": [], "added_skills": [], "resume": "", "pdf": "", "description": ""})
             continue
-        if rec["years_required"] and rec["years_required"] > th["max_years_required"]:
-            counts["too_senior"] += 1
-            continue
         s = ats.score(j["title"], j["description"], master_text)
-        if s["ats"] is None or s["ats"] < th["min_relevance"]:
-            counts["not_relevant"] += 1
+        too_senior = bool(rec["years_required"] and rec["years_required"] > th["max_years_required"])
+        if too_senior or s["ats"] is None or s["ats"] < th["min_relevance"]:
+            counts["too_senior" if too_senior else "not_relevant"] += 1
+            if rec["link_name"] is not None:  # from your links: listed anyway, no tailoring
+                keep.append(rec | {"decision": "low_match", "ats_before": s["ats"], "ats_after": s["ats"],
+                                   "matched": s["matched"], "missing": s["missing"], "n_keywords": s["n_keywords"],
+                                   "added_skills": [], "resume": "", "pdf": "", "description": j["description"][:8000]})
             continue
         keep.append(rec | {"ats_before": s["ats"], "ats_after": s["ats"], "matched": s["matched"], "missing": s["missing"],
                            "n_keywords": s["n_keywords"], "added_skills": [], "resume": "resume/master.tex",

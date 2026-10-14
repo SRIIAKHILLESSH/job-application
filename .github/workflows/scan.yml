@@ -2,8 +2,8 @@ name: Scan jobs
 
 on:
   schedule:
-    - cron: "0 12 * * *"   # 8 AM Eastern
-    - cron: "0 22 * * *"   # 6 PM Eastern
+    - cron: "0 10 * * *"   # 6 AM Eastern (summer time; 5 AM in winter)
+    - cron: "0 22 * * *"   # 6 PM Eastern (summer time; 5 PM in winter)
   workflow_dispatch:
 
 permissions:

@@ -101,3 +101,34 @@ def test_tailoring_names_umbrella_terms_backed_by_listed_tools():
     before = ats.score("DevOps Engineer", "Infrastructure as Code, data warehouse, Kubernetes", resume.to_text(MASTER))
     after = ats.score("DevOps Engineer", "Infrastructure as Code, data warehouse, Kubernetes", resume.to_text(tex))
     assert after["ats"] > before["ats"]
+
+
+def test_link_site_detection():
+    from jobapp import links
+    assert links.detect_site("https://www.linkedin.com/jobs/search/?keywords=data") == "linkedin"
+    assert links.detect_site("https://www.dice.com/jobs?q=etl") == "dice"
+    assert links.detect_site("https://www.indeed.com/jobs?q=python") == "indeed"
+    assert links.detect_site("https://wellfound.com/role/data-engineer") == "wellfound"
+    assert links.detect_site("https://app.joinhandshake.com/stu/postings") == "handshake"
+    assert links.detect_site("https://example.com/jobs") is None
+
+
+def test_link_jobs_skip_title_and_location_filters_and_keep_low_matches():
+    desc_hi = "We need Python, SQL, PySpark, Databricks, Delta Lake, Airflow, AWS, S3, Terraform and CI/CD. " * 5
+    desc_lo = "Rust, Go-lang, React, TypeScript, Kubernetes, Helm, Flink, Kafka, Scala, Java. " * 5
+    jobs = [_job("Software Engineer", desc_hi, location="Toronto, Canada", source="dice", company="A") | {"link_name": "Dice 1"},
+            _job("Frontend Engineer", desc_lo, source="wellfound", company="B") | {"link_name": "WF"},
+            _job("Frontend Engineer", desc_lo, company="C")]  # not from a link: dropped as before
+    out = process(jobs, CFG, set(), MASTER, [], "2026-10-13T12:00:00Z")
+    rec = {r["company"]: r for r in out["records"]}
+    assert set(rec) == {"A", "B"}
+    assert rec["A"]["decision"] in ("ready", "tailored") and rec["A"]["link_name"] == "Dice 1" and rec["A"]["family"] == "other"
+    assert rec["B"]["decision"] == "low_match" and rec["B"]["resume"] == ""
+
+
+def test_links_file_round_trip(tmp_path, monkeypatch):
+    from jobapp import links
+    monkeypatch.setattr(links, "LINKS", tmp_path / "links.yml")
+    assert links.load() == []
+    links.save([{"name": "LI", "url": " https://www.linkedin.com/jobs/search/?keywords=x "}])
+    assert links.load() == [{"name": "LI", "url": "https://www.linkedin.com/jobs/search/?keywords=x"}]

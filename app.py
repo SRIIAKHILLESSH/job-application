@@ -10,16 +10,17 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-from jobapp import store
+from jobapp import links, store
 
 ROOT = Path(__file__).resolve().parent
 st.set_page_config(page_title="Job Search Dashboard", page_icon="💼", layout="wide")
 
 STATUS = {"ready": "Ready (ATS ≥ 90)", "tailored": "Tailored resume", "not_tailored": "Queued for tailoring",
-          "no_description": "No description"}
+          "no_description": "No description", "low_match": "Low match (your links)"}
 COLORS = {"Ready (ATS ≥ 90)": "#2e9e5b", "Tailored resume": "#3b7dd8", "Queued for tailoring": "#e3a33b",
-          "No description": "#9aa0a6"}
-SOURCE_NAMES = {"linkedin": "LinkedIn", "indeed": "Indeed", "greenhouse": "Greenhouse", "lever": "Lever", "ashby": "Ashby"}
+          "No description": "#9aa0a6", "Low match (your links)": "#c7c9cc"}
+SOURCE_NAMES = {"greenhouse": "Greenhouse", "lever": "Lever", "ashby": "Ashby"} | links.SITE_NAMES
+REPO = "SRIIAKHILLESSH/job-application"
 
 st.markdown("""<style>
   .block-container {padding-top: 1.6rem; padding-bottom: 2rem;}
@@ -42,6 +43,7 @@ def load() -> pd.DataFrame:
     df["status"] = df["decision"].map(STATUS)
     df["src"] = df["source"].map(SOURCE_NAMES).fillna(df["source"])
     df["flag_text"] = df["flags"].map(", ".join)
+    df["link_name"] = df["link_name"].fillna("") if "link_name" in df else ""
     return df.sort_values(["found", "ats_after"], ascending=[False, False]).reset_index(drop=True)
 
 
@@ -67,14 +69,107 @@ def overleaf_button(tex: str, name: str) -> None:
       </form>""", height=54)
 
 
+def secret(name: str) -> str:
+    try:
+        return st.secrets.get(name, "")
+    except Exception:  # no secrets file when running locally
+        return ""
+
+
+def links_section(run: dict | None) -> None:
+    """Saved search links: every job on each link is pulled out at each scan and labelled with its website."""
+    saved = links.load()
+    token, repo = secret("GITHUB_TOKEN"), secret("GITHUB_REPO") or REPO
+    with st.expander(f"🔗 My job links · {len(saved)} saved", expanded=not saved):
+        st.caption("Paste a job search link from **LinkedIn, Dice, Indeed, Wellfound** or **Handshake** (set your "
+                   "keywords, location and filters on the site first, then copy the address bar). Every job on each "
+                   "link is pulled out at each scan (6 AM and 6 PM Eastern), checked against your resume and listed "
+                   "below with its website.")
+
+        def persist(new: list[dict], msg: str) -> None:
+            text = links.save(new)
+            if not token:
+                st.session_state.links_msg = ("warning", msg + " Saved on this computer only: commit and push "
+                                              "`links.yml`, or add a `GITHUB_TOKEN` secret so the website saves to "
+                                              "GitHub by itself.")
+            else:
+                try:
+                    links.save_to_github(text, token, repo)
+                    st.session_state.links_msg = ("success", msg + " Saved to GitHub; the next scan uses it.")
+                except Exception as e:
+                    st.session_state.links_msg = ("error", f"Couldn't save to GitHub: {e}")
+            st.rerun()
+
+        with st.form("add_link", clear_on_submit=True, border=False):
+            c1, c2, c3 = st.columns([4, 2, 1], vertical_alignment="bottom")
+            url = c1.text_input("Search link", placeholder="https://www.linkedin.com/jobs/search/?keywords=data%20engineer")
+            name = c2.text_input("Name (optional)", placeholder="Remote data engineer")
+            if c3.form_submit_button("Add", width="stretch", type="primary"):
+                url = url.strip()
+                site = links.detect_site(url)
+                if not url.startswith("http"):
+                    st.error("Paste the full link, starting with https://")
+                elif not site:
+                    st.error("That isn't a LinkedIn, Dice, Indeed, Wellfound or Handshake link.")
+                elif any(x["url"] == url for x in saved):
+                    st.info("That link is already saved.")
+                else:
+                    n = sum(links.detect_site(x["url"]) == site for x in saved) + 1
+                    persist(saved + [{"name": name.strip() or f"{links.SITE_NAMES[site]} {n}", "url": url}],
+                            "Link added.")
+
+        if msg := st.session_state.pop("links_msg", None):
+            getattr(st, msg[0])(msg[1])
+
+        status = {k.split(":", 2)[2]: val for k, val in (run or {}).get("sources", {}).items() if k.startswith("link:")}
+        for i, x in enumerate(saved):
+            got = status.get(x["name"])
+            note = ("not scanned yet" if got is None else f"{got} jobs at the last scan" if isinstance(got, int)
+                    else "⚠️ " + html.escape(str(got).removeprefix("error: ")))
+            c1, c2, c3, c4 = st.columns([1.1, 5, 0.9, 0.9], vertical_alignment="center")
+            c1.markdown(f"**{links.SITE_NAMES.get(links.detect_site(x['url']), 'Unknown')}**")
+            c2.markdown(f"[{html.escape(x['name'])}]({x['url']})  \n"
+                        f"<span style='opacity:.65;font-size:.85rem'>{note}</span>", unsafe_allow_html=True)
+            if c3.button("Test", key=f"test{i}", width="stretch", help="Shows the jobs on this link right now"):
+                st.session_state.test_link = x["url"]
+            if c4.button("Remove", key=f"rm{i}", width="stretch"):
+                persist(saved[:i] + saved[i + 1:], f"Removed {x['name']}.")
+            if st.session_state.get("test_link") == x["url"]:
+                with st.spinner(f"Reading {x['name']}…"):
+                    try:
+                        found = links.scrape(x, limit=20, details=False)
+                    except links.LinkError as e:
+                        st.error(str(e))
+                        found = None
+                if found:
+                    st.success(f"Found {len(found)} jobs (first 20 shown). They get scored at the next scan.")
+                    st.dataframe(pd.DataFrame(found)[["title", "company", "location", "posted", "url"]],
+                                 hide_index=True, width="stretch",
+                                 column_config={"url": st.column_config.LinkColumn("Job", display_text="Open ↗")})
+                elif found is not None:
+                    st.warning("No jobs on this link right now.")
+
+        if saved and token and st.button("Scan my links now", help="Runs the full scan on GitHub (about 10 minutes)"):
+            import requests
+            r = requests.post(f"https://api.github.com/repos/{repo}/actions/workflows/scan.yml/dispatches",
+                              json={"ref": "main"}, timeout=20,
+                              headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"})
+            if r.status_code == 204:
+                st.success("Scan started. Refresh this page in about 10 minutes.")
+            else:
+                st.error(f"GitHub said {r.status_code}: {r.text[:200]}")
+
+
 df = load()
 last = ROOT / "data" / "last_run.json"
 run = json.loads(last.read_text()) if last.exists() else None
 
 st.title("💼 Job Search Dashboard")
-st.caption("Data / DevOps / Python jobs from LinkedIn, Indeed and company job boards, scored against your resume. "
+st.caption("Data / DevOps / Python jobs from your saved links, LinkedIn, Indeed and company job boards, scored "
+           "against your resume. "
            "ATS ≥ 90 → apply with your master resume. Below 90 → a tailored resume (same facts, reordered for the job). "
            "You apply yourself; nothing is submitted automatically.")
+links_section(run)
 if df.empty:
     st.info("No jobs yet. The first scan fills this dashboard.", icon="⏳")
     st.stop()
@@ -86,7 +181,8 @@ with st.sidebar:
     status = st.multiselect("Status", list(STATUS.values()), default=list(STATUS.values()))
     fam = st.multiselect("Role family", sorted(df.family.unique()), default=sorted(df.family.unique()),
                          format_func=str.title)
-    src = st.multiselect("Source", sorted(df.src.unique()), default=sorted(df.src.unique()))
+    src = st.multiselect("Website", sorted(df.src.unique()), default=sorted(df.src.unique()))
+    only_links = st.checkbox("Only jobs from my links")
     min_ats = st.slider("Minimum ATS score", 0, 100, 0, 5)
     hide = st.checkbox("Hide clearance / no-sponsorship jobs")
     q = st.text_input("Search title or company")
@@ -96,13 +192,15 @@ with st.sidebar:
         st.caption(f"Last scan: {run['run_utc'][:16].replace('T', ' ')} UTC  \n"
                    f"{run['counts']['fetched']:,} postings checked from {len(run['sources'])} sources"
                    + (f"  \n⚠️ {len(bad)} source(s) failed" if bad else "  \n✅ all sources OK"))
-    st.caption("Scans run automatically at 8 AM and 6 PM Eastern.")
+    st.caption("Scans run automatically at 6 AM and 6 PM Eastern.")
 
 v = df[df.status.isin(status) & df.family.isin(fam) & df.src.isin(src)]
 v = v[v.found >= pd.Timestamp.now(tz="UTC").tz_localize(None).normalize() - pd.Timedelta(days=days - 1)]
 v = v[(v.ats_after.fillna(-1) >= min_ats) | ((min_ats == 0) & v.ats_after.isna())]
 if hide:
     v = v[v["flags"].map(len) == 0]
+if only_links:
+    v = v[v.link_name != ""]
 if q:
     v = v[v.title.str.contains(q, case=False, regex=False) | v.company.str.contains(q, case=False, regex=False)]
 scored = v[v.ats_after.notna()]
@@ -138,9 +236,9 @@ with tab_dash:
         chart(fig)
     with b:
         fig = go.Figure()
-        fig.add_histogram(x=scored.ats_before, name="Master resume", xbins=dict(start=50, end=100.01, size=5),
+        fig.add_histogram(x=scored.ats_before, name="Master resume", xbins=dict(start=0, end=100.01, size=5),
                           marker_color="#9aa0a6", opacity=.6)
-        fig.add_histogram(x=scored.ats_after, name="Resume sent", xbins=dict(start=50, end=100.01, size=5),
+        fig.add_histogram(x=scored.ats_after, name="Resume sent", xbins=dict(start=0, end=100.01, size=5),
                           marker_color="#3b7dd8", opacity=.8)
         fig.add_vline(x=90, line_dash="dash", line_color="#2e9e5b", annotation_text="90 = ready")
         fig.update_layout(barmode="overlay", title="ATS score spread", legend=dict(orientation="h", y=-0.15))
@@ -203,7 +301,7 @@ with tab_dash:
 with tab_apply:
     st.caption("Best matches first: highest ATS score for the resume you'd send, newest first on ties. "
                "Jobs flagged for clearance or no sponsorship are marked ⚠️.")
-    best = scored.sort_values(["ats_after", "found"], ascending=[False, False]).head(15)
+    best = scored[scored.decision != "low_match"].sort_values(["ats_after", "found"], ascending=[False, False]).head(15)
     for _, r in best.iterrows():
         with st.container(border=True):
             c1, c2, c3 = st.columns([5, 1.2, 1.4])
@@ -221,15 +319,15 @@ with tab_apply:
 # ---------------------------------------------------------------- all jobs
 with tab_all:
     st.dataframe(
-        v[["status", "ats_after", "ats_before", "company", "title", "location", "src", "posted", "url", "pdf",
-           "flag_text"]].assign(missing=v.missing.map(lambda m: ", ".join(m[:4]))),
+        v[["status", "ats_after", "ats_before", "company", "title", "location", "src", "link_name", "posted", "url",
+           "pdf", "flag_text"]].assign(missing=v.missing.map(lambda m: ", ".join(m[:4]))),
         hide_index=True, width="stretch", height=560,
         column_config={
             "status": "Status",
             "ats_after": st.column_config.ProgressColumn("ATS (resume to send)", min_value=0, max_value=100,
                                                          format="%.0f"),
             "ats_before": st.column_config.NumberColumn("ATS master", format="%.0f"),
-            "company": "Company", "title": "Title", "location": "Location", "src": "Source", "posted": "Posted",
+            "company": "Company", "title": "Title", "location": "Location", "src": "Website", "link_name": "From my link", "posted": "Posted",
             "url": st.column_config.LinkColumn("Job", display_text="Apply ↗"),
             "pdf": st.column_config.LinkColumn("Resume", display_text="PDF ↗"),
             "flag_text": "Flags", "missing": "Missing keywords",
@@ -248,6 +346,9 @@ with tab_job:
     with a:
         st.markdown(f"### {html.escape(r.title)}\n**{html.escape(r.company)}** · {html.escape(r.location or '—')} · "
                     f"{r.src} · posted {r.posted or '—'} · {r.status}")
+        if r.decision == "low_match":
+            st.info("From your saved link, but a low match (ATS below 50, or asks for more years than you have), "
+                    "so no tailored resume was made.")
         if r.decision == "no_description":
             st.warning("The source didn't give a description, so this job wasn't scored. Open the link to read it.")
         else:
