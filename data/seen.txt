@@ -360,3 +360,85 @@ wissenpro|aws cloud infrastructure engineer
 zappos|data engineer i, zappos analytics
 zeta global|senior data engineer -  healthcare data & audience applications
 zip co|senior data engineer
+0203c3a9f546
+026fc9dfed3a
+0750f101fc2b
+0d1bf9518c4a
+13b619031543
+149917a42e90
+165eb6864dd9
+1a1a42486456
+1d181180e3ff
+24a210b5710d
+276244c2fdec
+2a31c8afd776
+2d2daea787da
+30e4a9c48b9d
+32db2574eec6
+34a7ff714924
+3f51869d864f
+3f550f992be6
+546e575d5b82
+61b7c8687538
+6deb98027bc3
+70ceeb65027e
+79b7beca35f0
+84394bdb6a3c
+8a7ae27484dd
+8ebe9ef806bf
+9041623d6466
+9339f37a9a5d
+9c366efb40c4
+alchemy cloud|devops / infrastructure engineer
+alphatec spine, inc.|sr. site reliability engineer, devops
+amazon web services (aws)|agentic data engineer, frontier ai tooling
+amazon.com|systems development engineer, lab operations platform, amazon leo devops
+b1db9ae0171a
+b99a894908df
+bb203f08c8bd
+bc222c80afcf
+bd58de642c52
+bf23bebe5eea
+booz allen hamilton|devops engineer
+bv teck|cloud infrastructure network engineer
+ce7fb2bd6c92
+cognizant|senior devops engineer - remote
+commercial programming systems|cloud engineer
+costar group|devops engineer
+d5951d76aa85
+david yurman enterprises, llc|data engineer
+decircle|temper - infrastructure/platform engineer
+dla piper|sr cloud infrastructure engineer
+e5835e9abe7f
+e7b842ba6afd
+esg - usa|senior cloud engineer
+ey|service delivery center, senior devops engineer
+f125e548a0b0
+f462950f807d
+hrl laboratories, llc|software engineer, data platform
+inceed|senior data engineer databricks
+jobot|data engineer
+maximus|cloud engineer
+modal|gtm engineer - data platform
+mohawk industries|sr. cloud engineer
+netsmart|cloud engineer- onsite overland park, ks
+new york life|associate - data engineer
+onekey mls|data engineer
+providence|senior data engineer is - remote
+shadowobjects, llc|senior data engineer
+spacexsi|software engineer - x data engineering
+spycloud|data engineer ii
+superhuman|data engineer, foundations
+the cigna group|network automation engineer – python & devops
+the henry m. jackson foundation for the advancement of military medicine|data engineer - pesmoa
+the university of michigan|data engineer senior
+travelers|data engineer ii - databricks platform
+travelers|senior data engineer
+trinzic|big data systems engineer
+trinzic|cloud engineer
+trinzic|mid level software and data engineer
+trinzic|senior data engineer
+veerteq solutions inc.|devops engineer
+viva health|etl developer ii
+x-nav technologies|software development operations (devops) engineer
+xledger|senior devops engineer - colorado springs
