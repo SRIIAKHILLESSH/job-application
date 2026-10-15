@@ -670,3 +670,135 @@ vari|analytics engineer
 vmc soft technologies, inc|senior gcp cloud engineer
 waymo|senior data engineer
 zachary piper solutions|senior cloud engineer - 175244 - 175892
+05f1b1d05a95
+07a13274d7a0
+0945d869ea77
+0c8356f253fd
+11320d2b68b8
+2020 companies|microsoft fabric data engineer
+225235e90646
+25d47c67633c
+261dd132e5da
+26394e49d3d1
+303d9808d677
+33b9bdeee73d
+38b97617c48a
+3bbded8f0bec
+3f917dd0469b
+4207fccd491b
+428ce2dd5523
+4352eff3d1bc
+446a1877b2cc
+476ad40d3e14
+4845f2d754e9
+4b1fc2e1bc5b
+5136d257e4e3
+5793005ad011
+5889f3ef865b
+592fe9d921ad
+5b4cc852db63
+64aca21a0b4c
+6a9b2efc3ed2
+70d42c94e2b6
+766e82a024d4
+7735000ea089
+7a32c9c8b118
+7b656e9e5c9e
+7cfee94b9d83
+85f329b18ae4
+8905baaae840
+893b5ded3828
+895aeaafa97f
+943e8b2e1097
+96b9d7b99319
+983614c11ec0
+9a51e1e5d048
+9abe95b78c92
+a48d447730df
+a4ddf2ffde37
+a586bbf563e0
+a9ae2538f360
+abf7410b5a97
+accenture federal services|cloud devops engineer
+agero, inc.|big data engineer
+anvi corp usa|data engineer
+asu enterprise partners|data engineer ii
+b1cf275a2a7f
+b22818e74e63
+ba1f4969ed2d
+bb3a0a390c89
+blue harbor system|devops engineer
+booz allen hamilton|devops engineer, mid
+booz allen hamilton|sql data engineer
+brown brothers harriman|cloud & devops engineer
+bv teck|ai data engineer
+c52b59c8b39c
+c8e45fb0b5fa
+capgemini|associate data engineer
+ccaa297edca5
+cei composite materials|process & data analytics engineer
+center for organ recovery and educa|data and analytics engineer
+choice hotels international|cloud platform engineer 2 (developer experience)
+cognizant|azure devops site reliability engineer
+cognizant|senior azure devops engineer – kubernetes & terraform
+d&g solutions|mid-level etl / data integration developer - informatica
+d.a. davidson companies|data engineer
+d19c75d4a2ec
+d4c4a47f94d4
+d8494f7224e4
+d8b6a70e6b6d
+ddn|senior analytics engineer
+documo|senior devops engineer
+duo health|sr. backend platform engineer (python)
+e954b65c12b2
+e95dcde0cff6
+eos it solutions|senior devops engineer
+evergreen trading|associate, data engineering
+ey|service delivery center - senior - devops engineer
+f09bf1e5c82d
+f28a290b2c55
+f3611eb8078d
+f3e2a1f5937f
+f7a57d858428
+faire|senior analytics engineer - marketplace
+fuku|site reliability engineer sre - internationalisation
+gitlab|cloud platform engineer
+harnham|data engineer
+hilti north america|devops engineer
+hiredbuddy|python developer
+horace mann insurance|data engineer ii
+hp|devops engineer
+inadev|python developer
+intellibee inc|senior python developer
+kastech software solutions group|python developer
+koniag government services|devops engineer
+koniag government services|senior devops engineer
+mesh|senior data engineer
+mind|analytics engineer, forecasting & revenue intelligence
+motion recruitment|senior devops engineer, azure
+naviga publishing solutions|senior cloud engineer
+northrop grumman|devops engineer – level 3 or 4 aht
+openai|client platform engineer
+pax recruiting|devops engineer
+pax8|senior data engineer ii (data platforms)
+quanteam - north america (rainbow partners group)|senior cloud software engineer (python / aws) – energy trading
+quantum pain & sports medicine|senior data engineer – microsoft fabric & healthcare integrations
+reddit|analytics engineer
+redtech recruitment|founding software engineer – python / real-time systems
+saic|devops engineer senior
+sjsu research foundation|data engineer
+supabase|finops data engineer
+tanium|senior software engineer, devops
+the amatriot group|cloud engineer
+tiger analytics|senior data engineer
+tops products llc|senior devops engineer (azure)
+trace3|devops engineer, tkg platform integrator
+trisura|senior data engineer
+truadvantage|analytics engineer, forecasting & revenue intelligence
+u.s. bank|software engineer 2 – java, generative ai, rag & cloud engineering
+university of maryland global campus|analytics engineer
+university of maryland global campus|senior analytics engineer
+vantor|etl developer
+veerteq solutions inc.|senior data engineer healthcare data platforms
+vida health|backend software engineer ii- data platform
+vizient|senior platform engineer (devops & cloud platform)
