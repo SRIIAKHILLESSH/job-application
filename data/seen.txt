@@ -1104,3 +1104,171 @@ university of north carolina at asheville|it systems & cloud engineer #005074
 usaa|mid-level software engineer – database devops
 venture global lng|data engineer
 zscaler|sr. site reliability engineer- federal
+0041cbac7977
+01e27f1d66f5
+05e9f17f2ff4
+06311867d569
+08a9b2179bfd
+09b775c97630
+0bbe9b8495d0
+0c4f65c86a6a
+0e55b0d14bd6
+16403b846744
+17416f3d2384
+177dbe95fb07
+1860309ef661
+1b007f04144f
+1ce53b987f96
+1e0d7b0839c5
+1e6a59dbbfbd
+2387f14f6d8a
+23d9ce0a1baf
+2ae859e33c92
+2c6d1a12ae66
+3238612a7a6d
+356697748a8b
+35c93e919bc1
+3856eb2fd238
+40cb51e34ae3
+412039d93325
+4168ec5f119a
+42b35150dd58
+455293a16a9c
+4a182d5d76ff
+4acd236b49b2
+4aefe2db15f5
+519ba53783f0
+52e6fca3bbfc
+5438ba53e1f9
+5abd834347c0
+5c0017f70ed4
+5c19675dde3a
+5c7ff531708a
+5f23e5e369a0
+74b79eaa91f1
+7548fd97d5b5
+77bb938dc3b8
+7b885fbc6d44
+7cfe68eb6c7c
+80f928300f67
+86de96a40044
+88926cb493b9
+8a0b1750ef77
+8a925939aec4
+8b99f3fa08ac
+8c7278bf48f1
+8efcfc975498
+8f8a778992fc
+8fc15f4856d3
+9228133ad895
+9c410b1a5ff5
+a67fd8a5f579
+a6f19cbc6a9b
+acquire me|python developer
+airspace link inc|sr. python engineer
+airspace link, inc.|sr. python engineer
+amazon|data engineer, sptc
+amerihealth caritas|data engineer
+amtex systems inc|sr. python developer
+applied medical|devops engineer
+aptean|data engineer
+ascension federal services inc.|secdevops pipeline developer and python expert
+atlas air|data engineer
+b0c43dbb95e2
+b10a720b6ba9
+b2caff524500
+b44e6a8939fe
+b60f564d84bd
+b73a9be3e0af
+b958ea673816
+booz allen hamilton|cloud devops engineer, mid
+builders|data engineer
+bv teck|streaming data engineer
+c4a70f9989cd
+c5c2e716f9fb
+c983419fc2ea
+caci international inc|data engineer
+career listings|hybrid multi-cloud engineer sme - azure endpoint management
+cbfb9ba48d8e
+cdcdab01cedb
+cf25980f7bc1
+cf45bb09b4e7
+charles schwab|data engineer
+cognition|data engineer
+cognizant|senior python engineer
+cvs health|data engineer - people analytics
+d1f7c642fac2
+d98e9b8c7769
+dd4c3baf1b2a
+deloitte|azure cloud engineer
+deloitte|senior devops engineer
+dma - ducharme, mcmillen & associates, inc.|data engineer
+e13fa5fd8126
+e9570e8ec12c
+ebay|senior python engineer, ai
+entergy|data engineer, senior
+epam systems|devops / platform engineer
+equipmentshare|data analytics engineer
+exl|senior data engineer
+f0617f34c64e
+f3f1256c1317
+f668e907d908
+f9727cfcd17c
+fb592998c854
+firestorm|cloud infrastructure engineer
+first american|senior data engineer (hybrid)
+firstpro us|analytics engineer
+fitch group, inc.|senior software engineer, full-stack applications (python & react)
+form energy|senior data analytics engineer, factory software
+full visbility|jr data engineer
+geico|business intelligence analyst / data engineer
+general atomics|senior devops engineer
+general dynamics information technology|cloud data engineer – data modeling and simulation (azure)
+general dynamics information technology|cloud engineer - ts/sci w/poly
+general dynamics mission systems|advanced devops engineer
+hendrick automotive group|data engineer
+horizon3.ai|federal senior product analytics engineer
+howard university|cloud engineer i
+incident iq|senior data engineer
+jobot|senior healthcare data engineer
+journeyteam|data engineer
+jpmorganchase|experienced software engineer java / python (full stack or back end)
+kpmg us|senior specialist, federal data engineer
+ltm limited|cloud network administrator (with azure devops)
+ltm|specialist - data engineering
+merck|senior specialist, data engineering and analytics
+modmed|senior devops engineer
+msd ireland|senior specialist, data engineering and analytics
+ncr voyix|dev ops engineer
+plaid|senior data engineer
+rev llc|oracle cloud infrastructure (oci) administrator
+rivian|senior analytics engineer, product development data & analytics
+saic|cloud engineer mid-level
+seton hall university|cloud engineer
+shi international|solutions engineer - cloud & devops
+sony pictures entertainment|data engineer ii - insights, strategy & analytics
+spatial front, inc|sr. cloud and python developer
+spatial front, inc|sr. data engineer
+storm3|data engineer
+superhuman|data engineer, finance
+symple lending|data engineer
+synchron technologies|senior azure data engineer only local to charlotte nc - 11+ years only locals locals locals
+tata consultancy services|devops engineer
+tatari|senior data engineer
+tech interacts inc|senior systems operations / sre / platform engineer || engineer 5
+the andersons, inc.|data engineer
+the swift group, llc|devops engineer
+the walt disney company|sr data engineer
+thistle|senior analytics engineer
+tmc technologies|senior devsecops/cloud platform engineer
+torentify|data engineer (fully remote)
+trustar bank|cloud engineer (azure)
+uncomn|data engineer 3 (mid-level)
+unifirst corporation|devops engineer – azure platform
+universal music group|data & analytics engineer, servicenow
+v2x|analytics engineer ii
+vantor|big data analyst (ts/sci)
+vas|data engineer
+webcreek|26.08. senior data engineer v2
+zipline|senior data engineer - data platform
+zyphra|machine learning systems administrator / devops engineer: training clusters & inference cloud
