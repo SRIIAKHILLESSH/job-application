@@ -1378,3 +1378,107 @@ vforce infotech|data engineer
 virtual technologies group|django/python developer (full-stack)
 world pediatrics|junior data engineer
 zillow|senior software development engineer - big data
+006420bb526e
+04e0e9c141e1
+076899938603
+0aa37f6db26f
+0e781beaafee
+10d2e5de51d3
+178d4b8839c9
+209b266cbd80
+2aa30d18f766
+328aef4ce24f
+35c593959a6f
+38f8fd2b94e0
+39212384955b
+43d31cf57776
+479b8245c9f5
+4ba45468a556
+4c26e7dc121f
+5e530a2e8597
+5ff104eee589
+644311433f92
+67546bb5f971
+67c8d06a5db9
+6a23d482285f
+731b3407bd83
+77b5f302de78
+7a59ff98ba0b
+7ff119d352c3
+85d8eb6b8c3b
+8a92754e65b3
+8c5f264cf1dd
+918dc1baecdd
+9d564891ba6d
+9e28dff00b71
+a4dd99ca20d9
+a67c2e41e4f9
+accenture federal services|cleared devops engineer
+accenture federal services|site reliability engineer (devops)
+ae01fa1585c9
+aj boggs/propower|devops engineer
+astrion|cloud engineer - senior
+axiom space|platform engineer — aws cloud
+b3e0ddc5a9d3
+b49a4939420d
+b8f77555e0d9
+ba49cca71e61
+booz allen hamilton|software data engineer
+bridgeway benefit technologies|associate platform engineer
+c44addafa2a2
+capgemini|devops senior engineer
+capital one|data engineer 4 (python, pyspark, aws)
+citi|python developer
+cognite|sr. data engineer - fp&a
+cohere|data engineer, data foundations
+constellation brands|python developer
+d002a49c5aa9
+dc049e7a17c4
+deloitte|aws cloud engineer - software engineering - top secret clearance
+disney experiences|sr data engineer
+e-infosol llc|devops engineer
+e1a43ff671d9
+e3001b0a08ba
+e6155e76a172
+e6c1585c4d66
+ebara elliott energy|senior data engineer
+edc4256dff24
+ef4a45dcb793
+eliseai|senior data engineer
+f2244638b856
+f454b1d4df8e
+f62e3e277267
+fantom corporation|senior data engineer
+fearless|full stack data engineer/developer, (consultant, data & analytics)
+fervo energy|senior cloud engineer
+futrend technology, inc|full stack python/devops developer
+fwi (fedwriters, inc.)|data engineer
+gm financial|data engineer
+grady health system|data engineer
+h1|sr. aws cloud infrastructure engineer
+ibm|data engineer
+je dunn construction|it data engineer
+jpmorganchase|software engineer lll - senior databricks/spark/aws data engineer
+karoo health|sr data engineer
+kbx logistics|cloud engineer
+koch|data engineer
+kwik trip|data engineer
+lincoln financial|associate data engineer, ai data products
+lowenstein sandler llp|data engineer
+lowenstein sandler|data engineer
+ltm limited|data engineer
+mcgraw hill|senior engineer - data engineering
+meta|cloud production platform engineer
+monaco|data engineer
+national carwash solutions, inc.|cyber security cloud engineer
+nbcuniversal|sr. data engineer
+planet|senior data engineer, gms data team
+saic|aws databricks developer junior
+schrödinger|senior cloud engineer
+segula technologies|data analyst/data engineer
+the fischer group|senior data engineer
+the university of texas at austin|senior data engineer
+torentify|data engineer ii - 100% remote
+travelers|data engineer i (databricks, aws, python)
+visual soft, inc|dev ops engineer - mid level - top secret-onsite
+whatnot|data engineer, payments
