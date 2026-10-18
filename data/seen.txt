@@ -1626,3 +1626,129 @@ trupanion|senior analytics engineer, finops
 webai|senior devops engineer
 wilcore technologies inc|devops engineer ii
 world wide technology|senior data engineer (hcm/hr analytics)
+02dd8d15e06f
+036cdd8563f2
+089a04949d1b
+09ac6ab5cf15
+0b45e043cc3a
+0f650d8b18d6
+123a1f203760
+1bf14afd8023
+2e8e368e509c
+2f4678c1f416
+315b01cad9ff
+429047254bad
+42bc0d2dd8c9
+4937643ac0f2
+49d0ac7c7e26
+4d3e726b3781
+5553506cbd53
+569145b6d63e
+6170fb293e02
+68138f5b6255
+697d537ab2e7
+7675e71fc904
+787eed6106dc
+7bf458e8aa53
+7c0bfd11ea6c
+7e7d034adb7a
+8090671d859b
+839cffd6f676
+84de585a669f
+8583a4e0e95f
+91cfb548d662
+950029a3f4c0
+9515a56f59d5
+983f1767f76d
+9943c2b570a5
+9d7b93b9ab8c
+a31bf0d623eb
+a571850b347f
+a726186bad3a
+a748d85cdf20
+a83f2a3ae376
+aca group|ai software engineer (python, langchain, llms)
+airwallex|senior data engineer (san francisco)
+akina, inc.|rf software engineer 3 - (c++, linux, python)
+assetmark|cloud engineer
+atlassian|senior data engineer, dx
+b512b4800b1d
+bc90c6d3c6d4
+be122ac4d1bb
+booz allen hamilton|cloud devops engineer, senior
+booz allen hamilton|cloud infrastructure engineer
+booz allen hamilton|devops engineer, senior
+booz allen hamilton|kubernetes platform engineer
+brady corporation|cloud engineer - gcp & google workspace
+c10277dcbce4
+c4d990ab0a8f
+c82c013a28b2
+c90ca4c8e767
+c9b47c81d885
+caci international inc|azure cloud engineer - intermediate cloud engineer
+capital one|data engineer 4, real-time data platform
+capital one|data engineer 5, marketing and messaging (enterprise platform technology)
+captech|senior data engineer (aws, azure, gcp)
+cargill|sr. data engineer
+carhartt|sr. devops engineer
+castle biosciences, inc.|it, senior cloud engineer
+cboe global markets|senior cloud engineer
+centerfield|data engineer
+charles schwab|senior data engineer - cloud data platform
+cognizant|sr. azure data engineer ( hybrid)
+costar|senior devops engineer - matterport
+d39defc50bd1
+dcf1c7808853
+dcff66fe53a0
+deloitte|senior engineering management specialist - devops engineer
+delta air lines|senior data engineer
+docebo|senior cloud engineer i
+e11a99900757
+e4136fc7c3a7
+e9fba744fba9
+elyon international|analytics engineer
+equinix|devops engineer
+f1e3e6912f2b
+f3e667ae62c3
+f4fdd9a0e9e2
+f7220ddd104f
+f8089261b926
+f8853b7bab58
+f8cbd9db7a79
+f97cfa2b908e
+fantom corporation|senior cloud engineer
+google operations center|data engineer specialist - ads campaign operations - gamma (hybrid) (for pooling)
+great west, an old republic company|sr. data engineer
+ibotta|senior analytics engineer, product analytics
+jpmorganchase|data engineering associate
+kunai, part of the pwc network|senior cloud data engineer
+lam research|senior cloud engineer
+magna international|sr. devops engineer
+mantech|senior data engineer
+mckesson|sr. cloud engineer
+mckinsey & company|senior data engineer - periscope
+murphy usa|data engineer i
+ninjatrader|sr. data engineer
+nintendo|devops engineer
+parafin|data analytics engineer
+referment|senior cloud engineer | hedge fund (99fa570)
+referment|systems: cloud engineer (f685255)
+sage care|cloud engineer
+shield ai|data engineer, finance (r6329)
+shield ai|devops engineer (5431)
+shieldai|data engineer, finance (r6329)
+sinclair inc.|senior data engineer
+spacex|sr. it systems engineer, devops
+superhuman|data engineer, growth
+switch data centers|data analytics engineer ii
+switch|data analytics engineer ii
+tata consultancy services|engineer data integration
+tata consultancy services|full stack python developer with ai experience
+tata consultancy services|ms azure cloud engineer
+tesla|data engineer
+textron|data engineer ii
+vaxcyte|senior azure cloud engineer
+walmart|senior, software engineer - python
+wealthfront|software engineer – devops platform
+western natural resources|senior data engineer
+westley resource|azure devops engineer
