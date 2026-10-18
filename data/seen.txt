@@ -1752,3 +1752,121 @@ walmart|senior, software engineer - python
 wealthfront|software engineer – devops platform
 western natural resources|senior data engineer
 westley resource|azure devops engineer
+090b362734b0
+0e7f166429f9
+11f0d57b769d
+1208f31ba1ae
+1a615603b5a0
+1b38700847f7
+1c382cf54c80
+1f7f7adb5d13
+20ae8b8515e6
+25330bc9127b
+32435c1e625f
+401089a366fc
+4019943d6ce8
+416210e6746a
+4983ffd0511f
+5d6a0ef84200
+5dc309ae5d82
+5f7613055b6e
+60560c8faff0
+608bedbe90a2
+6449d5d8f92d
+65d67591b8a8
+6b92542c4037
+727ec7554b2d
+77ecfa15d063
+7e9e4a420a8c
+812f1515e33a
+89cc338e4102
+8f8ceed67448
+9210851aad0e
+9a43362d073c
+9a7a1a97864f
+9fc7e732aa67
+a1632f6152d5
+a875a9232c16
+acrisure|senior cloud engineer
+alliant energy|senior cloud platform engineer
+amentum|cloud engineer
+amkosoft inc.|devops engineer
+apollo solutions|senior cloud engineer
+apple|software data engineer, sensing & connectivity
+apple|sr. build and release engineer - hss
+argentys informatics llc|kubernetes devops engineer
+avenue code|python engineer
+b25927585924
+b3f63c9a4ab4
+b79b9285377a
+b95d485026f9
+bae systems, inc.|devops cloud engineer
+bae systems, inc.|windows devops cloud engineer
+bea78f6ad6c3
+booz allen hamilton|platform engineer
+c118bbb15e50
+c4e6116f7424
+caterpillar inc.|senior data engineer
+cd069c574bb5
+clear street|senior data engineer
+collectiv|data and analytics engineer
+collectiv|data engineer (azure, fabric, databricks)
+coreweave|it systems engineer: cloud infrastructure
+coreweave|senior data engineer
+corewell health|data engineer
+d32f82d688a4
+d4172986973f
+d43304ae3696
+d7e6abcd853d
+d850e06ca1b7
+d966bb287894
+dcd1d23340e8
+digipulse technologies inc.|sr. data engineer(etl focus) – covington, ky (onsite)
+e3a26315c02d
+e411beb6eb5a
+e68526437a19
+e6af35f33df8
+e976a5a3d4fe
+eda6b436dd65
+enlighten|devops engineer - $20k sign on bonus - 30121
+enlighten|devops engineer - 30149
+f314647d445c
+f70d4a0bbab2
+fanduel|data engineer
+fee889d2a98c
+first citizens bank|senior data engineer - spm solutions (remote)
+flywheel|senior data engineer
+guidehouse|platform engineer/devsecops
+healthverity|senior devops engineer
+hexcel corporation|senior azure cloud engineer
+honeywell technologies|sr data engineer
+ibm|entry level cloud infrastructure network monitoring and automation software engineer - san jose, ca - 2027
+jefferson health|expert software engineer – ai devops
+knowledge builders inc|hbits-08-15062-cloud engineer- mid-level
+metas solutions|data engineer
+mission technologies, a division of hii|devops engineer - $20k sign on bonus - 30121
+modern technology solutions, inc. (mtsi)|platform engineer
+netflix|data engineer (l5) - ads
+new york life|senior associate - cloud platform engineer
+nscale|data engineer
+nvidia|senior devops engineer, cloud simulation infrastructure
+oddball|senior devops/sre engineer
+plymouth rock assurance|senior data engineer
+raft|senior devops engineer
+remotehunter|platform engineer l2
+remotehunter|senior data engineer ii
+saic|devops engineer
+spacex|production engineer, site reliability (application software)
+steerbridge|junior data engineer
+teacher retirement system of texas|data engineer (intermediate or senior)
+the swift group, llc|platform engineer
+the swift group, llc|senior devops engineer
+the walt disney studios|senior site reliability engineer
+themesoft inc.|data engineer with databricks
+torc robotics|software engineer, ii - data engineering
+trafigura|python engineer, beacon – gas, power & renewables technology
+vt group (vtg)|senior devops engineer
+waystar|senior site reliability engineer ii
+west monroe|senior data engineer
+zions bancorporation|software engineer - cloud and devops
+zipline|senior analytics engineer
