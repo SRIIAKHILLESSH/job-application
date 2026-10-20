@@ -2178,3 +2178,105 @@ world wide technology|senior cloud engineer
 xemptify|data engineer - associate
 zachary piper solutions|data cloud engineer - 176795
 zachary piper solutions|sr. devops engineer
+02096d5d1560
+084cb97176a5
+0a278d8df98d
+0e8b0e9959c2
+1034a3e2e043
+113b69c8a09d
+22cac139a67b
+2a486a37d43a
+31d4a600e255
+3b29559e3aee
+42982eff7ef5
+44e0199b8cfc
+46ab13879e65
+49227509e523
+536be244dbb6
+55061de48d5e
+61168572b68b
+6c1a7863501a
+6c9e2cf3d425
+6d62aa65185d
+76130136a378
+768e55fc10b3
+7ce30f87cbbd
+809aa9f2c152
+81556e393263
+81bfda38d335
+84f2f1fba5d0
+8a338828840a
+922c7299912c
+951390520846
+98948422ebd1
+9956e5beb25c
+a2b6339305b4
+ad695733ee00
+af98e2d1b736
+ahead|data engineer
+anduril|classified platform engineer
+apex|cloud infrastructure engineer
+augeo affinity marketing, inc.|devops engineer
+avantor|cdp system developer (customer data platform)
+b8305e9eaeb0
+bdd438a30c3f
+be0f1448bb2a
+boeing|senior devops developer
+booz allen hamilton|rag data engineer
+c29de9d789a3
+c2fc32f20cff
+c649d8cb832c
+cbd20a67e032
+city and county of san francisco|cloud engineer (1042) – department of technology
+daikin comfort technologies mfg inc|data engineer 1
+e523c7c09112
+e9a107659afc
+e9c011caf160
+eca507666c0a
+efcf22fef79b
+f68ce88fb86a
+f847695dfd71
+f8524fc4614c
+fac181e956e1
+freshfields|senior data platform engineer
+general dynamics information technology|aws cloud engineer
+google|ai data engineer i, professional services, google cloud
+google|cloud ai data engineer ii, professional services, google cloud
+hakkōda, an ibm company|devops engineer
+hiredbuddy|data engineer
+ic resources|senior solutions software engineer: python/api (client-facing):  $150-190k
+ignite fueling innovation|devops engineer
+j2b global llc|senior systems analyst – azure devops (ado)
+jobgether|senior cloud infrastructure engineer
+jpmorganchase|software engineer ii python
+lambda|senior cloud infrastructure engineer, cloud foundations
+lids|cloud platform engineer
+ltm limited|devops engineer aws terraform
+ltm|devops engineer aws terraform
+mainehealth|data engineer - it enterprise data management
+motion recruitment|python developer
+national indemnity company|azure cloud engineer
+navitas business consulting, inc.|26-1106:  python developer - herndon, va
+place|senior aws cloud infrastructure engineer
+power home remodeling|data engineer
+raytheon|senior. platform engineer devops- (onsite)
+realign|github enterprise devops platform engineer-6
+realign|senior ai data platform engineer (contract & fte both)-7
+referment|systems: cloud engineer (5ff6852)
+salesforce|production support engineering - cloud devops engineer smts
+secretaria de serviços prefeitura de são paulo|python developer
+software guidance & assistance, inc. (sga, inc.)|python developer
+specialist staffing group|cloud engineer
+srm technologies|python developer
+storagemart|data engineer ii
+talentola|python developer
+tata consultancy services|python developer with report trading experience
+tata consultancy services|senior data engineer
+the hartford|data engineer - google cloud platform
+the inland real estate group of companies, inc.|senior analytics engineer, enterprise analytics
+two six technologies|devops engineer
+virtual service operations|cleared azure o&m cloud engineer l3
+walkme|devops engineer
+walmart global tech|senior, software engineer – python, gen ai developer
+wipro|devops engineer l4
+zachary piper solutions|senior cloud engineer - 175244 - 175892 - 176435
