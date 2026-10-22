@@ -2596,3 +2596,167 @@ west monroe|data engineer
 wiraa|data engineer
 wize solutions llc|data engineer- mid level
 xpertdox|senior devops engineer
+06fc5b341049
+081421e7ae76
+0add2a9b0ac6
+0e969c739152
+1272b6eb8776
+1276315f541c
+14909701834a
+1e173641bc6b
+1fae8e85af20
+27e670d4375f
+2c62f0694834
+2d614dc4b92c
+2f5d77f16ff3
+31096007f781
+332b56361ad8
+334ffefb3eb1
+3801644d6a04
+39fc13311712
+3aee8a8647cc
+3b107b7cf38f
+3c699b7cc70a
+413a59ce010a
+41f54ce9df44
+47088f14ca11
+4a1f74b812d7
+539e3e693bce
+56dac7b2a74e
+5ec524f4293f
+61095974eec8
+6795a700353e
+6b10f9e88806
+6fbaf8de337e
+70d417768aba
+7539d20bd21a
+75b6eba99571
+768a97594972
+79fc9444b8ab
+7b5e3f06aaa5
+7b9e1df42027
+7e470e52fd63
+893236951c6c
+895a232b485c
+8be244641bfb
+93b062145426
+9b5bcc91d324
+9c98caf99d7c
+9d1793df0232
+9f1bd2281a9e
+a18ef197f1f6
+a65cde91b57d
+a8b42c977a30
+aab1ba6ee687
+accenture federal services|devops engineer
+ae3ed4e9f349
+airbnb|senior data engineer, payments
+ais (applied information sciences)|aws cloud engineer
+aline|analytics engineer - data platform
+allstate|data engineer (remote, us)
+amazon web services (aws)|data engineer ii, aws partnerships
+amazon|data engineer ii, gmac fp&a
+amazon|data engineer ii, opstech team, ots anchor team
+american business solutions inc|data engineer
+american lung association|data engineer
+anavation llc|senior cloud platform engineer – remote
+andeco institute|cloud data platform engineer
+applied intuition|senior software engineer - python
+ascendion|senior software engineer – azure, python & data engineering
+b0b70b994e66
+b1725f74018b
+b198d37516ba
+b398e0b0b559
+b83b3d2f93a5
+b8ef66cd2b41
+b9e45c06c8a3
+badfd1b9be7a
+baker tilly canada|senior cloud engineer
+bigbear.ai|data engineer
+blueprint technologies|ai data engineer and power bi
+bowman consulting|devops engineer - remote, us
+brown brothers harriman|braid cloud engineer
+c2537d08e185
+c3b779b000da
+c5492962de03
+c74fc9fc2faa
+c908c6936d5a
+carpenter co.|data engineer
+cb7bc72ddc28
+ccd0ece5024e
+cd517d2565cf
+cea500fbdc83
+chdi|cybersecurity & cloud infrastructure engineer
+chewy|software engineer ii - python
+children's health|analytics engineer ii (microsoft fabric, epic cogito, power bi)
+clear|data engineer ii, analytics & modeling
+colgate-palmolive|sr. data engineer
+connectone bank|senior data engineer
+corient|senior data engineer
+creospan inc.|senior python engineer - data
+crusoe|senior microsoft cloud infrastructure engineer
+d300639d8f1d
+d365b8f48f88
+d5893ec8b749
+d5b51838f890
+dc151f009d92
+deloitte|data engineer ii - databricks
+delta electronics americas|devops engineer
+ea0af6a780ce
+ef7b8586f794
+enlighten|devops engineer (hybrid) - 30701
+enlighten|devops engineer (hybrid) - 30778
+eximius systems|devops engineer
+f7e7223a3ccd
+f95dcece16bf
+fanatics|senior platform engineer - core
+fct|senior data engineer (onsite)
+fdfe09229a07
+fe668fd29973
+fefcfbe1b984
+fiserv|devops engineer
+homes.com|senior analytics data engineer - homes.com
+insight xcite|data engineer
+jcs solutions llc|multi-cloud engineer sme (azure/aws)
+jcssolutions|multi-cloud engineer sme (azure/aws)
+jll|senior data engineer
+k health|data engineer
+koniag government services|platform devops administrator (remote)
+latitude ai|software engineer ii - offboard python application
+lewis energy group|data engineer ii
+lighthouse autism center|data platform and bi engineer
+matlen silver|python developer
+mission technologies, a division of hii|devops engineer (hybrid) - 29377
+mission technologies, a division of hii|devops engineer (hybrid) - 30778
+mphasis|multi-cloud engineer
+netjets|analytics engineer (njus)
+nordstrom|engineer 1: cloud engineering (hybrid - seattle, wa)
+nou systems, inc.|data platform engineer
+ns2 mission|data engineer (senior/expert)
+ntt data|cloud devops engineer
+optum|senior software engineer -  python ,mvc-remote
+optum|senior software engineer - python ,mvc-remote
+pds tech commercial, inc.|senior sql server data platform engineer (manufacturing systems)
+peraton|devops engineer
+quality automotive services, inc. valvoline instant oil change franchisee|senior systems and cloud engineer
+rochester regional health|rit co-op: data engineer
+ryan|senior devops engineer
+saint francis health system|analytics data engineer
+salesforce|software engineer, dns & cloud infrastructure
+skydweller us|devops engineer
+smx|site reliability engineer (5757)
+spring arbor university|devops & infrastructure engineer - level i
+spring venture group|devops engineer i
+state of oklahoma|data engineer ii
+stratolaunch|avionics data engineer - payloads
+synechron|full stack python developer
+synergy business consulting, inc.|cloud engineer
+talan|senior data engineer – energy trading & cloud data solutions
+the lubrizol corporation|cloud engineer
+the ohio state university wexner medical center|senior data engineer
+thomson reuters|senior data engineer
+trexquant investment lp|devops engineer (usa)
+universal background screening|devops engineer - remote
+upmc|data engineer, senior
+vision square inc|senior tableau and etl developer
+voto consulting llc|aws cloud engineer
