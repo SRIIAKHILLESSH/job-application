@@ -3046,3 +3046,183 @@ trane technologies|data engineer
 trusted space, llc|cloud engineer
 virtual service operations|cleared azure devops engineer
 viva|linux- devops engineer
+0473a7f98ce1
+0523e5e45c55
+065bfb30f8f2
+06d8d33c422a
+06f0c4038068
+07949b46c8e0
+0839615d258e
+084972099ae3
+1017f1ec9495
+13d7636a60b0
+142c42287b57
+14929df56eb9
+161cfeb9ad31
+196a91a84684
+1b6d7ff364c3
+1bc9a546d50d
+2-cm technologies, llc|devops engineer - swe2
+216dda6ddd43
+244f576efa67
+281f7ee9efa1
+28aea2a48b0c
+2be428bf80f1
+2c3f44fd0a19
+2e21281d50a4
+34c01de56f73
+3625e2f83148
+388d81cffb67
+3ec8533dbc12
+3fac856f9ae9
+410547099dcc
+44e87fda24d4
+456b64173bb0
+457b4c9eea48
+4be93a466c10
+5244a1fc844d
+595e12334b77
+5b6c932f9ac8
+61713a5c349d
+664619503387
+69e6b23f6752
+6d14a4c437fd
+6db4ab8a1a13
+72df5660cc23
+76a2629186ab
+804e66de8771
+839560366fd9
+86f09bc0f9e8
+8784c817e750
+8d27de3b8188
+8d8e7f269f8a
+9230505e3de0
+99914d3b546f
+9ae8a1e64a1b
+9c7f6bb5bced
+9d33a08fedf0
+9e6404177550
+a04a3081be88
+a2 federal|secdevops pipeline developer, python expert
+a2d7e48d3760
+a7a5e452c045
+a9a1e315c374
+aa06d520916b
+aarp|data engineer
+accenture federal services|data engineer
+accenture federal services|senior devops engineer
+addx corporation|data engineer (streaming & sensor data)
+agile defense|data engineer - honolulu
+agile defense|data engineer - omaha
+agile defense|data engineer - st. louis
+agile defense|data engineer - tampa
+air apps|devops engineer mobile
+akina, inc.|cloud software engineer 3 - (aws, devops, hadoop)
+apple|devops engineer, retail and marcom engineering
+aquila technology|devops engineer
+b2a9f10405d3
+b54bdd29d3a3
+bba64aead320
+bd33d600dd08
+benchmark|data engineer
+betterup|senior analytics engineer
+bluewater federal solutions|cloud engineer with security clearance
+brmi|real estate lending data engineer
+c72965db4a99
+c7b2c6c1b115
+c7f98f703d54
+c9a18b29aaf0
+cea04d65a8f2
+cecfe917a081
+chenmed|senior data integration engineer
+christ panos food corporation|data platform engineer
+coderio|senior data engineer - usa
+d38dee83fc56
+d874b2ed9a77
+da77ab3e4cf8
+darley|data engineer
+deloitte|aws cloud engineer - software engineering solutions - top secret clearance
+dexter technologies inc|analytics engineer direct hire hybrid
+digi international|sr dev ops engineer
+digital technology international|data engineer - okemos/farmington hills, mi
+drw|cloud engineer
+e205c5977356
+e41cc1fac713
+e6575a3b6533
+e8ce8dacc36e
+ebd0ffc13bd1
+ec295fd8bcae
+ec9f5cc2f358
+erias ventures|enterprise - senior devops engineer - kubernetes, aws, linux
+evolver inc|network devops engineer
+f123b482f992
+f38bc2da210e
+f3d0f98229b6
+f4ca9a0e4ddc
+f9946550eb73
+fb59e20ee65f
+fd0b87aee98a
+fd2fa5dfe859
+ff265db4af69
+ffe5344dcde1
+fictiv|senior data engineer
+first citizens bank|data engineer ii
+gopuff|analytics engineer
+guruschools|network site reliability engineer(sre)
+handshake|senior cloud engineer, agentic infrastructure
+hansen technologies|devops engineer
+harnham|senior analytics engineer
+hcltech|python developer
+homeservices of america|sr data integration engineer
+i4dm|azure data integration engineer
+i4dm|devsecops / cloud platform engineer
+indeed|data engineer ii
+infoorigin inc|azure databricks / synapse data engineer-hybrid- indianapolis in
+infosys|data engineer
+intime infotech inc|python developer(onsite interview /w2)
+iron bow technologies|voice/data engineer
+kforce inc|devops engineer
+kindercare learning companies|senior data engineer - remote opportunity
+koch|cloud engineer
+koniag government services|jr developer – devops & bi dev focus ( remote)
+lennar|data engineer | talent community
+lockton|sr cloud engineer - finops - azure cloud platform
+magna international|data engineer, smart factory solutions
+mantech|senior devops engineer
+medpace|junior data engineer
+netflix|analytics engineer 5 - content & studio
+netsmart|senior devops engineer- onsite overland park, ks
+ninjatrader|marketing analytics engineer
+ntt data north america|aws etl data engineer - remote
+osi systems, inc|test and data engineer
+permitflow|senior analytics engineer
+pharmalink, inc.|senior data engineer
+plante moran|ai data engineer
+prepass, llc|devops engineer
+prestige staffing|senior python engineer
+pwc|managed services - data engineer - senior associate
+red cat holdings|aws cloud engineer
+redline performance solutions|cloud devops engineer
+remedy|senior analytics engineer
+saic|cloud engineer
+silverthorne advisory group, llc.|dow data integration engineer | 2+ yrs | dc
+smartrent|devops engineer
+smith arnold partners|cloud engineer
+spacex super intelligence|analytics engineer - x
+sphinx defense|senior devops engineer
+superhuman|data engineer, business units - go
+synergy bis|devops engineer
+teamviewer|senior devops engineer
+techead|software engineer - python (fully remote)
+the honest company|senior analytics engineer
+thermo fisher scientific|data engineer
+tmc technologies|python developer (cybersecurity) with security clearance
+torentify|python engineer
+travelers|data engineer i (aws, databricks)
+two six technologies|senior devops engineer
+vantor|devops engineer (ts/sci)
+veerteq solutions inc.|ab initio / etl developer
+veriipro|senior python developer
+vertiv|data engineer - cloud/ai
+virtual service operations|cleared cloud / devops engineer - l4
+vision square inc|azure databricks & synapse data engineer – pyspark, spark sql, delta lake
