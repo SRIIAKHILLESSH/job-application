@@ -3704,3 +3704,83 @@ vanda pharmaceuticals|cloud infrastructure engineer
 visual soft, inc|senior data engineer - top secret - onsite
 vitol|data engineer
 youversion|data engineer
+02dfa90064f3
+07850fd6fa62
+09dc59e22269
+0e5b39575495
+12c6d05895e6
+14cb090b77fc
+14eed82a6816
+17f24e1673d5
+18e7f44ec5e4
+1f365ef93f5d
+250f54faa8b7
+299e6650ebed
+4dd1fe67ca6a
+514e85f6baa6
+5534153b4e27
+5ccee97b7038
+695070cfb800
+7a1c8cbfa32e
+80849c7ac9e9
+849f10c80f61
+86dad0d83749
+88affaa73387
+8925c08cc76f
+8f13f2647400
+air communities|senior data engineer
+b1d1a98a38cf
+bc252f813acc
+bf9863835693
+brizzi systems s.r.l.|ingeniero de devops cloud
+c1efcf0f40f0
+c3583767b5f5
+c5bdeebcabf4
+c9939f39e13b
+castalia systems|devops engineer tech 4
+collins aerospace|software engineer ii - devops / infrastructure (onsite)
+comtec information systems (it)|senior data engineer
+d34f0117f1ac
+d3ff57927506
+da458023f38d
+dale workforce solutions|senior b2b data engineer
+dc7cfcc2e269
+dcca|devops engineer 3 with security clearance
+devrev|senior data engineer
+e1dc5b9907c3
+e4494c8e304a
+e61ae2f0222d
+e851b668e0bf
+edpsi|python developer consultant
+ee8f46e1a14e
+elevate technology group|devops engineer
+engine|devops engineer
+enlighten|devops engineer - $20k sign on bonus - 29365
+enlighten|devops engineer - $20k sign-on bonus - 29266
+fieldai|software engineer, data engineering
+ford motor company|senior software engineer — devops & platform, ai systems
+gen|senior data engineer - data platform & martech engineering
+heritage construction + materials|senior data engineer - databricks (no sponsorship available)
+ice|senior data engineer
+jobot|ai cloud data engineer
+kaizen soft solutions|devops engineer
+optum|senior data engineer
+phoenix operations group|senior devops engineer | ts/sci
+qualcomm|application/devops platform engineer
+ralph lauren|devops developer
+ronaj recruitment|cloud software engineer (python-typescript) us citizen or gc holder
+rustlabs|senior software engineer, ai evaluation (python / typescript / go)
+spacex|sr. site reliability engineer (starshield)
+staples|senior data engineer, supply chain & ai - onsite framingham, ma
+strategic data systems|senior systems engineer (data engineer) with security clearance
+tata consultancy services|aws data engineer
+torentify|ai software engineer (python) - 100% remote
+torentify|data engineer - remote
+torentify|data engineer, sr. - wfh
+unified technologies|ai infrastructure & cloud engineer
+vtg|data engineer with security clearance
+vtg|devops engineer with security clearance
+vtg|senior devops engineer with security clearance
+wolfe, llc|data engineer
+workday|senior software development  engineer, devops (us federal)
+xlent it service llc|data engineer
