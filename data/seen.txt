@@ -3600,3 +3600,107 @@ vrtek consulting inc.|senior python engineer
 white & case llp|databricks engineer
 wingstop restaurants inc.|data engineer
 ziosk|devops engineer (on-site)
+1085c6c9fdf8
+185b23fcaa83
+23079794c1f6
+2319a3808c59
+2373f0f4d363
+27707afca7f2
+277b0d7c84f2
+2ac32ba44387
+2dea85746432
+31bc539d98a1
+36e3effd2345
+438f5475c46a
+47396ec82f88
+475aafe30112
+4a89aa6b955b
+4f2b7e793c53
+502ef8915eaa
+584e74b78bd0
+5b4bdbaccb13
+5cb39bddc974
+608b0acf0b16
+61bfe1be1a64
+67f69d92c950
+78bf5a8dfa55
+7db46c0d0e02
+82c01b25f954
+854a4c6922c5
+8e262b18d8ab
+9130c825a517
+968c93ceb387
+980ad36aed5e
+a32d58256aa7
+a8d73e32835a
+afe43ef0d4a7
+amazon web services (aws)|environmental data engineer, aws environmental
+amway|data engineer - amway north america market
+apple|senior platform engineer, find my
+apple|senior site reliability engineer - apple services engineering / icloud
+apple|site reliability engineer - apple data platform (adp)
+apple|software engineer - aml - ai & data platforms
+apple|sr software engineer (developer advocacy, genai), ai & data platforms
+archer|data engineer
+avanade|consultant, cloud infrastructure
+b0d68ea07aef
+b537f14ffd54
+bcbcba5de67b
+bd514d09a9c8
+beaconfire inc.|junior data engineer
+berkley|data analytics engineer
+big wave digital - usa|senior backend engineer | python, systems design & llm agents | san francisco / remote usa | up to $300k + equity
+big wave digital - usa|senior backend engineer: python, systems design & llm agents | remote austin | up to $300k + equity
+boyd gaming|cloud engineer
+c13a6d814d8b
+c9e764cac182
+capgemini|senior data engineer
+capital one|data engineer 4 (python, aws, sql, genai) (enterprise platforms technology)
+castalia systems|azure infrastructure support (o&m cloud engineer) tech 3
+cgi|data engineer
+cretex companies, inc.|it-analytics engineer
+d134dda5272e
+d85bfc100852
+da3e503c3238
+deloitte|gcp cloud analytics engineer
+e2d199a58eab
+e415cd3b37e5
+e9cee1fdffb6
+ea07dfeb17cc
+ea5158993199
+ecs|jr data engineer
+eeb8cfaf995f
+exiger|platform engineer, public sector
+f25e1b078bc5
+f886ee126f0e
+fab9ea596f3b
+faire|senior product analytics engineer - ads
+flowserve corporation|data engineer ms fabric
+georgia-pacific llc|sr data engineer - databricks
+gibson dunn|senior data engineer
+grambling state university|senior devops engineer - (it stwd sr engineer, asp 50691427)
+hdr|data engineer 2
+icapital|python engineer and developer - associate
+koniag government services|junior cloud engineer
+mantech|data engineer
+medpace|data engineer (ai) - cincinnati
+michelin|data engineer
+ncino|senior platform engineer - cloud infrastructure
+neogov|senior cloud engineer
+nunez community college|senior devops engineer - (it stwd sr engineer, asp 50691427)
+paramount|analytics engineer
+per scholas|data engineer
+princeton university|cloud infrastructure engineer
+princeton university|data engineer
+redwood materials|senior devops engineer
+rocket lab|senior software engineer i - data engineering
+scale ai|senior data engineer, public sector
+simplepractice|senior analytics engineer, marketing sciences
+sphinx defense|devops engineer
+starbucks|data engineer sr
+ust|junior data engineer
+valorem reply|data engineer
+vanda pharmaceuticals|cloud infrastructure engineer
+visual soft, inc|senior data engineer - top secret - onsite
+vitol|data engineer
+youversion|data engineer
