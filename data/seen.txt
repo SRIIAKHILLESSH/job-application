@@ -3784,3 +3784,101 @@ vtg|senior devops engineer with security clearance
 wolfe, llc|data engineer
 workday|senior software development  engineer, devops (us federal)
 xlent it service llc|data engineer
+1438f44bc030
+15744d9bba24
+187378027a9f
+1e0630b817b0
+2099a902e848
+251dd6fd71fe
+340e985bb693
+37ee6f6594b8
+3842738bb719
+3pillar global|senior software engineer (react + python or .net) req_84
+4017b6761f14
+4178c517caa8
+449cadd55e20
+4a4d77b71035
+587ce7678d84
+5da60814f5fb
+5dfbaf00299e
+60a5136ce59f
+662517054cc4
+6aa7c7a3154c
+6e8f43e9b2f4
+7037a42a4ab2
+7927c2a0c02c
+7a47899adc5a
+7ace10c1e373
+803f36b877ea
+838ee4aee005
+98a0b86da3e7
+9c58f55e3d10
+9c8b8a57634d
+a03cc2c410be
+a60ec53109d1
+aa3aa97e633a
+agilite global solutions company|senior data engineer
+apple|sr. data engineer - services special projects
+areti group | b corp™|data engineer
+asylon|ai data engineer
+asylon|site reliability engineer
+atlas tech|senior microsoft azure cloud engineer
+b207e9baf4b5
+b56524812f6b
+bf3d6b97f4c8
+biospace|data engineer - lilly medicine foundry
+booz allen hamilton|data engineer, senior
+c6a833468797
+c6e1799f1b45
+c82540b37a9d
+c982e9dc32e1
+controlup|devops engineer
+critical solutions|data engineer (w/ active secret)
+curant health georgia llc|data engineer
+d2f4130382e2
+d4abb76b1104
+d67af888a529
+d8aff32f3da2
+d935c2d0ead7
+duke health|developer - etl cloud data engineer - level 2
+e0722152b6bb
+ec73b0cc99ff
+eko|senior software engineer, devops
+enlighten|platform engineer (hybrid) - 27674
+f27c7ca54523
+f9d48994b77a
+fc082a1413dd
+gcyber|aws cloud engineer with security clearance
+general dynamics information technology|data engineer-sr
+haystack|cloud engineer
+huxley|cloud platform engineer
+indianapolis colts|data engineer
+infologitech|databricks engineer
+iron eaglex, inc.|data engineer-sr
+jacobs|devops engineer
+jcs solutions llc|multi-cloud engineer sme (azure/aws) with security clearance
+jst|azure cloud engineer
+kodeva llc|senior data engineer with snowpro certification
+lunon|forward deployed data engineer
+marlabs|cloud engineer
+matlen silver|aws cloud engineer
+microsoft|devops cloud engineering consultant- ctj- ts/sci
+nearform|senior software engineer - python & ai
+op recruiting|sr. data engineer (up)
+paperless parts|platform engineer ii
+quanex|senior data engineer
+saic|google cloud platform engineer
+signify technology|senior cloud engineer
+symbotic|senior data engineer
+synechron|sr. data engineer
+tablet hotels - the hotel experts at michelin|devops engineer
+talenthop|mid-level microsoft devops engineer (remote)
+tech valley talent|cloud devops engineer
+tiktok usds joint venture|data engineer, video platform
+torentify|devops engineer - work from home
+vidha it solutions llc|data qa engineer - databricks etl testing
+wiraa|data engineer - remote
+wiraa|devops engineer
+worldstrides|senior etl engineer
+wss associates|senior backend engineer (python/fastapi/graphql)
+yoh, a day & zimmermann company|cloud engineer, microsoft 365 and google workspace
