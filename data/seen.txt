@@ -4100,3 +4100,95 @@ workday|sr devops engineer
 xaxis solutions|senior informatica etl developer
 zachary piper solutions|cloud engineer
 ziegler caterpillar|data engineer (on-premise)
+02577d368e73
+053cf4bc2bbc
+084be62befb0
+11c9cff74ad7
+11cc3f76877b
+142a60e47ae6
+14add8725000
+277aab5fb265
+2bd428e262fe
+2c37a06cefc8
+2cb0b9d19a28
+3926d022a095
+3fea8653fe05
+49d91d138494
+5aec159c5eb9
+5f08cc94c3fa
+623b0c6dd53d
+63e7e80d937b
+75cc6408f1d7
+79ad8b129297
+7a8f58d7addb
+7b3a3e917747
+7f0e4860ab7f
+7f0e93b2859c
+81a4c58f5a03
+825fc3bc387a
+8bffecd95a70
+8d45e059d059
+9560ad7f8e91
+96fc793c3633
+9cb5fd622945
+accenture federal services|cleared data engineer
+actively|data engineer
+adnet systems, inc|it054 cloud devops engineer
+all cares|senior databricks devops engineer
+amh|senior data engineer
+b&a|senior devops engineer
+b83d026342e2
+baker tilly canada|associate data engineer
+cd47a985ef0b
+ce645f885aa2
+cincinnati children's|data engineer ii
+cintel inc|data engineer (sme)
+cintel inc|devops engineer (senior)
+cloud seven technology|sr. system administrator / dev ops - linux kubernetes
+comcast|senior backend engineer (python or php)- new york - onsite 4x week
+cricut|analytics engineer
+da297ec44230
+dbf101c9b32d
+deloitte|databricks engineer - data engineer ii
+e38d3372fef6
+e52898a958a7
+e94aa3d0d13a
+ee74fc504848
+f026997227ec
+f5606ed094e1
+f59c6634e7b6
+f9cbdfd67913
+fbfff3026507
+ff5a6711ceff
+first tech federal credit union|data analytics engineer( finance and accounting)
+foot locker|data & analytics engineer
+fusion innovation|senior cloud engineer
+fusion innovation|senior systems engineer - security & data engineering
+harman international|principle data engineering - enterprise platform
+hdr|analytics engineer
+horizon3.ai|senior product analytics engineer
+huron consulting group|data engineer (devops / dataops / delivery engineering) — sr. associate
+ibm|data engineer-data platforms-google - 1
+ibm|data engineer-data platforms-google - 3
+ibm|data engineer-data platforms-google - 5
+kargo|senior analytics engineer
+langchain|analytics engineer
+laurel|sr. analytics engineer/ data scientist
+lmi|devsecops/cloud engineer - clearance required
+mind computing|devops engineer (remote opportunity)
+montage tech partners|devops engineer
+norm ai|senior analytics engineer
+pluto tv|senior data engineer
+rivian|sr. people analytics engineer
+robotics technologies|sre/devops
+rockwoods inc|data analytics engineer
+servicenow|senior software engineer - data platform
+talenthop|senior analytics engineer
+the marlin alliance, inc.|junior data engineer
+tista science and technology corporation|devops engineer
+trexquant investment lp|c++ market data engineer (usa)
+troveo ai|data engineer
+usaa|data engineer - senior level
+versant media|data engineer ii
+vtg defense|sme software / data engineer
+vysystems|data engineer
