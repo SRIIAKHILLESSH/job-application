@@ -4192,3 +4192,177 @@ usaa|data engineer - senior level
 versant media|data engineer ii
 vtg defense|sme software / data engineer
 vysystems|data engineer
+0131d11c8628
+025b8f1a2c6b
+03f9ced0bf05
+065f17af490b
+0758ea4960b5
+0eb3f5fd4da5
+120cd70f0a3d
+1336b5e24e35
+13783d1071e0
+13bc4fbe0e64
+1b06f2233b92
+1d199c0732f9
+1e071f52c0de
+238ee249aaa9
+2af32f3babd2
+2b5e26690ff8
+2daa995c832e
+2f38352c06bb
+2fbdceb3a55a
+3120caf4e07e
+317e08866f65
+321f577faa30
+391524778161
+44de71eabd4e
+466288e944b9
+46c0069a783b
+487c75d31783
+48c56af8052c
+4c44502f66d1
+50ea03db39d8
+52fc6e385023
+559832d7e554
+55f37c72b0e6
+566c0471732c
+5a14d3147e0f
+635782071794
+6494e79084af
+66255ebfeba0
+671820c42d3a
+6a65cf5a79f2
+6b9a907ccf2d
+6bef47dcbda8
+6cf27db3f8eb
+7134422294eb
+7138c926e148
+72811cf7e5a8
+77b811b11c1b
+77c6ad9ab3ee
+7804d4a87912
+79427d36d849
+7aa42b285c6f
+7fdcbfb7228d
+812536e57268
+84f73d4af5de
+8517022ee675
+853a1f1e6e3c
+89314ab4e055
+8be63b996aa2
+8e777ddb70ef
+8f5701f8e64d
+95c3b3e20fcb
+974daa693fd6
+9b89fea321e6
+9dae0170295a
+a26516213d33
+abc legal services|devops engineer
+abeb79b9b536
+accenture federal services|cloud platform engineer
+actionet, inc.|etl /data engineer
+actionet|etl /data engineer
+actionet|python developer with advanced sql
+ad5a07a98219
+allied benefit systems|senior data engineer
+amentum|cloud engineer mdx - ssfb
+anavation llc|aws iac cloud engineer
+anavation|aws iac cloud engineer
+apptad|python developer
+aravo solutions, inc.|devops engineer
+b0311267b69f
+b74ff7608ec9
+baltimore banner|senior data engineer
+be3f0348b353
+booz allen hamilton|devops platform engineer
+brilliant infotech inc.|aws cloud engineer
+c23697f24130
+c2fdc4d0db51
+c767ccc3c274
+cgi|aws cloud engineer – digital asset management (top secret)
+chaos industries|senior cloud infrastructure engineer
+chartmetric|data engineer
+cintel, inc.|data engineer (mid)
+cognizant|ai-aware data engineer
+colgate-palmolive|data engineer
+crypto.com|senior devops engineer, united states
+d16ad6aa51dd
+d7d138bf9481
+da77d49ec69b
+decagon|senior software engineer, cloud infrastructure
+deloitte|aws devops engineer
+e10799bad640
+e4a362843538
+e9f3e3538570
+ecclesiastes inc|informatica etl developer
+entarian|devops engineer
+esri|devops engineer i – azure
+ey|government and infrastructure - ai and data - data engineer - top secret clearance
+f1d2ff48e355
+f2416bdfba06
+f8a7966de793
+fa3b39eb6415
+fanduel|analytics engineer
+fantom corporation|senior devops engineer
+fb0d13b7c5c3
+fb325bd8a620
+fd78314c82be
+fe7dfb9fdbb1
+fis|devops engineer seniors
+flipside innovation|devops engineer
+general dynamics information technology|senior data engineer
+greatamerica|senior data engineer
+harbor compliance|analytics engineer
+harbor freight tools|data analytics engineer- remote
+hays|python developer
+hca healthcare|senior devops engineer
+ideal innovations, inc.|etl developer
+ingram barge company|sr. platform engineer
+innovas|senior devops & ai engineer
+iralogix|sr cloud platform engineer
+jobgether|senior python developer
+kareer basycs|junior python developer
+keeper security, inc.|senior devops engineer (il5 / fedramp high)
+kforce inc|analytics engineer - finance systems
+leidos|devops software engineer - ts/sci cleared
+levi, ray & shoup, inc.|data engineer - etl
+mayo clinic|senior data engineer - pharmacy
+md integrations|devops engineer
+medtronic|sr. software devops engineer
+mission technologies, a division of hii|devops engineer - $20k sign-on bonus - 29266
+mom's meals | a purfoods company|senior data engineer
+mom's meals, a purfoods company|senior data engineer
+motorola solutions|devops engineer (us remote)
+nextech solutions|senior data engineer
+ninjaone|senior devops engineer
+octus|devops engineer
+oneoncology|data engineer
+optum|associate data engineer
+optum|senior cloud data engineer - remote
+parsons corporation|senior cloud engineer / software developer - ts/sci w/ poly
+powerplan|ai data engineer
+prudentia sciences|senior devops engineer
+quevera|aws cloud infrastructure engineer
+remotehunter|data engineer / migration specialist
+ses corporation|devops engineer
+setec alpha|python developer
+shift4|data engineer
+solugenix|etl developer
+synechron|python developer with ai experience
+synechron|senior data engineer
+tailscale|analytics engineer, data
+the boston beer company|sr. bi data engineer
+the phoenix group®|data analytics engineer
+themesoft|onsite_gcp cloud engineer_irving tx
+tms llc|remote role: senior data engineer (genai / aws) | amazon bedrock | claude agent sdk | python | 14+ years of experience
+usaa|data engineer - mid level
+vaco by highspring|data engineer (snowflake, aws)
+vanguard|data engineer, specialist
+vay|senior analytics engineer
+verano|senior platform engineer (devops & release)
+vericast|microsoft cloud engineer
+virtusa|senior devops engineer
+vori health|jr devops engineer (100% remote)
+wells fargo|senior software engineer (python)
+western governors university|data engineer
+zscaler|ai devops engineer
