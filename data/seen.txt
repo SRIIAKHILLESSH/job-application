@@ -4366,3 +4366,155 @@ vori health|jr devops engineer (100% remote)
 wells fargo|senior software engineer (python)
 western governors university|data engineer
 zscaler|ai devops engineer
+0435f813faad
+07b2aa5502ec
+07cd170a3f07
+0803738c8e1a
+0e66170f4e1f
+150c06d7f846
+15c78501ebf9
+15f0c280a7a7
+18a1deaf1ca0
+1a18d78c053b
+1a25704bf1bb
+261e0454d3f1
+2630c6621061
+295f5f763f82
+2ace92201251
+2be24fec79f3
+2dc4989cc631
+2ead154bd85d
+34800c317207
+36ac72e7ac6b
+3782a0e8bcc3
+39923e17454f
+39af6a998d82
+3f0bb33f84ae
+427856ccfe9b
+43373390713c
+48afbe572ec8
+4e6f98d58860
+4fbbc4160dde
+506d929f329c
+5960ebf101be
+5b6743cbdc3b
+5ef351dc888a
+63afadc00192
+63d9b0f90fc1
+6d8ccddc7b5b
+6e57d6bdf9b2
+72693abfac0a
+784b5625d4f3
+7ad4e60fbbf7
+7af498ee22a2
+7cd637d7ae89
+7fa568e5bfbc
+8aabe945542c
+8ca7f72fc81d
+8cb86ba67474
+90d34d4c0fdd
+a12b3fc59a17
+a29f39e1c238
+a4cdb5bdd66c
+a5db51e69d96
+a6e4a723f36f
+acucyber|senior devops engineer
+af20c3a90e67
+afdba549bc02
+afl|etl developer (azure data factory/ms fabric) - remote opportunity
+ahead|senior devops engineer
+amawaterways river cruises|data analytics engineer
+amazon.com|data engineer, global logistics product analytics team
+amazon|data engineer i , ww ops finance s&a
+anduril|senior analytics engineer
+aspen technology|devops engineer i
+at&t|ai-native software engineer analyst, full-stack python
+bank ozk|data engineer, risk management
+bb3323020f53
+bdc92e0d3732
+booz allen hamilton|cloud infrastructure support engineer
+bti360|backend python engineer - polygraph required
+c405349a6215
+c80052c92071
+capgemini|databricks data engineer
+cardinal health|cloud engineer
+cc138a477e69
+cc3ca0966459
+ccb051ed9cf0
+cd7f9db1947a
+cf3999c06705
+cf8fd1ea1513
+code criteria labs inc.|genai cloud engineer
+cursor|data engineer, marketing
+d.a. davidson companies|azure cloud engineer
+d2b24d31ba63
+dae265397155
+datasite|sr backend engineer (python)
+deloitte|azure devops engineer
+deloitte|azure/databricks infrastructure engineer
+delta defense llc|data engineer
+dyne it and services|senior data engineer (aws | python | data platform)
+e3078a893934
+e50a51ba9f9c
+e60925507b56
+e768333709a0
+e8f3d06ca5a6
+ebc7e76646e2
+ecabbb1157df
+ecc18bed1c3a
+eci|devops
+emonics llc|backend python developer - entry level
+euna solutions|cloud engineer
+f7828b152b3e
+f88e03ea5d80
+federal home loan bank of des moines|cloud engineer
+fidelity investments|senior data engineer (snowflake, mysql, python)
+first citizens bank|senior data engineer - data platform (remote-nc, az, tx, fl)
+foot locker|sr data analytics engineer
+fwi (fedwriters, inc.)|cleared data engineer
+galent|python developer
+general dynamics information technology|analytics engineer
+genius ai|senior analytics engineer
+guardian pharmacy|senior data engineer
+harvey|senior analytics engineer, product
+i8is inc.|senior devops/sre
+ibm|data engineer-data platforms-google - 2
+icaai|data engineer (remote, continental united states)
+infosys|devops & ai platform consultant
+infotech|sr. platform engineer (remote)
+instem|associate platform engineer
+io associates|senior python engineer - market data, commodities trading (ny, ct or tx)
+jpmorganchase|data engineering, ai adoption and productivity
+kla|sr. cloud platform engineer
+koch engineered solutions|analytics engineer
+lazard|data engineer
+ltm limited|specialist - data engineering
+maximus|aws cloud engineer
+menusifu inc.|devops engineer (bilingual in mandarin)
+menusifu inc.|senior backend software engineer‒ data platforms & security (bilingual in mandarin)
+momentec brands|cloud engineer
+mouser|sr finance analytics engineer
+natural habitat adventures|engineer- data platform
+natural habitat adventures|jr engineer- data platform
+new york city department of sanitation|devops engineer
+nightwing|cloud infrastructure engineer
+oneamerica financial partners, inc|data engineer
+prime solutions group, inc.|senior devops engineer
+progressive|intermediate data engineer
+promevo|cloud infrastructure engineer
+quantinno capital management|python developer
+ramsey solutions|analytics engineer
+ramtec consulting llc|cloud engineer
+rtx|data engineer
+scientific research corporation|sr cloud engineer
+smart gate innovation hub|cloud/devops engineer
+systech usa|senior data engineer
+tactile medical|analytics engineer
+talenthop|analytics engineer
+technica corporation|cloud engineer, mid.
+tyson foods incorporated|data engineer i (onsite)
+u.s. tax court|devops engineer/full stack engineer
+university of north carolina at chapel hill|devops system administrator
+veridian tech solutions, inc.|python developer
+vsp technologies|it data integration specialist
+zantech|data engineer - secret clearance
