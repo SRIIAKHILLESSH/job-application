@@ -4518,3 +4518,185 @@ university of north carolina at chapel hill|devops system administrator
 veridian tech solutions, inc.|python developer
 vsp technologies|it data integration specialist
 zantech|data engineer - secret clearance
+007739b99c9b
+0345605b3399
+063e550adc28
+09675cb1ae25
+11852923fb78
+1883a926fd4f
+18a4a335fe85
+1cb998b0ad0a
+1d541a0ac69c
+1e7768953847
+2046c7dda32a
+215b059f3eed
+2382616eb821
+2597ef2d41fc
+278145c39247
+2805257651ee
+2a0a451da504
+2cf3a3a33dcc
+2d1ee6b4606f
+312e5fe089fc
+34b438b96f62
+35e5a75e9263
+3ab0ae109323
+4022dc1f00c3
+42839d4ca977
+43446c633351
+45a91846d12e
+4e9b15098a15
+5011be2698c2
+5b33bee1f2e5
+5da567517d3a
+5dc0afbec68d
+61332b940a7a
+6a802758ecfa
+733df5e6ecb6
+7f30f62ba121
+8a6ab9a4480f
+8bbeefc0d573
+9021577bac45
+9084ed1dd3ae
+97ea89c77e4c
+984b2079b4bf
+984d25cfa024
+9a4955cb1a6f
+9b2bebb11227
+9b4502d22e21
+9b8875956b66
+9d3702d13d89
+9e218e467945
+a1310b4b4f8d
+a156fced57cd
+a4af45b5f3bd
+abbott|senior devops engineer
+accenture federal services|cloud engineer
+acdc208d8bcd
+acestack|aws devops engineer || atlanta, ga onsite || fulltime
+adbee3797fe4
+afbd178cc0ec
+agile defense|data engineer - cybercom
+air apps|data engineer
+amazon web services (aws)|data engineer ii, aws marketplace and partner services
+amazon web services (aws)|senior data engineer, aws infrastructure supply chain automation
+amazon web services (aws)|sr. business intelligence engineer, aws analytics engineering
+amazon|data engineer i, fire tv
+amazon|data engineer, global logistics product analytics team
+anavation|devops engineer
+b0ea78ba133a
+b393a977076e
+b3d5899a1d52
+b458ea7b1fcc
+b5d9ba433f10
+b60a7253820b
+b874530e3522
+baker tilly canada|sr data engineer
+bam technologies, llc|devops engineer ii
+bba62a8a937b
+bfad6acf1c0f
+bfc4426656b8
+bigbear.ai|junior data engineer
+black book|devops engineer
+c31c0a93fae6
+c4a265bdf208
+c7c35afe6001
+catena operations ltd.|data engineer
+ccbea4b33ef6
+centene corporation|senior data engineer
+centurion|senior kubernetes/devops engineer
+citizant|cloud engineer (imds / msm)
+citi|python developer - avp
+cushman & wakefield|data analytics engineer
+cvs health|senior bi engineer (platform, databricks)
+d4801a72bb14
+d5451fe30382
+dc1815527dd7
+dc44823225ec
+ddcb073eaf13
+de3b4c365e8a
+de79739a16ce
+dechert llp|data engineer - philadelphia
+decisionpoint corporation|data/etl engineer (journeyman)
+decisionpoint corporation|data/etl engineer (senior)
+dew software|cloud infrastructure engineering
+disney experiences|data engineer
+division of administration-office of technology services|senior devops engineer - (it stwd sr engineer, asp 50691427)
+dynamo technologies|senior data engineer
+e0f449737f63
+e271b30ffd18
+e63c80b882b3
+e90f6b20c73b
+e9fcaa380b9a
+ed42d90eec98
+efef4d504086
+elevance health|data engineer (business information developer consultant senior)
+eli lilly and company|data engineer
+everfox|senior devops eng
+f43a058a7b7a
+f545803ea6b5
+f6817c5f341a
+fanatics|senior analytics engineer, topps digital
+fc99481c937c
+fct|senior data engineer (remote)
+fd77f19079b2
+fd9e71e38832
+ff4725c9c3a2
+ffbbb0ea0fd5
+fis|devops engineer specialists
+galent|senior data engineer
+gecko technology|devops engineer
+general dynamics information technology|senior devops ci/cd engineer – aws (devsecops champion)
+glean|software engineer, cloud infrastructure
+global payments|senior platform engineer, operational data store
+gpi composites|microsoft cloud engineer
+gsm - green sm|senior devops engineer
+hana cloud solutions llc|devops java engineer i
+hana cloud solutions llc|devops operational associate ii
+hana cloud solutions llc|devops sap engineer i
+hays|senior devops engineer
+heidrick & struggles|cloud engineer
+hudson manpower|senior devops engineer – mqtt/iiot
+ibm|data engineer-data platforms-google - 4
+ideal innovations, inc.|devops engineer
+ideal innovations, inc.|sr. devops engineer
+illumination works llc|data engineering & visualization specialist
+incedo inc.|data engineer - data modernization
+iralogix, llc|sr cloud platform engineer
+kaleidoscope innovation|senior software engineer - python / capital markets
+klanik|data engineer
+lawrence livermore national laboratory|development operations (devops) engineer
+leidos|sr. devops engineer
+ltm limited|specialist - cloud engineering
+maritheo technologies|cloud devops engineer
+mcafee|senior devops engineer
+metrostar|sr. cloud engineer i (6496)
+ngpartners|senior devops engineer 9715 - san antonio, tx
+notion|data engineer, product
+oneamerica financial|data engineer
+patelco credit union|devops systems engineer
+platinum technologies|hybrid multi-cloud engineer sme
+quantum technology group|netscaler automation / devops engineer
+radiological society of north america (rsna)|sql server etl developer
+raytheon|patriot software engineer ii, python development
+red river technology center|data engineer (elk)
+scale media|data engineer
+servco pacific inc.|data engineer i
+siemens|platform engineer
+sigma|data engineer
+smx|cleared data engineer (5786)
+snail games usa|devops / backend engineer (junior to mid-level) – egofold
+soilair selection|senior data engineer (teradata/etl) (secret clearance required)
+striveworks|hawaii - senior devops engineer (active secret clearance)
+swbc|analytics engineer ii
+synechron|python developer with ai
+tata consultancy services|platform engineer
+tata consultancy services|senior genai/python engineer
+tech ladies®|senior devops engineer
+tennessee board of regents (tbr)|data engineer
+the phoenix group|analytics engineer
+tyson foods|data engineer i (onsite)
+usaa|senior it change coordinator - cloud and devops
+visionary innovative technology solutions llc|python developer
+voltagrid|data engineer
+wipro|data engineer
