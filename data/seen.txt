@@ -5086,3 +5086,129 @@ united states senate federal credit union|data engineer
 ut md anderson|data engineer - enterprise data engineering & analytics
 visionary innovative technology solutions llc|python developer ( exp-10 y) with agentic ai exp-hybrid-full time
 zenithinfotek llc|python developer with aws
+0c520b7be4cf
+0e7e7ccd9f4d
+19b360acb2d8
+1f3dd608cd17
+1f5e739a041c
+2968da354cbc
+2b7ae9143dca
+2c44ec8d53fa
+2c534c84e363
+3056cd8d4427
+32f28e454bf9
+330e1b964f3b
+3f313a67d854
+40f30883dc35
+44533c0c27e5
+4daff97dbdf6
+52edf62a96c3
+58556b11dd03
+65a744484279
+6b5dd2317f42
+6bda088da06d
+6c38675d0dfe
+72fd477469c8
+7409cafcab09
+7720c1e78081
+785170d9f28a
+7c7e573de7ac
+804299426dea
+829d53448319
+86f3e48f8aca
+88c62f84ea22
+88c91ce7aae3
+89157bb64bd1
+94d55ae7b9fb
+9ae49ca75678
+9c7a871974b0
+9dfe6b4933b1
+9f9ed72986bf
+a200f7fc5661
+a53a69e790d1
+abc789c35a52
+ad6164ddb1b1
+airlife|data engineer
+ais (applied information sciences)|senior data engineer (analytics)
+altimate medical|sr. data & ai platform engineer
+american airlines|data engineer/sr data engineer, it analytics
+anthropic|data engineer
+assyst, inc.|senior healthcare data engineer
+b9328c6c5d20
+bd634edb1da4
+bf46f57225f9
+bfded92ea067
+c28a1459d12b
+c2fd759e4718
+c463b26f689d
+c4bb26bf5d94
+c75a0fcd5eab
+c78f863d0f5d
+c90e3380e3e2
+c9e9d111acff
+camgian|devops delivery engineer
+cash app|senior data engineer, product
+cgi|cloud engineer
+cgi|devops engineer
+cgs federal (contact government services)|cloud engineer (aws)
+cisco|devops engineer
+clearway energy group|senior analyst, analytics engineering
+collins aerospace|senior software engineer, devops - cloud (hybrid)
+comed|sr data engineer 1
+d141498cc230
+d6dba3bad5dc
+d8a8c06ca368
+da125f6bd6f9
+dataspring|senior data analytics engineer
+deloitte|cloud engineer, azure
+deseret mutual benefit administrators|senior data engineer - migration & quality - 1 year position
+deseret mutual benefit administrators|senior data engineer- 1 year position
+dff1c88e2256
+dhanu global enterprises, inc.|cloud devops & governance engineer
+digicert|devops engineer
+eee0fe009626
+exelon|sr data engineer 1
+f29abf964c10
+f943d1443fe6
+fac248d1a140
+fantom corporation|senior etl developer
+fis|data engineers
+foodsmart|devops engineer
+gitlab|senior backend engineer, core devops: container registry
+health first|bi developer i - data engineering
+icounter|senior collections data engineer (us-remote)
+inductivehealth|data engineer
+infinite edge, inc|senior sre / infrastructure engineer
+intec select|data engineer
+leidos|senior devops engineer
+leidos|senior devops engineer – saas integration
+lighthouse document technologies inc.|senior cloud infrastructure engineer
+mainspring energy|fleet operations & analytics engineer
+masterapp labs|healthcare data integration & automation developer
+matrix systems & technologies|data engineer
+mayo clinic|data engineer
+metrostar systems|cloud engineer (6851)
+microhealth llc|cloud engineer ii (planned position)
+mission technologies, a division of hii|devops engineer (engineer software 2) - 30534
+mission technologies, a division of hii|devops engineer - $20k sign on bonus - 29710
+monogram health|devops engineer
+motorola solutions|senior devops engineer (us remote)
+primewest health|etl developer
+qts data centers|senior devops engineer-1
+quadralynx|embedded devops engineer
+radx systems inc.|data engineer (azure | databricks | snowflake)
+renasant bank|mortgage data engineer
+resource management concepts, inc.|senior devops engineer
+sentara health|data engineer - remote
+sentara|data engineer - remote
+society of actuaries research institute|devops automation test engineer
+society of actuaries research institute|senior devops engineer
+spacex|sr. data engineer, ground network engineering (business analytics)
+tiger analytics|azure data engineer
+touchsuite|senior devops engineer
+university of south florida|data engineer ii
+virta health|senior analytics engineer
+virtual service operations|cleared aws mdm / big data (data lake) engineer (washington, dc)
+vystar credit union|senior cloud engineer
+west 4th strategy|junior data engineer
+whova|data analyst & data engineer (san diego only)
