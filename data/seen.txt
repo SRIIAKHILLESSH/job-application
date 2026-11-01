@@ -5314,3 +5314,105 @@ trane technologies|senior data engineer & scientist
 usaa|data engineer - intermediate
 western michigan university homer stryker m.d. school of medicine|it data engineer
 you.com|data engineer
+061e3468fb15
+10809e3ad9cd
+180ca1690f35
+223c87ff0b8b
+22f2304d0cf6
+264d47c06ad3
+2d67702c30ba
+32ca0565dd12
+3726bcda6eb8
+37e1a79b3a4f
+38908ce5014b
+39e88d7741b4
+3c9184558297
+41dd04481c03
+4aab9867d831
+4e9246f31b3a
+4ee26cfad16e
+51dc1305b40f
+560903c106c5
+59d896924aec
+5bcdb901dc65
+5eda0b3af5fb
+638c0826ce31
+695ba83c166a
+69d03cd0029e
+77defa22e20a
+79940bbe43ce
+7abae3564f16
+7da7f9808f0a
+7de47ca38576
+843a0b77b05d
+853af262f1fc
+9192a7cf6eaf
+928253d2173b
+96635a6a4091
+a249cef181de
+a4daa8abcdf3
+a8968ef814ff
+a9676b976f66
+acco engineered systems|data engineer
+amazon|data engineer, leo global business and customer operations
+apple|data engineer, apple ads
+b0481f929c92
+b6389a167291
+ba8d464691d3
+bae systems, inc.|data engineer_ splunk
+baf878ee286c
+bbda26838aa4
+biospace|devops engineer
+black duck|senior devops engineer - cloud operations
+block|senior analytics engineer, ai & dx analytics
+boeing|senior cloud devops developer
+bright vision technologies|oracle cloud infrastructure engineer
+c5534d43a8bb
+capgemini|data engineer
+capstone technology partners|systems engineer devops support| se1| ts/sci w/ md poly security clearance required
+cc0386260090
+cd480d161e76
+cisco|cloud engineer
+cumberland group, llc|data engineer
+cvs health|software engineer (.net/python)
+d24ff52efe87
+deloitte|agenic data engineering developer
+deweylearn|senior python engineer
+dhi-wfs|site reliability engineer
+ead7d689bdd0
+extra space storage|associate site reliability engineer
+f444980aeb77
+fce51b700afb
+fidelity investments|senior data engineer - pl/sql
+first citizens bank|senior data engineer - etl/elt (remote - nc, az, tx, fl)
+gallo|senior data engineer
+geospatial and cloud analytics|senior systems engineer sme cloud infrastructure & devsecops ts/sci
+global infotek, inc.|cloud engineer - senior bdva 1676 with security clearance
+iamus|devops engineer with security clearance
+iheartmedia|data engineer
+jll|senior site reliability engineer
+lafayette federal credit union|data platform engineer/business analyst
+leggett & platt|senior azure cloud engineer
+litera|senior data engineer
+lorven technologies inc.|cloud infrastructure engineer
+ltm limited|senior specialist - data engineering
+miller consulting|senior devops engineer
+mission technologies, a division of hii|devops engineer - $20k sign on bonus - 29700
+motorola solutions|sr. backend engineer - python / microservices
+nicklaus children's health system|data engineer ii
+ntt data north america|storage cloud engineer (aws, azure, gcp)
+pacific life|senior cloud platform engineer i
+perkins&will|senior data integration programmer
+pointclickcare|marketing data analytics engineer (us)
+prologis|senior it cloud engineer – ai driven operations & platform engineering
+robotics technologies|azure data engineer
+robotics technologies|senior python developer
+rosen's diversified, inc.|senior cloud data engineer
+spacex|data engineer (starship)
+the lubrizol corporation|senior cloud engineer
+tms llc|senior data engineer (genai / aws) | claude agent sdk | amazon bedrock | python | 14+ years of experience
+vertiv|it data analytics specialist - data engineer
+visionary innovative technology solutions llc|python developer with agentic ai.....only full time
+wipro|databricks data engineer
+wiraa|cloud engineer - remote
+zachary piper solutions|kubernetes platform engineer
