@@ -5416,3 +5416,49 @@ visionary innovative technology solutions llc|python developer with agentic ai..
 wipro|databricks data engineer
 wiraa|cloud engineer - remote
 zachary piper solutions|kubernetes platform engineer
+22e46fcf0535
+265b1e61c2b7
+2847fb673ef3
+358e58f184c7
+3ecb3f51096d
+4f30d607dfe7
+525fc29ffee3
+5582828ceee9
+614c4ca6b8e5
+61c4dc10cedc
+6688e4a300ce
+6c6b02cd97fc
+7c73309e4780
+810a987e3de6
+869db2eaed16
+a0451016d267
+a36fc281f8ce
+aa7485e8520d
+apple|devops engineer - retail engineering apps & services
+apple|software engineer (framework solutions), ai & data platforms (aidp)
+b4aa70f1d17c
+b7577a2cd558
+bd9e0ba16d0f
+bitcot technologies|genesys cloud cx platform engineer
+blue goat consulting|senior devops engineer
+cc701ec4198c
+dillard's, inc.|bi & etl developer
+discount tire|data engineer i
+esri|devops engineer i - arcgis enterprise
+fa0feeed0af8
+general atomics|software developer, devops
+hii|sr. platform engineer
+isod limited|senior data engineer – technical interviewer
+jobot|devops engineer
+mission technologies, a division of hii|senior devops engineer - $20k sign-on bonus - 27620
+motion recruitment|devops engineer
+redhorse corporation|subject matter expert (sme) devops engineer with security clearance
+saalex solutions - a saalex company|data engineer/etl developer with security clearance
+tata consultancy services|alibaba cloud devops engineer
+the depository trust & clearing corporation (dtcc)|digital assets devops engineering associate
+true anomaly|senior devops engineer
+two six technologies|cloud devops engineer
+visionist, inc.|devops engineer with security clearance
+wme group|senior devops engineer, applications
+wme|senior devops engineer, applications
+zimmer biomet|senior devops & release engineer
