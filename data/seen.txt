@@ -5462,3 +5462,53 @@ visionist, inc.|devops engineer with security clearance
 wme group|senior devops engineer, applications
 wme|senior devops engineer, applications
 zimmer biomet|senior devops & release engineer
+020ee2b0981b
+040e53c0045c
+10f02b322a97
+172e5de91ac6
+18c461214b7a
+468ce19cfb15
+4d5e0900016e
+733adfe615c8
+8b86a0558056
+93cf97b43b43
+9b1fb427fcb4
+9d450575a988
+a238e8a58472
+a4da509caafe
+abs consulting, llc|senior infrastructure engineer - site reliability engineer (sre)
+acuity, inc.|cloud engineer
+amazon|data engineer ii, ww ops finance s&a
+ba267d530d1b
+bb718a724407
+bcc20c17dc16
+booz allen hamilton|etl data engineer
+c5a4c1ac4c78
+c7a32aa944c8
+d.a. davidson companies|senior data engineer
+d2 technologies|data engineer
+da69144d8e00
+e5bd94bda8c0
+e5f71e5d129e
+e839bc47c8f2
+enlighten|platform engineer (hybrid) - 28480
+f3c344db90e8
+f4fc84e5debe
+gca|senior systems engineer sme cloud infrastructure & devsecops ts/sci
+general dynamics information technology|finops cloud engineer | active secret clearance
+georgia-pacific llc|sr data engineer
+golden 1 credit union|sr etl developer
+jobot|senior aws devops engineer
+koniag government services|aws cloud infrastructure engineer – rpa operations (remote)
+lone star national bank|cloud engineer
+milwaukee tool|sr data engineer
+mission technologies, a division of hii|platform engineer (hybrid) - 28479
+mulework|aws/kafka data engineer - senior software engineer
+neuberger|senior developer i - data engineer
+platinum consulting agency|data engineer
+precise systems, inc.|platform engineer (digital ecosystem) with security clearance
+referment|senior cloud engineer | hedge fund (a570d6e)
+referment|systems: cloud engineer (95ff685)
+regal|senior data engineer
+strava|senior data engineer
+wipro|senior java engineer - search & big data
