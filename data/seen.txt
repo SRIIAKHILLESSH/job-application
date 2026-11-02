@@ -5512,3 +5512,213 @@ referment|systems: cloud engineer (95ff685)
 regal|senior data engineer
 strava|senior data engineer
 wipro|senior java engineer - search & big data
+026f6432214a
+037d1acac8d8
+08bc300dc53c
+0bfaa2d50ea0
+1211596ca60e
+13050e214ed1
+1399f4afc529
+14d1919bace7
+152ed7cc9842
+189e974239d1
+18c9b6b95eac
+1a5eea0e14f1
+1e6360600ecb
+248091391fd6
+24e7696e434b
+2bb7a2002796
+2bd88b964c17
+2cb671e9537b
+2ccc2cc4317b
+30af11c0a7a3
+3114bc88521a
+342eb0fd7fa5
+3599ed7a0713
+37c9c48be6a4
+3b625e1777a9
+3c028c5d9313
+3fb713bb65c3
+40b8c20d8d41
+43b75ee2366f
+459add7ed35e
+473c8724f456
+48d19c18639d
+4943f6c071c9
+49d4db1ce215
+4ae25d7ee7b4
+4bdeea693774
+569514090200
+59710e1bbb50
+5a1896d6600c
+5c0120d8b482
+5f943a46c9f6
+64d0f34bc3b6
+68d00bf8df4b
+69605b966a6d
+6981ac13813a
+6be8f09cc7b1
+6ccf23e68e75
+6fd5d79d224e
+7b6caa08ff05
+7d39c26ad649
+7f5a4cace79f
+828ea7bb5377
+880939ea399e
+8e4d70c746aa
+8f30d57fbb19
+92eb6492da31
+9535a5a2a607
+95a913c93dd7
+988db53e09bc
+993dafaea02d
+9aee827f1bfd
+9b5afba39b30
+9d6dd39b3f9f
+9dbdbac809d7
+a202cc056422
+a253283db6a2
+a25db78d70c8
+a2616485b3bc
+a52e3a57c642
+a6094dd3ede4
+a66ac304bd05
+a6ae85f79875
+a76082d70045
+a9f01789a6e7
+aa67e700549e
+aab7e697d515
+aad8b56750ea
+aaf3dd7c8142
+abbvie|senior data and analytics engineer
+accenture|python developer 6580322
+acuity, inc.|data engineer - aws/databricks - mid level
+adventhealth|data engineer i
+aef6d052166b
+akima|devops engineer i (ability to obtain secret clearance required)
+amazon|data engineer ii, pxt exr-ops tech
+arik tekh llc|devops engineer
+assuresoft|devops engineer
+assuresoft|sr data engineer
+assuresoft|sr devops engineer
+aveva|devops engineer, cloud operations and infrastructure
+b0a5e17baaa3
+b37c0ea4868e
+b44b611704a7
+b58e25d7be9f
+b59cff8b6824
+b6f5d839d52c
+b8fe39be666a
+b925e00a2484
+bv teck|etl developer
+bv teck|senior devops engineer
+c0a9ba4a4e10
+c0d378fd6a43
+callminer|devops engineer
+capgemini|databricks engineer
+cbc4bb75898c
+cbd66d995c41
+cce70e54e07d
+ces links|data engineer
+cf43bebc2436
+cfeafc5cadc5
+cisco|senior cloud engineer, hybrid in rtp, north carolina
+citiustech|senior data engineer
+cognizant|gcp devops specialist
+confidentiel|python developer
+crosscountry mortgage, llc|data engineer
+david|data engineer
+dd5771546f5b
+ddc183491d46
+decagon|gtm analytics engineer
+dfca05396326
+e-solutions inc|industrial engineering analytics engineer
+e24368d066f8
+ed6fe2bd3f03
+ee45421c3877
+ee74ad08a7b0
+engine|data engineer
+enlighten|platform engineer (hybrid) - 28479
+ensisinfo inc|site reliability devops engineer w2only
+fb8122011da3
+fbf94530df79
+fd208d0e1c9e
+ff724a4dec20
+ford motor company|connected data engineer
+galactic minds inc|senior python developer – aws
+general dynamics information technology|grafana data engineer senior
+general dynamics information technology|ncis cloud engineer | active secret clearance
+general dynamics information technology|ncis data engineer | active secret clearance
+global software resources|cloud platform engineer i
+gridware|data engineer
+highbrow technology inc|data engineering - w2
+highmark health|senior data engineer
+hilltop holdings|devops engineer
+htc global services|devops engineer - senior
+infosys nova holdings llc|python developer
+kaleidoscope innovation|python developer
+kda consulting|cyber & it operations analytics engineer
+knightscope|senior devops engineer, robotics
+ladders|senior devops engineer
+leidos|senior cloud engineer
+liberty mutual insurance|senior data engineer - global liquid markets (public markets)
+libra solutions|azure devops engineer
+logic, inc.|python developer 6580322
+magnit global|data engineer
+martin's point health care|associate enterprise data engineer - remote
+martin's point health care|senior enterprise data engineer - remote
+mill|data engineer - data platform
+miracle software systems, inc|senior cloud engineer (azure vmware solution (avs))
+mission technologies, a division of hii|devops engineer (hybrid) - 30968
+mission technologies, a division of hii|devops engineer - $20k sign on bonus - 30970
+motion|devops engineer i
+mrbeast|senior data engineer
+national trench safety|analytics engineer
+nava tech llc|jr cloud engineer
+netrolynx ai|remote devops engineer
+nexus-opus recruiting solution|azure cloud engineer
+nomura|data engineer
+ns2 mission|data engineer (senior/expert) with security clearance
+ntt data north america|senior cloud platform engineer (vmware cloud foundation) - hybrid in irving, tx or charlotte, nc
+ntt data|devops / cloud engineer terraform & java
+omni federal|senior devops engineer
+onyx government services|senior etl developer
+opentext|sr. software developer (build and devops)
+orbit search|senior python developer
+ost inc|devops engineer (requires secret clearance)
+parahunt global solutions|data engineer ( entry level )
+pelago|sr. analytics engineer
+peregrine advisors|data engineer (sql)
+peregrine advisors|senior data engineer (sql)
+prime source technologies, llc|devops engineer – microsoft azure / windows
+prismagic solutions inc.|python developer
+rapsys technologies pte ltd|senior data engineer
+recru|senior data engineer
+relativity space|sr devops engineer
+sap|expert devops engineer
+shaw industries|data analytics engineer
+skydance|senior data engineer
+sno|senior alteryx etl engineer
+spacex|software engineer, devops (starlink)
+steampunk, inc.|data engineer
+steampunk, inc.|senior data engineer - databricks
+steampunk|data engineer
+steampunk|senior data engineer - databricks
+tap growth ai|senior data engineer
+tata consultancy services|devops with claude
+till financial|analytics engineer
+trace3|devsecops cloud engineer
+trading technologies|market data engineer
+uline|bi analytics engineer
+valiant solutions|hybrid cloud platform engineer
+value innovation labs|senior devops engineer
+vanderbilt university|senior data analytics engineer
+vantage|sr data engineer, data analytics & intelligence, na
+vertafore|devops engineer i
+votaw precision technologies|senior aws cloud engineer
+westinghouse electric company|senior data engineer
+wipro|data engineer ( clickhouse)
+wiraa|backend software engineer (python, typescript)
+wiraa|data engineer ii
+wme|senior data engineer
+zillow|senior analytics engineer
