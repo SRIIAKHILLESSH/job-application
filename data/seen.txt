@@ -5992,3 +5992,105 @@ tractian|senior cloud engineer
 unum|senior data engineer
 veridic solutions|data engineer
 zachary piper solutions|cloud engineer - 177265 - 177794
+03a0fb726edb
+0d489c05f565
+0ff194e31112
+1137d3a25bc5
+20d3ee2081bc
+2d82482af7ed
+308bb9333ea7
+3443666eecd3
+34497942238c
+37f97e8683fd
+3ef32af67889
+4363c4627116
+4eb40bb03f5e
+52bc5b01efc4
+5389839bfb11
+53e02eac88d2
+611dcc60254e
+621a4e5e1ea5
+67249fbd52be
+67d9e51127f3
+6d9beb8c6dc3
+70887754eeb4
+72030675460a
+7550c075db22
+76142d110fce
+782b77116416
+78969b464fff
+7e3a2b3879f3
+82fbda392766
+842123aeee24
+8f5a7348c7ec
+928a6e7bf635
+9caafb8dd31a
+9fd3990d69f0
+a22a7b1c1fd8
+a6aa7aedeccd
+a8ca8f7f5142
+altamira technologies corporation|devops engineer
+amazon|data engineer, ww pricing - data & analytics
+autodesk|senior devops engineer
+b060485b7250
+b22bb8d114f3
+b4b232060ba1
+b96431cd3155
+bdd82e10688e
+c29fee7f0928
+c52675f1d1c6
+ca674e1e38ea
+captivation software|systems engineer 2 - devops
+carefirst bluecross blueshield|senior data engineer (remote)
+carefirst bluecross blueshield|senior data engineer - financial systems (hybrid)
+caterpillar inc.|senior azure cloud engineer
+chaos industries|senior backend software engineer (python / fastapi)
+costar|senior data engineer
+de14fafce8ad
+digital hands|associate devops engineer
+e4d865f07b7e
+ebb061699d1a
+everon|senior data integration engineer
+exl service|aws senior data engineer
+f1be002a4dc5
+f1cd874e05ca
+f6a84d9550a4
+fotomill studios limited|devops engineer
+galent|cloud engineer
+gates foundation|senior data engineer, it enterprise data solutions
+general dynamics mission systems|devops engineer
+general dynamics mission systems|senior devops engineer
+kelly|senior analytics engineer – dbt & snowflake
+limetree|data engineer client data operations
+makai labs|senior azure platform / devops engineer
+marathon ts|data engineer - azure
+meshworks i.t. - lowell, ma|software engineer (devops)
+mission technologies, a division of hii|devops engineer - $20k sign on bonus - 30977
+muskin career solutions|devops engineer
+national fuel|data engineer - buffalo, ny
+netflix|analytics engineer 5 - promotional media
+nomura|senior cloud platform engineer
+ontic|analytics engineer
+peak energy|devops engineer
+penn foster group|senior data engineer
+primordial labs|devops engineer
+progress rail, a caterpillar company|cloud engineer
+quantum pain & sports medicine|data & analytics engineer – microsoft fabric
+ravh-it|aws cloud engineer
+safepoint mga, llc|devops & systems engineer
+seismic|senior analytics engineer
+shaw industries|senior analytics engineer
+synechron|cloud engineer
+tekcogno|azure data engineer
+texas municipal retirement system|senior data engineer
+transcore|sr software engineer, devops
+trilogy medwaste|bi & data engineer
+tyler technologies|ml/ai data and cloud engineer
+united airlines|data engineer
+ust|devops infrastructure engineer
+vanterra foundation solutions|senior software engineer, python & api integration
+vantor|junior data engineer (ts/sci)
+ventura foods|senior data engineer
+vertafore|sr. devops engineer
+williams international|data engineer
+zaden technologies|data engineer (warehouse and cost reporting)
