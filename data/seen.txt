@@ -6336,3 +6336,111 @@ toll brothers|data analytics engineer
 verisk|devops engineer i
 victra-verizon authorized retailer|devops engineer i
 wyetech|applications engineer 4 – devops
+021df790c84c
+07c251d14a15
+09437f845d80
+0ab26536014b
+0e242f7a3970
+12ea9c53d683
+16a302593873
+1800822dcc88
+1e7cf10cfa3a
+1fe2c03f3fbd
+28115172e439
+3396bd6595cb
+3695440e927e
+3c3ad498520b
+43f36584ba6c
+4557147d80a8
+4677b56a3345
+4de92d8dcb3d
+5050e7a3c186
+51c91aba5877
+53018bab0ee1
+583abe98b25f
+5948d563ff14
+61def50df619
+6385a9da060a
+66cf8a148b47
+6ab83a0f970f
+73640ec38dc4
+7ce40624b7d7
+824ab0a1ba98
+87786c277b5f
+8a9991563252
+8af3a2585919
+91be95e9ac35
+a0bba72c66c9
+acclaim technical services|knowledge graph data engineer (2026-0247)
+ae1b7ea620ab
+alpine bank|data engineer i
+amazon|sr. data engineer - amazon leo, leo global business
+amentum|mid-level cloud infrastructure engineer ires - ssfb/hsv
+b0238cd709c2
+b30bd97279b5
+b47483ee409d
+black & veatch|senior data engineer - microsoft fabric
+blue cross and blue shield of louisiana|data engineer
+bny|python developer
+c5904be909cd
+captivation software|software engineer 2 - devops
+casey's|associate data engineer
+cb46241dd975
+cloudpivotsolutions|mlops/sre/devops engineer
+d0c12fed9197
+d51b267c50cb
+d848f6f0f633
+detroit pistons|data engineer
+dexian|senior data engineer - 1018994
+dillard's, inc.|business intelligence & etl developer
+e1d622734613
+e1fdcbc54d60
+eb8810c49ae8
+edgewater federal solutions|senior devops engineer
+ef5b27f982d9
+elevate technology group|senior devops engineer
+eli lilly and company|lillydirect pharmacy data engineer
+eli lilly and company|lillydirect pharmacy devops engineer
+erias ventures|enterprise - senior devops engineer - kubernetes, aws, python
+ey|service delivery center, senior data engineer
+f0a9463ebdcc
+f0c20ddb882b
+f294ebcbb0fe
+f2c38db284ce
+f36d200f59cf
+fb0ebb47cafc
+first tech federal credit union|senior data engineer - data and ai
+guidehouse|data engineer & automation developer
+guruschools|junior devops engineer
+health-ecommerce.com|senior data engineer
+icf|senior data engineer (clearance required) - remote us
+inspire11|devops engineer
+inviso|infrastructure / sre engineer - usa
+lawelawe technology services inc|devops engineer
+louisiana blue|data engineer (louisiana)
+lpl financial|avp, devops engineer
+luxoft|senior data engineer for marketplace
+md anderson cancer center|data integration developer
+meridian systematics|junior data engineer
+mosaic health|it data engineer ii
+nationwide|specialist, data engineer - snowflake and python
+nsd international|data engineer at major japanese bank 1257
+ontrac|data engineer
+persistent systems|azure data engineer
+pnc|software engineer (python, apis, ocp/kubernetes, nvidia gpus)
+pointclickcare|intermediate ai-enabled devops engineer
+sagility|data engineer - aws / snowflake
+select source solutions|senior multi-cloud devops engineer
+servicenow|senior devops engineer
+sorenson communications|data engineer ii
+state of north carolina - revenue|data engineer analyst
+talsense|senior devops engineer
+tech vista|big data engineer
+themis insight|application engineer 4 (devops)
+trinzic|data engineer
+turn5|dev ops engineer
+ujet.cx|senior cloud infrastructure engineer
+veeva systems|senior software engineer - python
+walmart global tech|senior, data engineer | sunnyvale
+wellthy|analytics engineer
+xplor technologies|senior site reliability engineer
