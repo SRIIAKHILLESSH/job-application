@@ -6212,3 +6212,127 @@ vantor|etl engineer / data scientist (ts/sci)
 vtg defense|associate devops engineer
 wizard studios|devops / build & delivery engineer
 zaden technologies|sdlc platform engineer (atlassian and aws)
+0585f6daa3a8
+071d4bd90ce1
+12bfe6b0cf0d
+13edb4c8d75f
+159b2bf8de36
+16ded7f53883
+16f31f6a036c
+1a162c094076
+1a90d058cae5
+1e8756553dfa
+21882db8166b
+2269c560e325
+252dc67a411b
+2b100e7a1948
+2c27202e1c83
+2c6c6ad40714
+2d4a311692c8
+2f698b338e6b
+31c08854c7dc
+32e1a529afcf
+3b3a1179aa33
+4056bde6e9df
+42432d02ec26
+4a53983e9166
+4b080484d3b0
+4f76a6282d16
+548520cda4e5
+56113acfefb0
+56f45f31d7d5
+57f32d9e2bf8
+585689fc721d
+5ba47a209a01
+622b37dbb1fd
+647b28dd7c70
+6586277ebcf9
+6a017bb67a0b
+6a4e0e77019f
+6f1e7ed5386b
+71325694f73f
+71d5eda61abf
+9055c1b83dd2
+92f5b32783cd
+95afd8a1cef9
+96ad3c2403bf
+995b2ee6d31e
+9db9ffe8791e
+a52f200848f4
+abbott|sr. data engineer
+accenture federal services|data platform engineer
+accenture federal services|senior cloud engineer
+accruepartners|senior cloud engineer
+aci worldwide|devops engineer
+aci worldwide|sr devops engineer
+af17a92f82fc
+amazon|data engineer ii, new selection success
+apple|cloud infrastructure engineer
+apple|devops / infrastructure engineer — firmware validation
+apple|senior data engineer, data products
+apple|sr devops engineer, retail and marcom engineering
+apple|sr. devops engineer, info apps
+avanade|azure data engineer
+axon|site reliability engineer ii
+b16087ab42fa
+b1c9b763d0b1
+b20e0681612f
+b3e3f72a77d9
+ba19c6dd8663
+bae systems, inc.|cloud engineer (senior)
+balyasny asset management l.p.|senior cloud engineer
+blue shield of california|devops engineer, senior
+booz allen hamilton|cloud infrastructure & core services devops engineer
+c2ef6bdc64d5
+c50a2cc6c972
+c7e1d8cc9400
+capital health (us)|it data engineer i - it data analytics - full-time - day - lawrenceville, nj
+captivation software|software engineer 1 - python/pyspark/aws
+captivation software|software engineer 2 (hybrid) - aws/hadoop/accumulo/terraform/python/java
+cobalt plex studio|devops engineer
+cornerstone technology talent services|python developer
+dalio family office|senior data engineer
+dataone|devops engineer
+dc3cd533d2bf
+e524eb8639d4
+e9263b803ed6
+ec411f52dc6f
+ec8e30f28bbc
+enlighten|devops engineer (cloud engineer 4)
+enlighten|devops engineer (hybrid) - 31008
+erias ventures|enterprise - senior devops engineer - kubernetes, aws, git
+f452e8ab1b1e
+geo owl llc|senior secdevops pipeline developer
+guidehouse|data engineer/analyst
+hatch it|devops engineer
+ignite insurance systems|devops engineer i
+infinium spirits, inc.|full stack data analytics engineer
+infosys|mobile devops engineer
+lifestance health|senior analytics engineer, clinical quality and outcomes
+lorven technologies inc.|azure cloud engineer
+metrostar|cloud engineer (6903)
+mission technologies, a division of hii|devops engineer (hybrid) - 31007
+mission technologies, a division of hii|devops engineer (hybrid) - 31008
+motion recruitment|python engineer with gen ai
+muskin career solutions|cloud engineer
+north carolina department of revenue|data engineer analyst
+peraton|senior devops engineer
+power3 solutions|application engineer 4 (devops)
+referment|senior cloud engineer | hedge fund (6ec622e)
+referment|systems: cloud engineer (3dafce6)
+relmap software|data engineer (contract-to-hire) (remote)
+relmap software|data engineer (remote) (contract-to-hire)
+robotics technologies|aws cloud devops engineer
+rockwoods inc|senior data analytics engineer (p&c expert)
+sentinel technologies, inc.|azure devops engineer – release coordinator
+span|devops engineer
+src, inc.|devops engineer, temporary
+synergy bis|aws cloud engineer
+tala|senior data engineer
+tantalus|analytics engineer
+the baer group|devops engineer
+tiktok|data engineer, e-commerce
+toll brothers|data analytics engineer
+verisk|devops engineer i
+victra-verizon authorized retailer|devops engineer i
+wyetech|applications engineer 4 – devops
