@@ -6904,3 +6904,67 @@ university of maryland university college|it platform engineer senior
 university of texas at dallas|cloud engineer i
 wiraa|python engineer, sr.
 wise skulls|senior data engineer
+020e0edf1a9c
+0b85e6feed7c
+0edad6d32d38
+0f0ae7f5888c
+11c4584c758a
+13b1e303d4d8
+1484cfa1cd19
+190825c6204f
+1fa2c356652b
+20068ac925ea
+25f86b944cdc
+2952b92aa3f4
+31ca0a21e62c
+44cdc16ddb00
+44d503e015a2
+45110c22ba88
+4ec39c485382
+53eba0effd81
+65cce7884a25
+808aadac0a04
+81c4f209ed3d
+aspenview technology partners|senior devops/ cloud engineer
+aspenview technology partners|senior power bi analytics engineer - remote (usa)
+b7d1a3c4b04d
+ba51190c07fc
+bip us|senior python platform engineer, etl & messaging systems
+c02ec2f24e5c
+c12be13ace02
+c575d8a66ee7
+c7af5bb22d76
+c8820c478c47
+capgemini|python developer - ai
+cb22febc3b66
+chubb insurance|data engineer
+cisco|senior data engineer, network platform
+city of boise, id|data engineer ii
+cognizant|ai data engineer
+collins aerospace|devsecops & ai platform engineer (hybrid)
+credence|cloud platform engineer
+dark wolf|google cloud engineer
+dd21b5aaec92
+disney entertainment operations llc|software data engineer
+fannie mae|cloud engineer-advisor (aws)
+fbb784be9fe5
+fcd05ac3400e
+global infotek, inc.|cloud engineer - senior bdva 1676
+hiredbuddy|cloud engineer
+marlabs|python developer
+nvidia|senior machine learning data pipeline engineer
+pmat, inc.|cloud engineer ii
+purdue university|data engineer, senior
+referment|systems: cloud engineer (dafce62)
+robotics technologies|agentic ai data engineer
+robotics technologies|data engineer – gcp & pyspark
+robotics technologies|gcp infra devops
+robotics technologies|gcp infra devops consultant
+robotics technologies|snowflake data engineer
+slalom|senior cloud engineer
+talenthop|senior software engineer, data systems (python)
+tesla|associate data engineer, manufacturing planning systems, semi
+torentify|software engineer (python, javascrip)
+torentify|software engineer ii (python, kubernetes)
+unisys|cloud engineer
+virginia commonwealth university|research data engineer
