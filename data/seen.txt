@@ -7050,3 +7050,143 @@ torentify|azure cloud engineer & devops (remote)
 torentify|data engineer ii - remote
 ust|data platform engineer merger & migration
 wiraa|devops engineer, azure
+05d2435b17fd
+0b36ae160860
+0b6570ae4ff8
+0e32adf86939
+14aea1206581
+171927b7e00c
+1aca641b98f3
+1b2b41d40b6e
+1e775061b634
+1f8c6adcbbe7
+21fd243c9913
+2583f07b68cd
+2ca288de2328
+302434c27be0
+355342e2c79b
+3a53c70a54b1
+3f69de38607e
+40cab1b6964c
+4b49f147c449
+563f4783c50f
+5c6bc29be1e5
+5d3ee36584ed
+5e38988e4de5
+62c550bbbf12
+639bd341eef4
+6661442025aa
+7a6c7d91abc9
+7cf66ae7e710
+7e4d2c6bc259
+812f8987808d
+88612009b0f3
+897794bd1f35
+8b222e44897c
+8e2eb5bd128d
+90d42718af34
+97bbf4ea02d2
+9f62095249b7
+a0e1f8f3a0f8
+a91eae52034b
+a9d1c0fb5867
+aa51455fa8f7
+aarden ai|senior data engineer — ai-native data platform
+ab229d5f2977
+add0588d584c
+ae5a8194e844
+ae9aac0cce12
+amentum|devops integration engineer
+arkhya tech inc.|senior ai python engineer
+avance consulting|aws python developer
+b038a47f1823
+b16be670581b
+b74787e55186
+b7e1731f3674
+bbd662bf6460
+bef09872c337
+blackstone|blackstone technology & innovations - data engineering & visualization - associate
+blue cross blue shield of arizona|data management analyst - big data (remote in az)
+c2dba623cabc
+c34909e3c51b
+ca16632834e0
+cai (computer aid, inc.)|enterprise devops engineer
+california surveying & drafting supply|devops engineer (remote preference is california based)
+cc145e20265d
+cd1a0ae3fe63
+centene corporation|analytics engineer ii
+clinisoltech|devops engineer
+communitech recruitment group|senior software engineer - java/python – boston - investment bank - $125k–$160k - on-site - us citizens & green card holders only
+consortia|senior cloud engineer
+corient|data engineer
+crowdstrike|sr. ui platform engineer
+cyber space technologies llc|devops engineer – azure & github
+d22faf9f1f03
+diverse business systems|ai data engineer (bigquery & antigravity) - ft remote
+diversified services network|(1120051) cloud infrastructure engineer
+dv01|senior data engineer, data transformation platform
+e7a5de8ed8ac
+e93846a51f56
+eaca55d5de04
+eb21a93298f8
+ec2aa2ff6cf2
+eea77b4597ba
+emonics llc|data engineer – entry level
+ennoble first inc.|devops systems engineer
+ey|government and infrastructure - ai & data - data engineer
+f2264c3192ef
+f3be8e2fe863
+f6c3807afd7c
+f6f027f1e15b
+f8c3a1ed72e6
+f9d1b1d26c6b
+fanatics|data engineer ii
+fd4bc017c30c
+fullthrottle|devops engineer
+general motors|senior data engineer
+haramain systems inc.|senior devops engineer
+haystack|senior data engineer
+helpside|senior software engineer (typescript & python)
+highbridge talent|senior python developer
+hmg america llc|snowflake data engineer
+i20 technologies|industrial engineering analytics engineer
+infosys|azure cloud platform engineer
+intent design ltd|etl developer
+ipg|cloud infrastructure engineer
+ladders|devops engineer
+linchpin software|devops / platform engineer (jenkins, kubernetes) - 50% telework with security clearance
+lmi|senior data engineer - clearance required
+lyvwell apartments|senior data engineer
+macquarie group|unix / linux platform engineer
+millennial software|devops engineer - mid-sr, ts/sci with ci poly - $150k-$200k + 15% 401k
+mio partners, inc.|data engineer, market data
+msag|azure database engineer / azure data platform engineer
+north texas tollway authority|sr cloud etl developer
+nvidia|senior engineer, dgx cloud resilience engineering - data platform
+plymouth rock assurance|senior power bi data engineer
+salt dental partners|data engineer
+sans consulting services, inc.|aws devops engineer
+scp health|senior data engineer
+securiport|senior databricks data engineer
+selective insurance|sr. data engineer (hybrid)
+skydance|data engineer data pipelines and etl
+smile doctors|sr. platform engineer - engineering
+sotalent|data engineer
+southern cross university|senior platform engineer - technology platforms
+special aerospace security services inc|cybersecurity data engineer
+stealthbatterycorp.|data engineer - battery technology
+sterling construction company|data platform engineer- contract role
+superworq|python engineer, sr.
+svitla systems|senior aws cloud and platform engineer
+synechron|python developer with capital markets
+tait|data engineer
+temu|data engineer
+the amatriot group|devops engineer
+the clearing house|sr. devops engineer
+university of utah|data engineers
+wayve|platform engineer, cloud infrastructure
+webstaurantstore|sr. platform engineer—compute kubernetes (remote)
+wipro|data platform engineer (synapse/ azure data brick)
+wiraa|data engineer, jr.
+wiraa|devops engineer ii
+yochana|senior devops engineer
