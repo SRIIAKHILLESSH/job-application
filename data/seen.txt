@@ -7322,3 +7322,95 @@ wellfit technologies inc.|devops engineer, azure
 wings credit union|devops engineer ii
 wipro|data engineer - spark & java
 wolfe, llc|devops engineer
+024b2820ed48
+027a5e6c3c3b
+04509df3b39c
+069dee741516
+0e4432becbc2
+10429ac9f3a1
+11a3da55fa30
+15e1bf143eab
+1f01e882d17b
+2a6e54ffa7d0
+3947b9626c2f
+3afe30326f26
+3c340b9e53d6
+3m vietnam|data engineer
+3m vietnam|data engineer - it data analytics team
+41984e148ff4
+4275d4088b18
+4325b49a8e49
+44cb2684a83a
+4987bfa378ce
+4f322d9d2cc0
+519d098b6c0a
+531229339626
+551f92582b8e
+593a5b63c916
+64a041f06b39
+6f372db1c147
+7136a7b0e6a2
+7ecb4a33fd37
+847034455774
+90b247a042c4
+96f823832957
+9d75d3dc2f36
+9dbd6c6c52f9
+a2ff47b40c52
+a7a6ca99262f
+acrisure|data engineer
+alldus|founding data engineer
+alldus|software engineers (python/qde)
+allegro microsystems|cloud platform engineer
+apple|health research data engineer
+apple|senior backend software engineer, platform engineering
+ascend analytics|platform engineer (azure)
+atr international|senior software engineer – devops & automation
+avance consulting|python developer
+bb290eb23e92
+be7cb76744bd
+beaconfire inc.|data engineer
+betterhelp|senior analytics engineer
+c46204ddcbe8
+chipotle mexican grill|engineer, platform engineering
+d76b18988938
+d9c003383aad
+datadrive|analytics engineer
+duly health and care|data engineer i
+e3d7c22c3a8e
+e97044f6465e
+eba2c5707ad1
+equipmentshare|analytics engineer
+exl|sr. cloud engineer
+f0425cd9b624
+f663bf2930a3
+f916b3841487
+fa618a6bd305
+freewill solutions|dev ops engineer
+garmin|software engineer (python/java)
+geico norwalk|senior analytics data engineer
+intégral|cloud engineer
+k2 space|data engineer
+knowledge management, inc.|devops engineer
+lakeview loan servicing|sr etl developer
+matrixedge|kubernetes devops engineer (rke2 / gitops)
+microsoft|software cad devops engineer
+mio partners|data engineer, market data
+motion recruitment|devops engineer i, onsite in west raleigh
+new york city department of housing preservation & development|devops and production support specialist for the division of hpd tech
+nextech solutions llc|cloud platform engineer
+ntt data north america|sr. devops / cloud engineer
+ntt data|sr. devops / cloud engineer
+nuvento inc|data engineer (w/ microsoft fabric exp.)
+opiniion inc.|senior devops engineer
+oracle|senior data engineer
+starbucks|engineer senior, sre - st
+startekk inc|azure devops engineer
+talenthop|senior data engineer
+tech ladies®|senior data engineer, dx
+the home depot|sr data engineer - assortment and space planning
+the university of texas at austin|data analytics engineer, college of natural sciences
+university of texas at austin|data analytics engineer, college of natural sciences
+us ai|cloud engineer
+vallourec - north america|data analytics engineer
+walker advertising|data engineer
