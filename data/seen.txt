@@ -7190,3 +7190,135 @@ wipro|data platform engineer (synapse/ azure data brick)
 wiraa|data engineer, jr.
 wiraa|devops engineer ii
 yochana|senior devops engineer
+02d1fc3407b2
+0b40602807bd
+0d5cc931c4c8
+11c8de671884
+19a4b3987dcd
+1f429eb3e6b5
+1fc579248432
+2149ee9fb78e
+223f7c6550ed
+25c705c6dc7b
+2a64a65a19f7
+2e4f6aa74831
+2f26aacbee18
+37bfd363009c
+3a8d19c8aca9
+3d29d92b4a75
+40644729d7c6
+41a6a0f636fe
+41aef7be7e1e
+4fab33c142a9
+5085fd994adf
+532264e844e0
+5f450109e89b
+67fdb3ba1843
+6c24289ba39e
+6d2a00f7b287
+7201db94d42c
+7503a923d890
+7a9a35ab6dd3
+7f170cee468e
+831f557882e2
+844bfd0b64ff
+8623ec6fa41f
+88c59c37432f
+8a3eded9e643
+8ac21a6d066a
+8c4e8efaa309
+8cb10d2bd465
+9862003053cd
+988b62b149f4
+aa2195e06472
+ac12f5b8508a
+ac16438ad546
+ac779eadca14
+activision blizzard|analytics engineer
+activision|analytics engineer
+ad45bb1a4853
+adobe|2027 university graduate - data engineer
+agility partners|senior ai/python developer
+akina, inc.|devops integration engineer 3 - (docker, kubernetes, helm)
+all it solutions llc|cloud engineer
+all it solutions llc|enterprise devops engineer
+amazon web services|delivery consultant - devops, wwps proserve
+american electric power|tsoe tools & analytics engineer
+apple|senior software engineer, apple data platform
+apriden|python developer
+arrow search partners|senior cloud engineer
+b099dcb434a6
+b7c6b62787b2
+ba8ce260f123
+base-2 solutions, llc|devops platform engineer/linux systems administrator
+base-2 solutions, llc|devops software engineer
+base-2 solutions, llc|senior devops software engineer
+base-2 solutions|devops software engineer
+bf04f0931248
+c148858f64f4
+c23a9495a835
+c6c07a322150
+ca5f362f1e56
+cansel|devops engineer (remote preference is california based)
+carmichael lynch|analytics data engineer
+cc21404868c2
+cfs|senior devops engineer
+collabera|azure cloud infrastructure
+council on foreign relations|devops engineer / site reliability engineer
+ctdi|devops engineer
+d94ad88e3766
+de832fbf3694
+delinea|senior cloud engineer - governance
+deutsche bank|senior site reliability engineer
+e774a69adfe4
+e7ccbdf17996
+ebbo|senior data engineer (remote - us)
+ec903704b835
+exl service|sr. cloud engineer
+f0cbed09f61e
+f647cf9b5a5d
+f7ff1f4a9f87
+f8d7ba9bd18d
+fbe529c6f461
+fc08b340c3b4
+ff1e76ef2fd4
+fidelity investments|full stack software engineer, python
+fidelity investments|senior devops engineer - apache airflow platform
+fidelity investments|senior full stack & data engineer (angular, java, snowflake)
+fortis construction|data engineer
+ink foundation|senior analytics engineer - finance
+innovatis technologies inc|data engineer -pipelines & data bricks - mid level
+integral federal, inc.|cloud engineer
+interclypse, inc.|fullstack devops engineer
+joint commission|data engineer
+klique|devops engineer
+lakeview loan servicing, llc.|sr etl developer
+leidos|cloud infrastructure engineer
+locality|data engineer (contract to perm)
+lucid motors|data engineer ii, vehicle test
+lumenalta|technical interviewer - data engineer
+main line health|it data engineer specialist
+mcafee|sr data engineer
+ohio cat|data engineer
+orion180|senior analytics engineer (powerbi and fabric)
+pnc financial services group|data engineer
+pwc|aws cloud infrastructure experienced associate
+reddit|senior sre, site experience
+robotics technologies|aws devops engineer
+robotics technologies|azure cloud engineer
+robotics technologies|devops test automation engineer
+robotics technologies|enterprise devops engineer
+robotics technologies|site reliability engineer (sre)
+salesforce|sr. software engineer, dns and cloud infrastructure
+startekk inc|cloud, devops & infrastructure engineer – aws / gcp / azure / ci/cd / security
+superior beverage group|data engineer
+superworq|data engineer i
+talenthop|analytics engineer ii
+tiktok usds jv|site reliability engineer, e-commerce
+transamerica|intermediate data engineer
+university of maryland university college|data engineer (faculty specialist)
+visa|associate data engineer
+wellfit technologies inc.|devops engineer, azure
+wings credit union|devops engineer ii
+wipro|data engineer - spark & java
+wolfe, llc|devops engineer
