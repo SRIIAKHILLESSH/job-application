@@ -7738,3 +7738,111 @@ vistaltech inc|python developer
 winsupply|senior data engineer-databricks & data modeling
 women in science|data engineer, oit
 wtw|devops engineer
+05f473c81d9b
+06dd93cada8c
+09249a9fbcb0
+0c2867fac9fc
+0e96468bf22d
+153b6a2ba240
+17ba680be0b3
+1a44e09145c9
+202a05036ec9
+269e8c7a615d
+27746cc52c42
+2cc55bd2e4a6
+2fe3844fe5ac
+3538fefa8f33
+3988852dbe06
+3c3d34b40998
+3d4de86311e0
+3f76a3a65d6a
+41519c7651b6
+47fe3ef5a372
+51a5f68ca7b1
+5359bb4ef471
+5644f87723a6
+57efc5972273
+58c542c79662
+5b12ffa28fe6
+5cbdfcc3d8eb
+61a7bb7b232d
+6c670a5a20f2
+731c3d2aadd4
+7455c4a7b3d0
+78d52065ade7
+838211d87ca2
+8c0ab32feba5
+90afe2ef7d97
+989bd552d5e7
+a1857dc2e132
+a28eb39f6675
+a401491a3d53
+a5a8b614fec0
+a5c393e9d2a4
+a9d427098cd2
+accurant international|devops engineer
+ad55beffd48f
+afced11fbc18
+air|data engineer - analytics
+amazon.com|senior data engineer, ww ops finance - s&a
+amazon|senior data engineer, ww ops finance - s&a
+apptad|cloud engineer
+archer|data engineer, specialist
+avesis, incorporated|ai platform engineer
+b0ea1a02b9b3
+b8ffa1903fce
+bah partners|python developer
+cddeb8300abe
+chaos industries|senior cloud infrastructure engineer (azure / terraform)
+clear capital|data engineer
+compassion international|senior aws platform engineer
+d2b3d9b7f519
+deloitte|data platform engineer
+deloitte|oracle data integrator (odi)/etl developer
+dfa1b372abcb
+e486e03df992
+e57730da2931
+education analytics|data engineer
+exelon|sr data engineer 1 – enterprise it data analytics
+f5637b164c17
+fa0cf048ac68
+fcd5e9de20c5
+garmin|senior cloud engineer
+hark|embedded devops engineer
+hcltech|devops engineer
+hudson manpower|senior devops engineer / aws ai platform engineer
+intercontinental exchange|senior data engineer
+jobgether|data integration engineer
+keller schroeder|senior data engineer (data warehousing & cloud integration)
+lseg (london stock exchange group)|senior devops engineer
+majestic labs|devops engineer
+markon|platform engineer (devops/full-stack hybrid)
+maximus|data engineer
+national security agency|data engineer - entry to expert level (maryland)
+nvidia|senior data engineer, operational excellence - eda infrastructure
+om housing|senior python engineer (portfolio optimization) - only usc
+omw consulting|devops engineer
+optum|sr devops engineer-remote-(if in mn then hybrid)
+pathgroup|database and devops engineer
+quantori|senior python engineer with aws
+rain|analytics engineer, finance
+rain|data engineer
+re:build|sr. data engineer
+robotics technologies|big data platform engineer
+robotics technologies|data engineer technical pm
+robotics technologies|data engineer – ai/ml & advanced analytics
+robotics technologies|java sre engineer
+robotics technologies|palantir data engineering / forward deployed engineer (fde)
+robotics technologies|python developer aiml
+robotics technologies|senior databricks developer
+robotics technologies|terraform cloud engineer
+sandia national laboratories|r&d computer science - full stack developer/devops/smart manufacturing engineer, onsite
+saragossa|cloud platform engineer - cloud infrastructure company - up to $225,000 salary
+shield consulting solutions, inc.|devops engineer
+sinclair inc.|senior cloud engineer
+slalom consulting|slalom flex (project-based) - data engineer
+teksystems|cloud engineer
+tenet3|devops engineer - hybrid
+trendai|senior devops / release engineer
+us senate|senior platform engineer (servicenow) #64
+velosio|data engineer
