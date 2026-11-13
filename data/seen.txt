@@ -7846,3 +7846,137 @@ tenet3|devops engineer - hybrid
 trendai|senior devops / release engineer
 us senate|senior platform engineer (servicenow) #64
 velosio|data engineer
+010ac38055a9
+02750f90af8a
+07791001a458
+088de9a7905a
+0aececb0fba0
+0f780d404415
+115fb578cc05
+134029022131
+1397b789cdea
+1a6c60b80332
+1db733388a46
+276b685550cd
+2a3a1dbf8b4a
+2db8dca13975
+2f74f3676c56
+2f949ca1e81d
+303990ee792b
+312e87ab4af8
+37a86042c7d7
+396de8b3dd92
+3a6984b5cac7
+3c09b97ea90c
+44f0f95fdb67
+47bfa393ecea
+4cb8ed3719e4
+5395afb3cd18
+5414ce726922
+54f1a5f1f83c
+5660c235f058
+56e953ba5853
+65082d6baabe
+6dc5361681fa
+6df5aa2926d1
+757d89ef6917
+783fc0f238ef
+7c6cf9817027
+7cadc84a3be9
+84cdbd91a7f8
+87899b6015af
+890fd47929c0
+8a8752340568
+8ad9cb8c9622
+8be64773ba4a
+90f0dbe0901c
+947352bdbe38
+95385823b089
+9934c7fc50ca
+a15c4914aca8
+a6abde2669b8
+a6bc8354988b
+a712d34f5fe3
+ac4fdd4f5bec
+ae942675fbf3
+afad261a1d26
+altamira technologies corporation, a parsons company|dev ops engineer
+august schell|cybersecurity data engineer
+b4724e0cc0d9
+b58fa7b2ad1a
+b6179cb23af9
+bfa3a1978c2b
+booz allen hamilton|cloud engineer, mid
+c2f7923aaecc
+c344ff9f8ff0
+c833e4cde69e
+cardinality.ai|devops engineer
+carolina casualty (a berkley company)|data engineer - etl
+cc79d13b4e31
+charles schwab|cloud devops engineer
+cla (cliftonlarsonallen)|data engineer ii - databricks
+coda search│staffing|analytics engineer
+coderio|sr devops engineer
+confidential|junior python developer – ai/genai
+cpi card group|cloud engineer
+cyberstorm defense l.l.c.|data engineer, ocr and table extraction (contingent)
+d0f9d37957f0
+d67adf060ddf
+datassay inc|python developer – junior, mid & senior levels
+dcd736eb05e4
+dci solutions|devops engineer
+dezign concepts llc|software engineer (devops)
+diamond foundry|senior software engineer – python backend & manufacturing systems
+dropbox|senior client platform engineer, endpoint platform & automation
+dun & bradstreet|senior devops engineer (r-19897)
+e40ca8b897ff
+e69c6b20752f
+ebbo|data analytics engineer (remote - us)
+electrosoft|data engineer
+erias ventures|enterprise - devops engineer - aws, ansible, bash
+erias ventures|enterprise - devops engineer - kubernetes, aws, git
+evenup|analytics engineer, finance
+exl service|senior data engineer
+fotomill studios limited|dev ops engineer
+general dynamics information technology|cloud devops engineer
+global payments|ai & data platform engineer
+harness|senior backend engineer, data platform
+hoar construction|data engineer
+i4dm|databricks data engineer
+infosys|devops engineer
+integrated homecare services|data engineer
+invita healthcare technologies|data engineer ii
+jc automation|data engineer / data analytics specialist
+kimball midwest|data engineer
+lockheed martin|cyber devops engineer stf
+lockheed martin|data engineer sr
+lockheed martin|data engineer sr - e3
+lockheed martin|data engineer stf - e4
+lyntris|devops / platform engineer (level ii) with security clearance
+m&t bank|site reliability engineer – devops, azure
+mmd services|senior cloud infrastructure engineer
+neomax|data engineer (expert)
+ntt data north america|aws senior devops engineer
+openai|business platform engineer
+plains area mental health center|ccbhc project evaluator/data engineer
+riverstone enterprise solutions|senior devops engineer
+robotics technologies|aws devops cloud engineer
+robotics technologies|azure databricks engineer
+robotics technologies|azure devops developer
+robotics technologies|devops engineer with c++ and visual c++
+robotics technologies|python engineer--genai
+robotics technologies|sre devops engineer
+silosmashers, inc.|senior data engineer
+skanska|senior data engineer
+smartrent|data engineer
+smx|hybrid south carolina cloud engineer – managed it services (5544)
+teravision technologies|senior devops engineer (sre / observability)
+the jaaw™ group|cloud engineer
+thomson reuters|senior cloud and devops engineer
+titan technologies|splunk/data engineer
+unissant|data engineer
+vamonos it|devops engineer
+verascale|mid-level ai data engineer
+viecure|senior devops engineer
+virtual service operations|cleared azure cloud engineer
+wyetech|devops engineer
