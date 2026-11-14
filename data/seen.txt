@@ -8164,3 +8164,63 @@ tennessee oncology|data engineer
 topsys it|python developer
 trilogy federal|data engineer
 veerteq solutions inc.|etl qa -databricks
+1712c98cb43c
+26a17ecf5bfa
+324c3901bbcb
+3665d018c881
+44e4b4d33472
+48acde6e374d
+578ca75e2c00
+6173c5e7bba6
+626cc264de17
+6b6e0af6e59d
+875f7c13b615
+881e086feff1
+8ce7d5b750d2
+8e1f922db5c9
+921188d4b671
+9f4cf2835d03
+a2c06b86f7b7
+archer|senior analytics engineer
+bbd1ed9bd5bb
+blu omega llc|devops/cicd engineer
+booz allen hamilton|databricks data engineer, senior
+c39703371af1
+c3ca8641b020
+c9ecf534f411
+cf3a4074710b
+citizens|data analytics engineer – consumer lending
+constructor|data engineer: merchant intelligence agent
+d07de94111bd
+d0e40124d7c5
+dcf5ed9d8fe9
+direct travel|data analytics engineer
+e5e0caaa9ec9
+eeb91aab9eef
+f085a9126134
+f9440bc358fb
+fec7eb873eb6
+foundation finance|senior site reliability engineer
+gatik|senior data engineer
+goengineer|data and analytics engineer
+guidehouse|cleared data engineer
+initiate government solutions|kubernetes devops engineer
+koniag government services|devops developer
+liberty energy|devops and platform engineer
+lseg|cloud devops engineer
+mbl technologies|devops engineer
+md anderson cancer center|data engineer - data & al solution
+o'reilly auto parts|platform engineer i (mobile device management) (onsite role)
+ojus llc|python developer
+personify health|data engineer l
+referment|senior cloud engineer | hedge fund (5b9ea49)
+robotics technologies|cloud sre engineer
+scout motors inc.|sr. devops engineer
+softthink solutions|python engineer
+tech ladies®|devops & platform engineer
+teravision technologies|senior data engineer
+triumph|data engineer
+united network for organ sharing (unos)|cloud engineer
+uthealth houston|enterprise data engineer in information technology
+visual soft, inc|cloud-ops platform engineer - top secret - onsite
+visual soft, inc|senior cloud devops engineer - top secret - fully onsite
