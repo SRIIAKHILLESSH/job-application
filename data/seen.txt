@@ -8290,3 +8290,49 @@ torentify|data engineer, senior (100% remote opportunity)
 ut md anderson|data engineer - data & al solution
 vetjobs|software engineer (python, apis, ocp/kubernetes) - pittsburgh pa
 zapcom group inc|sr. python developer - agent runtime & mcp
+0957b38bbf7d
+09bc05765b80
+2eac29a7a065
+3c5cb23fe851
+42fe11b39491
+47a171c1afa7
+4a619b7f42a6
+53b3d3151f80
+622e554398c6
+6a4bbe5581a1
+7c32194ce350
+7e781547b588
+87aff6dc7fd9
+928dad7e5bf6
+a5e773250402
+ahold delhaize usa|data engineer ii - supply chain
+apex workforce & talent foundation|cloudflare/devops engineer
+apple|sr. platform software engineer, ai & data platforms (aidp)
+apple|sr. software engineer, ai & data platforms (aidp)
+b0a2e29c2049
+bc74448ad307
+c489da95dbcf
+caci products company|sr devops engineer
+clera|platform engineer, kubernetes
+cornerstone defense|cloud engineer i-3 with security clearance
+deloitte|databricks engineering jr. consultant
+e0b8a7b4397d
+e768f07be055
+e965244daa98
+el pollo loco, inc.|marketing sr. data engineer - loyalty & customer analytics
+everware consulting gmbh|power platform engineer
+experient|senior snowflake data engineer
+f3ae14e80dbe
+ffa2d222380a
+leidos|senior data engineer
+mohegan sun|cloud engineer
+movement labs|senior data engineers
+nightwing|devops engineer with security clearance
+openai|data engineer
+randstad digital americas|devops engineer
+state of michigan|its 14 - middleware & integration devops specialist
+superworq|data engineer
+superworq|python engineer - remote
+talenthop|senior cloud and devops engineer
+torentify|software engineer, sr. (python, typescript )
+united network for organ sharing|cloud engineer
