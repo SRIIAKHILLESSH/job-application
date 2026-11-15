@@ -8224,3 +8224,69 @@ united network for organ sharing (unos)|cloud engineer
 uthealth houston|enterprise data engineer in information technology
 visual soft, inc|cloud-ops platform engineer - top secret - onsite
 visual soft, inc|senior cloud devops engineer - top secret - fully onsite
+06103691f5e7
+0cafce8f50da
+11125b9e57b0
+1487fa1d2192
+2133122bdb27
+214492b24509
+299afe45c068
+2f944aee3433
+3af98346090b
+3b8364261352
+3e88ff3f1a79
+46e0cb0d15ba
+4b73120965e4
+6c236c1e6cd1
+772b82103558
+7c6c260625ba
+80a433fbb688
+8ff0d0a25e7a
+93615b91600a
+97ac7af8fc5f
+9e6032e366eb
+9f5276f32f82
+9fe9b5f95996
+a2a96fa581ce
+a8bb5b63c289
+aramark|data engineer
+atlasticity|aws cloud engineer
+b5364442092a
+brooksource|senior azure platform engineer (azure cloud engineer)
+c36ca9c80d1d
+chenmed|senior data engineer
+costar group|senior data engineer
+db7801e20f95
+delta system & software, inc.|data engineer-snowflake
+dover networks llc|devops engineer skill level 2 [d.26.0243] with security clearance
+e449ce9b4c0c
+e901e8ae3dcc
+edwards lifesciences|data engineer
+emerson|devops security engineer
+erias ventures|enterprise - devops engineer - ansible, aws, bash
+ey|cyber managed services - data engineer - senior
+f95ed2fdf228
+fb00dd585868
+ff8bf7a4c608
+geico norwalk|business intelligence analyst / data engineer
+general dynamics information technology|hybrid cloud platform engineer (paas) - top secret
+global times online|data engineer
+hermès|vie - data engineer (h/f) - new york
+ignite digital|mid data engineer
+logic, inc.|devops engineer - 6597000
+lululemon|senior software engineer - devops, digital commerce services
+m&t bank|data engineer
+nfi|senior data engineer
+nightwing|cloud infrastructure systems engineer i with security clearance
+northrop grumman|devops engineer
+ntt data north america|senior data engineer
+ntt data north america|terraform platform engineer (gcp)
+request technology, llc|senior aws gcp cloud engineer
+shield|data engineer, finance (r6329)
+sierra space|sr software engineer - devops/devsecops
+tailored brands, inc.|sr dev ops engineer
+tech ladies®|data engineer sr
+torentify|data engineer, senior (100% remote opportunity)
+ut md anderson|data engineer - data & al solution
+vetjobs|software engineer (python, apis, ocp/kubernetes) - pittsburgh pa
+zapcom group inc|sr. python developer - agent runtime & mcp
