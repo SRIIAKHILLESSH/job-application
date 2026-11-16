@@ -8384,3 +8384,89 @@ trexquant investment lp|python engineer- trade operations (usa)
 vagaro|data engineer
 voyager technologies|senior build & release software engineer
 xl.net|cloud infrastructure engineer
+003438874f22
+043de1c9b2b7
+05cd50db0861
+0786a78e55ca
+0aaef94f6d17
+0e68eb0b9b5f
+0ef42b544687
+1338e3e8c535
+1501a1055cff
+162f86f60003
+1dde0d536198
+2ba7157196b8
+37081e9e9cba
+3db7dc6b746a
+3dd1966fb78a
+3f2ae46e54f3
+425126b46f49
+4a29de5ab009
+4a88cfd7533f
+50e2212a46d1
+66c24fb20cbe
+7794c9a011cd
+817bef2272df
+8ae385646cf6
+8c5f229a58b3
+8ec7368f3b30
+969b3c12f444
+98e3cd15fc0e
+9d1530d63168
+9d329c98a30d
+9e4ed37922f4
+a. blair enterprises|full stack python developer
+a06054935ddd
+a143ef1417b0
+advanced systems design|devops engineer, mid
+aerovect|senior data engineer
+aifa solutions|senior aws data engineer -full time
+alfa|senior data engineer (databricks) - new york
+amazon|data engineer ii, ots - data anchor team
+anduril|platform engineer
+appzlogic mobility solutions pvt ltd|data engineer
+bd4bc0bdb2c9
+binary tech consulting corp|tableau developer, etl developer
+c9c5bbabde63
+caci international|cloud engineer
+calibre systems|data engineer
+capgemini|fabric data engineer
+crowdstrike|devops engineer (remote)
+d3d0344ca592
+d6af7386bf19
+da75efa9b4e2
+e0d0e908d868
+e6680b03b3c9
+ed8c2118e42e
+ef9e47cce6d7
+entrupy|senior infrastructure / devops engineer (python)
+fastener distribution holdings|data engineer
+fd0f800031f5
+first resonance|data engineer
+first resonance|devops engineer
+ibm|data engineer-data integration
+itheroes inc|data engineer
+jack henry & associates|data engineer ii
+krispy kreme|data integration engineer
+ltm limited|site reliability engineer (azure + data)
+luxoft|senior data engineer
+n2ia technologies|senior databricks data engineer
+ontrac solutions|senior data engineer – google cloud
+optum|data engineer - remote
+posthog|site reliability engineer (us - pacific time)
+risa|siem data pipeline engineer (linux, splunk, elastic)
+rivian|sr. data engineer
+rivian|sr. data platform engineer
+robinhood|senior client platform engineer
+ryan, llc|senior devops engineer
+saalex solutions - a saalex company|data engineer/etl developer
+saransh|data engineer / business systems analyst / data analyst
+sentis|founding backend engineer, data platform and fleet infrastructure
+sgn global technologies|big data engineer with gcp
+shamrock trading corporation|data engineer
+skillstart|senior data engineer
+state of missouri|senior cloud platform engineer (gcp) #5-7-120
+teksynap|senior cloud engineer - azure/cloud security w/public trust
+united states cold storage|devops engineer
+upstart|senior data platform engineer
+weyerhaeuser|data engineer
