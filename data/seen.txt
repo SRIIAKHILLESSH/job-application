@@ -8470,3 +8470,133 @@ teksynap|senior cloud engineer - azure/cloud security w/public trust
 united states cold storage|devops engineer
 upstart|senior data platform engineer
 weyerhaeuser|data engineer
+027d13ccdeb4
+04affe4edd1c
+05ed6819166d
+09b1dac50989
+0aac1809a5d0
+0bc64ffa1825
+0c575992aa7a
+0da7fa1b5806
+0db31b218674
+12bd2151fcea
+13edcbd9c907
+17b7ee6b20c8
+194949dc94f1
+2k games|senior engineer, dev ops - wwe 2k
+360fe82d53d5
+3ce4f5818df8
+3df33e74245a
+4161646dfee6
+42299d33d6f3
+423e6bebe340
+49731fc54143
+4e772fbe5d79
+5b6afb59821c
+5c285ac951c7
+5f5ce45f8726
+6028f670244d
+63326d9f5188
+64b47c6d28e1
+66b9cb42971e
+696571934fad
+6d220214ee99
+6f6e250d1b36
+6f8752b21e35
+7f09ba107174
+86b71ae6fe16
+8d793782bc60
+8e733a1467fb
+9317dcb156f5
+94301c08f328
+951814b4a010
+997cd2c7a505
+9bacee099b3f
+a. blair enterprises, inc.|full stack python developer
+a49b65e494a1
+a71cc62b0f80
+acuitymd|data engineer
+adidev technologies inc|devops engineer
+advanced systems design|devops engineer, junior
+aeae0ae8a943
+allia health|senior data engineer
+anduril|data analytics engineer - hardware test operations
+asrc federal|data engineer
+b1310bf2c4e6
+b144aa3da9dd
+b26888d8a907
+b3954cd1fa74
+b40cc3d2ab45
+b5d83bd34e2a
+b98820701819
+bart & associates, inc.|full stack data engineer (northcom)
+bb2cfe5d3648
+blue cross and blue shield of nebraska|cloud engineer
+bmr infotek|devops engineer
+booz allen hamilton|cloud engineer, senior
+bow wave llc|data engineer 3 - ts clearance required - wash dc area
+builders firstsource|senior cloud engineer (azure/terraform)
+ca44d34c8a9d
+cdo technologies, inc.|cloud engineer
+cirrus logic|ai platform engineer
+cisco|cloud infrastructure engineer
+clera|founding data engineer
+coinbase|senior analytics engineer
+confidential company|senior software engineer (python) – investment mngt (boston)
+corelight|sr software engineer - cloud infrastructure/sre
+creative artists agency|sr. cloud engineer
+d6ee387ab253
+d6f1ce671595
+d72504737277
+danone|data engineer, ai (nutricia + kate farms)
+deda7056ad5e
+defense unicorns|data engineer - agentic ai
+e2232f9fb040
+e3ceb5552160
+ead436d506ec
+echodyne corp|senior data engineer
+ededafa45be1
+ee502b8f4c62
+eed784dd6742
+elevi associates, llc|devops engineer - federal
+f665cf974c20
+f998645164f0
+formativgroup|python developer
+formativgroup|python developer - insurance experience - remote
+galent|aws cloud engineer / cloud infrastructure specialist
+general dynamics information technology|data engineer sr (etl) advisor-raleigh, nc-eligible for public trust
+general motors (gm)|data analytics engineer - trp
+hewlett packard enterprise|cloud engineer graduate
+hydrite|data integration engineer
+infosys|ai devops engineer
+komatsu|senior data engineer
+logic, inc.|devops engineer - 6596993
+mission technologies, a division of hii|platform engineer (hybrid) - 27674
+mondo|sr. devsecops & cloud platform engineer
+mountain park health center|data engineer
+nc america|senior data & ai analytics engineer
+next gen it, inc|gcp cloud infrastructure engineer with terraform exp
+norlox solutions llc|junior python developer
+northwest federal credit union|cloud engineer
+nvidia|senior analytics engineer, finance
+okaya infocom|python developer
+optum|senior etl / data integration developer
+purpose financial|python developer
+pwc|ctio-devops senior associate
+pwc|data engineer - experienced associate
+pwc|data engineer - senior associate
+robotics technologies|big data engineer
+robotics technologies|cloud devops engineer
+sabg|data engineer
+solovis|senior devops engineer
+sompo|senior data engineer
+sorenson communications|senior platform engineer-ai data
+tech ladies®|senior data engineer
+tenica|junior data engineer – ts/sci
+the henry m. jackson foundation for the advancement of military medicine|systems engineer ii - cloud engineer
+the university of texas at dallas|cloud engineer i
+valon|senior cloud infrastructure engineer
+visual concepts|senior engineer, dev ops - wwe 2k
+wipro|devops engineer (contract)
+xanterra travel collection|analytics engineer
+zachary piper solutions|senior cloud engineer
