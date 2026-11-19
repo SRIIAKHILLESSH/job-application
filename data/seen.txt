@@ -9014,3 +9014,116 @@ university of north carolina at chapel hill|data engineer & analytics specialist
 virtualan software|data integration engineer
 vision square inc|slds data engineer
 viva|data engineer
+185fea492056
+1fbdd815fe6c
+24c3a2ce1476
+2afc14176dfb
+2f77823ade27
+300ad78d72d2
+3675764ca226
+37c7ac2d7379
+3bce3749c17d
+3cabc84f4939
+41b4a464c114
+472acfe69a30
+4a07462200f9
+4b3bd88e2044
+4b6756010b8c
+510be6f9cf7b
+63def600f032
+68d84ec9f5a2
+7-eleven|software engineer ii - data engineering
+7078092043b6
+79c023330da4
+7d6ff273a4cc
+7e523250b312
+853993e8a413
+89a51adc8ee6
+8b5e0c89ffb8
+8d2ffa6bac2c
+90272355d9ca
+90acafbd1d75
+93323a7389d4
+93696afe0026
+945e6561ca6d
+94731c4aad01
+978920b7d391
+9bf935356d86
+9e6505a6446e
+9f2b68f8c899
+a32f0a22e559
+a540d862b892
+a5f7eebcfa91
+abf5a11d3625
+acfeb38dfebd
+addd72c9f16f
+adelphi data|senior devops engineer
+adg tech consulting|junior devops engineer - citizen
+amentum|data engineer
+amentum|data engineer mid (team 09)
+analytica|cloud engineer
+andhealth|senior platform engineer (devops)
+apple|software engineer (hana), ai & data platforms (aidp)
+appzlogic mobility solutions pvt ltd|databricks platform engineering & devops
+archer|senior aws cloud engineer
+b620b25088fc
+bb58da3eb17e
+bd48dc7e2bb9
+booz allen hamilton|university - cloud engineer
+c8f5393ab79a
+carrot|business intelligence analytics engineer
+cdbe8ce79c20
+ci azumano|senior cloud engineer
+dcb02c4dd6af
+digitive|azure devops engineer
+e756f944bda5
+ed1054188d05
+ee72096a2e24
+efc4983144c3
+element 84|senior devops engineer, cloud & hpc (noaa badge preferred)
+empower ai inc.|sr. data engineer
+ensemble health partners|analytics engineer
+f1fa9a0e150c
+f5a4933c2a68
+fb2b18a94a5a
+fefb204f007a
+fortune jobs ai|data engineer jobs in chicago, il (22)
+foxley talent|senior python developer
+franciscan health|data analytics engineer
+globallogic|devops engineer irc308991
+grey parrot systems llc|data analytics engineer – dbt, snowflake
+haystack|devops engineer
+hcltech|public cloud engineer (aws)
+hii|devops engineer
+holley|data engineer
+hoplite solutions llc|entry etl developer
+hyper|devops engineer
+it shoulders, inc.|data engineer
+journal technologies|junior data integration developer
+leader bank|devops engineer
+mauldin & jenkins|data engineer- atlanta, ga
+mission technologies, a division of hii|devops engineer - 31181 (software engineer 3)
+moffitt cancer center|data engineer i
+nasdaq|ai / devops engineer – agentic systems & automation
+palantir|site reliability operations analyst - legal
+powerus|devops engineer
+precision technologies|senior python developer
+protiviti|senior legal data engineer
+rch solutions|gcp cloud engineer
+recorded future|senior data engineer, credential data pipelines
+redstream technology|senior python developer
+revere control systems|senior data engineer
+robotics technologies|databricks data engineer
+robotics technologies|senior snowflake data engineer
+sony interactive entertainment|senior platform engineer
+southland industries|senior database administrator, data platform
+stratford solutions inc.|senior data engineer
+supabase|storage platform engineer
+swickard auto group|data analytics engineer
+technology hub inc|senior python developer
+tops products llc|senior devops engineer (azure)
+req# 362
+trustthink|cloud engineer (secret clearance)
+u.s. bank|sr. data governance platform engineer
+united nations office for project services|data engineer
+virtualan software, llc|devops engineer
