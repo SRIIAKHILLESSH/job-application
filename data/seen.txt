@@ -9221,3 +9221,115 @@ university of connecticut|institutional research (ir) etl developer
 ust|devops engineer
 ust|senior devops engineer
 world services llc|senior data engineer
+0a504f4755e7
+0df2cd9e0abb
+0dfe5d658886
+11fdd754debd
+150fc40124a3
+21473f5833c7
+23850cdf9b04
+2ad4a4051cde
+2d3b5c1ddeab
+2e3b6988b23b
+32aab729c84a
+37f48e37ccbf
+3c27bbd786ce
+407e2b5e2fed
+43d6feb07f38
+44832f564ed3
+482594aefde3
+4a109b849d3c
+4f211e170285
+4fc371deb56c
+5179f07ccd2c
+52b121cbff5e
+581c50e5441b
+5c04ef6feb46
+638e31bfc204
+67ebbd425709
+6acae7ad42a3
+6c11d3d8d02c
+6d71bb85078a
+7-eleven|platform engineer
+71ff27cc8eaf
+730921b85615
+755694ff633a
+77d3f61a4322
+8963f70df7c4
+8a1b0c324511
+8ce30bf7bca1
+91174bd22566
+9cb0b39a9fdc
+a09a7fdff5a1
+a0f40988630a
+a9e7fca736e7
+acg green group, inc|junior software engineer (python / javascript / erp)
+ae543a1ec089
+allied solutions|senior data engineer
+amazon web services|data engineer ii, aws marketplace and partner services
+amazon.com|data engineer i
+amazon.com|data engineer ii, veritas, security tools foundation
+autodesk|senior analytics engineer, corporate & product finance
+b53c59fec15d
+b72b4bffa013
+b7a7e14d1146
+b8335c6a4ed9
+bac (baltimore aircoil company, inc.)|sr data & analytics engineer
+bok financial|senior data engineer (fraud)
+bv teck|analytics engineer
+bv teck|aws data engineer
+bv teck|azure data engineer
+c20dd1343f0a
+cbc11264b28c
+cgi|azure quality assurance/devops
+construction partners|data platform engineer (palantir foundry & databricks)
+cpi card group|devops engineer i
+cyone, inc.|devops deployment engineer / killeen, tx / 25-30% travel
+dd69b3cacae0
+e1b3b81855ac
+e55766aee717
+e66741aa1004
+ecda5e0c984d
+egrove systems corporation|data engineer
+essential software|senior devops engineer
+f3e475b8750c
+f833cf1acccb
+f9b900682c3e
+flagstar bank|cloud engineer sr
+genuine parts company|product analytics engineer
+guidehouse|financial management (fm) data engineer
+hallmark health system, inc.|data engineer - business intelligence (remote)
+itegrity, inc.|site reliability engineer
+jobgether|founding analytics engineer
+jpmorganchase|security engineer ii -python developer
+ken garff automotive group|aws cloud devops engineer
+lanter delivery systems, llc|senior data & analytics engineer
+leading path consulting|mlops engineer - machine learning infrastructure & devops -ts/sci fsp
+leeward energy|data integration & pipeline engineer
+lmi|senior data engineer - ts/sci with polygraph required
+metrostar systems|sr. devops engineer (6842)
+metrostar|sr. devops engineer ii (6842) (up to $25k sign-on)
+micron technology|td planning data engineer
+netflix|analytics engineer 6 - demand science, ads dse
+nyc it inc|ods senior data engineer
+pandalogic llc|junior / mid-level python developer
+pandalogic llc|senior python developer, ai platform
+plus3 it systems|cloud devops engineer
+point|senior analytics engineer -  marketing
+prestige financial services|systems & cloud engineer i
+robotics technologies|senior python developer/ software engineer
+samsung electronics|sr. linux devops engineer
+skechers|analyst ii, cloud engineering
+specialized bicycle components|early career data engineer
+srs distribution, inc.|analytics engineer
+srs distribution|analytics engineer
+stedi|product analytics engineer
+suse rgs|sre & cloud infrastructure engineer
+tds|slds data engineer
+trimble|ai agentic devops engineer
+u.s. xpress|senior platform engineer
+ventura foods|associate dev ops engineer
+vituity|devops full stack engineer - remote - nationwide
+voyager tech group llc|devops engineer
+zotec partners|security platform engineer i – splunk, analytics & automation
+zotec partners|senior security platform engineer i – splunk, analytics & automation'
