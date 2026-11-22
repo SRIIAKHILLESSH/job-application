@@ -9497,3 +9497,51 @@ robotics technologies|full stack python developer with react
 seattle children's|data engineer
 western national insurance group|senior data engineer
 wsrb|devops engineer i
+1adb39865168
+2292e753d8a9
+2eb64974ba4d
+33ff3ffbcc98
+3d27a0a42ccb
+3dccba6c9f1e
+3f5b9935c6b9
+45a9019a7159
+4dcd3fe559e6
+56e9678dac01
+721deff82077
+75e9aba4b379
+89c012bac3c3
+8c4c3741e18d
+960871d9682c
+9625537d4143
+963239abc127
+9fde49838934
+b7831131256a
+bae systems, inc.|data engineer
+berkley technology services|senior devops platform engineer
+blue chip talent|senior data analytics engineer - 26786
+braingu|mid platform engineer
+by light professional it services|cloud engineer
+critical solutions|sre data specialist (w/ active secret)
+d0f18884ffa4
+d30eb56ea5fb
+d5e8b663415c
+daf1bfe0e9c5
+deloitte|data scientist - data engineer i
+empyrean|senior hybrid cloud engineer
+fbb7b6a1c169
+fieldai|data platform engineer, autonomy analytics
+first stop health|devops engineer
+five guys|senior ai analytics engineer
+fox corporation|sports data & metadata engineer
+luminas advicsors|cloud devops engineer
+munich re|data engineer
+persistent systems|senior data engineer
+rhombus power|data engineer, palo alto
+searchability national security & defense|devops engineer
+starbucks|engineer i, operations data engineering (seattle, wa)
+state farm|software engineer (kubernetes/cloud platform engineering and automation)
+subinitial llc|manufacturing systems engineer (erp, linux/devops & shop-floor it)
+sunayu|devops software engineer - ts/sci
+td|sr. devops engineer
+tech ladies®|sr. devops engineer ii (6842) (up to $25k sign-on)
+vmd corp|devops software engineer - ts/sci
