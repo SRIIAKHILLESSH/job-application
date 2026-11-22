@@ -9545,3 +9545,35 @@ sunayu|devops software engineer - ts/sci
 td|sr. devops engineer
 tech ladies®|sr. devops engineer ii (6842) (up to $25k sign-on)
 vmd corp|devops software engineer - ts/sci
+0cab00d1f1ff
+217180d1a9ae
+3eba5657ede9
+4cda51174393
+598b7f0aacef
+6876d2d79197
+6f47546cb780
+72c540776a91
+8af2b29dbc1a
+8e15016480d9
+a12b481a1c0d
+a1b942296fed
+amazon web services|software dev engineer, aws agentic ai dev ops
+ang signal|cloud engineer
+bastion technologies, inc.|cloud platform engineer
+bd5c1dfd856b
+booz allen hamilton|data platform engineer
+c20865b06d3b
+cdd5c9ffbc0f
+dmi|python developer
+eac89fb56be4
+general dynamics information technology|senior data engineer - secret clearance required
+hrg group|tech specialist - devops + sre
+motion recruitment|healthcare technology company | senior platform engineer
+oddball|data engineer
+oddball|senior data engineer
+powerus|data engineer
+spacex|sr. software engineer (ai data engineering)
+speria|senior software engineer - agentic ai - python expert
+talenthop|cloud engineer
+tek leaders inc|sr. python developer
+vastian|data platform engineer
