@@ -9577,3 +9577,35 @@ speria|senior software engineer - agentic ai - python expert
 talenthop|cloud engineer
 tek leaders inc|sr. python developer
 vastian|data platform engineer
+14e74540379c
+1b9cfb6d7ec1
+1e41eef10878
+1ebaf1b61612
+555b9e86e231
+5ddc35f03e63
+6f0d0ad0d0ab
+7e040056797a
+83d057e0426a
+94da73c3b03a
+ab7d2e9730a3
+avalon healthcare solutions|data engineer - healthcare claims & analytics
+be9d7542e929
+blackbaud|senior ai platform engineer
+c505edd6ec9c
+c66fef5fef4d
+d17370424c0b
+f76e534d7d6a
+first citizens bank|senior data engineer - snowflake (remote - nc, tx, az, fl)
+leaders credit union|data engineer
+mgic|senior data engineer
+ntt data north america|senior databricks data engineer- healthcare-remote
+ntt data|senior databricks data engineer- healthcare-remote
+ntt data|sr data engineer-healthcare-remote
+robotics technologies|full stack developer with devops
+robotics technologies|junior site reliability engineer
+robotics technologies|senior aws cloud devops engineer
+robotics technologies|senior data engineer – snowflake & databricks
+rogo|data engineer: analytics
+saferide health|data engineer - healthcare analytics
+tech ladies®|devops engineer
+ust|databricks engineer
