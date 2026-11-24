@@ -9829,3 +9829,139 @@ vance thompson vision|data engineer
 vantage risk companies|senior devops engineer
 virginia tech|pcl scientific software and data platform engineer
 woolpert|data engineer
+00de728cf219
+0280627d383d
+0362bb671a50
+112950c9130b
+1605cf4f8cfd
+177e2c1a1800
+183823f0b513
+1f4cb03a5cb3
+213f2bb351cd
+21c37f58962d
+24c8998fb2db
+3cbee984bdca
+3cf0519a81cd
+4120ac55cb42
+433f63aa6b52
+43d82eea7926
+47abd1fbfd57
+480d42ec96d1
+491a8d895574
+522bf05df206
+544112756dd2
+5720f077cf8a
+582057de632e
+591d66f79eed
+5f2dfc08304b
+616d87c5dce7
+6b49b979601a
+6c98e727ab8e
+6f023a2d10f9
+6f65d774cbb7
+7-eleven|senior cloud engineer - aws
+7-eleven|senior cloud engineer - azure
+76f593074b5d
+776f5773c62e
+7a673e9d7d62
+7a9724637cfb
+91ffe2aac356
+9227dd9c5b0c
+94c07abb6d65
+9c1a99f2a772
+9fc0b36bae9a
+a5824612aeea
+a77a2d45c874
+aabm clouds data solutions|databricks developer
+aavalar consulting, inc|python developer with ai (only locals)
+ab1d0677c789
+ae1376f22756
+agile defense|devops & atlassian engineer
+allcloud|cloud engineer
+amazon.com|data engineer, flex analytics
+anavation llc|ai cloud engineer
+apollo solutions|senior data engineer
+assemblyai|senior analytics engineer, ai & agents
+b1735d2d3329
+b3ed1130fe3d
+b6d05c835b8d
+b8f11854abd6
+b9716a02bec7
+ba97dfb9f9a4
+bridgestone americas|senior, ai data engineer
+bv teck|cloud infrastructure engineer
+c2459daf8f79
+c3ad5accc133
+c580bbc5c820
+c704fa06615c
+c745659c261e
+c917fafe1444
+capgemini|platform engineer - devops specialist l3
+capital one|cloud engineer 4
+cc30b4997cd5
+ce2cb26dd8cb
+cerberus cyber solutions|cloud engineer
+chenega corporation|data engineer (observability)
+complete recovery|analytics engineer
+concora credit|sr. data engineer
+d4a3d81dbcbf
+da1e0a3543bf
+dcc8a3c1adf8
+decagon|software engineer, cloud infrastructure
+designed conveyor systems|data engineer
+duke health|it analyst - cloud engineer 2
+e0234b5800b8
+e33df3db42cf
+e8a67b295502
+ed7626d46d78
+egrove systems corporation|senior azure data engineer
+f4aaea16bfe8
+fad7a9808eba
+fd35d55332f7
+fearless|senior ai and data engineer, (1099 contractor)
+ff3a07b48868
+fis|data engineer ii
+g.e.h.a|associate analytics engineer
+galent|senior software engineer – python
+geha health|associate analytics engineer
+general dynamics information technology|systems engineer (devops) - ts/sci w/poly
+general motors (gm)|senior software engineer– devops
+havenpark communities|analytics engineer
+integress, inc.|cloud engineer
+intuitive (intuitive surgical)|data engineer
+itc digital solutions|senior cloud engineer - top-secret required
+jane technologies|analytics engineer
+justhire technology|cloud devops engineer
+lockheed martin|data engineer sr - product lifecycle enablement
+mars|industrial data engineer
+milwaukee tool|analytics engineer ii
+minerva|data platform engineer, observability
+mohegan sun|senior data platform engineer
+nexorant llc|cloud engineer
+nitka technologies|sre engineer
+ntech workforce|oracle cloud infrastructure engineer (oci) - direct hire
+ntt data|u2 sr data engineer - grade 10
+paramount|data engineer
+parsons corporation|senior cloud engineer - ts/sci
+pnc financial services group|data engineer (spark/pyspark, trino, python, apache)
+remote hunter|analytics engineer
+revspring, inc|cloud engineer
+revspring|senior cloud engineer
+robotics technologies|backend engineer (python/golang)
+robotics technologies|senior ibm datastage etl developer – peoplesoft epm
+robotics technologies|senior software engineer(python + gcp cloud)
+sentara|senior data platform operations engineer
+shoreland|cloud infrastructure engineer-aws
+smx|sr. cloud engineer (5869) (ts/sci) (ft. belvoir, va)
+superworq|data analytics engineer
+trac intermodal|full stack python developer (middleware)
+trac intermodal|full stack python developer, edi
+transcore|devops software engineer ii
+united states cold storage|analytics engineer
+victory capital management|senior platform engineer
+western governors university|senior cloud engineer
+western union|senior data engineer
+wipro|devops engineer l3
+wood mackenzie|software engineer energy grid data platform.
+zachary piper solutions|azure cloud engineer
+zipliens|data engineer
