@@ -9713,3 +9713,119 @@ trisura|senior data engineer req# 793
 voyager technologies, inc.|agentic manufacturing test & data engineer – line telemetry & analytics
 webstaurantstore|site reliability engineer (remote)
 wells fargo|senior data engineer
+03f41ceb1c1e
+04af4eca3bd9
+0b661775db36
+0b8ff6f1061d
+1b5dc6d318d1
+1de5c6a291ab
+1f649e185aff
+225edd9d939c
+26d27550129e
+2755821bb412
+2a1958b20046
+2a6358db61a4
+2f07de31fc17
+3364cb0f7d51
+39214187c481
+39fcb0c36d88
+3eb94b2edc98
+3f43f2e9124e
+414ea5ca7326
+41b816041701
+42f55defb66c
+4739e2bf0381
+4924fb569a95
+4bbfcf4b91d0
+4c7a5677fa35
+4d8c06c01385
+4decbb8c260c
+50b8d68e8c07
+5203652cfd3a
+575fe9a6d11a
+5bd301c04af7
+686741f4a9b2
+6b2f0cf5d558
+6c6ebfc6a5e2
+727796ce1434
+7658d135d0a8
+820e92659119
+8877fbad8483
+89a7306a7721
+977e5202dba6
+9c081c502e57
+9d158b39d7d1
+9d99fa475b48
+a79189f63451
+adaptive|senior devops/sre - low latency financial services
+amazon|data engineer i, intelligent talent acquisition (ita) - data
+b71e16cbcd7b
+b7266f77ce82
+booz allen hamilton|modeling and simulation data engineer
+c2bf1f29bb50
+c9f99982a949
+cc8d6d58649f
+codepath.org|senior data engineer
+d0105c297f1b
+d09b88cec1ad
+d5caf8067880
+d75100e9e438
+e0e9da5e9c54
+e2c0df22970d
+e35577ed7b66
+e853fcc31d5b
+e9fa62f6f1e5
+eclaro|data engineer
+elm utility services|devops engineer v - $140,000 - $160,000 missoula/hybrid/remote
+enlighten|devops engineer - $20k sign on bonus - 30876
+enlighten|devops engineer - $20k sign-on bonus - 27404
+fac services, llc|devops engineer
+first tech federal credit union|data analytics engineer - (finance and accounting)
+fiserv|senior azure devops engineer
+flowdesk|senior devops engineer | new york
+general motors (gm)|hr data engineer
+general motors|hr data engineer
+hinge|senior data engineer
+hireproo llc|sr. devops engineer - us citizen only
+hyundai autoever america|10604 - sr. software engineer (big data)
+icf|senior enterprise systems developer, devops
+img information management group, inc.|data engineer
+innovative computer solutions group, inc|mid-level devops engineer
+innovative computer solutions group, inc|senior devops engineer
+j. j. keller & associates, inc.|devops engineer
+j. j. keller & associates, inc|devops engineer
+jane technologies, inc.|analytics engineer
+johns hopkins university applied physics laboratory|devops engineer
+kendal corporation|senior microsoft cloud engineer
+man group|senior python developer - systematic applied ai
+mantech|devsecops platform engineer
+mawantech llc|data engineer/etl developer local to michigan
+medical mutual|data engineer - epic payer platform
+medvet|senior data engineer
+nexamotion group|senior database engineer (sql server + data engineering)
+ntt data|azure devops engineer - onsite/hybrid
+optomi|devops engineer
+reactor|platform engineer
+red violet, inc.|senior devops engineer
+robotics technologies|senior azure data engineer
+robotics technologies|senior data engineer – aws
+rwdy inc|facilities asset data engineer
+samsara|software engineer - data platform
+select milk producers (smp)|data engineer
+self financial, inc.|senior data engineer
+sigil partners|senior devops engineer
+skydance|data engineer
+southern california edison (sce)|data engineering, senior specialist
+spacex|data engineer, hardware reliability (starlink)
+t. rowe price|senior devops engineer
+talemexa|devops engineer
+texas roadhouse|it cloud devops engineer ii
+thyssenkrupp supply chain services|data engineer i
+thyssenkrupp supply chain services|data engineer ii
+tower loan|risk data engineer
+trisura guarantee insurance company|senior data engineer
+vail resorts|senior data engineer
+vance thompson vision|data engineer
+vantage risk companies|senior devops engineer
+virginia tech|pcl scientific software and data platform engineer
+woolpert|data engineer
