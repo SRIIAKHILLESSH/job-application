@@ -10061,3 +10061,99 @@ vivsoft technologies|senior data engineer (top secret)
 vmd corp|devops engineer - ts/sci
 xcelerate solutions|devops engineer - ts/sci
 xcelerate solutions|sr. devops engineer - ts/sci
+17af26f682ec
+1d6cac059615
+35c43617c10e
+3e8e212b7a29
+49243c4e2d9f
+494cfdf4e5cd
+4cfd06c6be4e
+54ab50154802
+57fe7720336b
+59686c8ac83e
+5a99f56f9c34
+683ba0603bfa
+6bddd8330e3a
+73080d2ee1e5
+752b172ecd13
+75b6660c9c69
+781ba5601ce7
+7976867cce3c
+7c04dd1eaeb5
+847de126cb79
+87a495bf4961
+8cce93495068
+912f444e8f54
+92e02919dde5
+938034a3cdf8
+95bf4cc8133d
+9bb5025eb610
+a05d5436703d
+a232a68ed88c
+a38979c6a3df
+a8cf0cd3c97c
+ab6531b633f1
+amazon|data engineer, advertising demand enablement & product ops (depo)
+b3b14e79800d
+b413c075ff14
+b759e354dbab
+bc8c661e3e9e
+bdf81baa0315
+bluesight|data engineer
+bluesight|senior data engineer
+bold penguin, inc.|senior backend/data engineer, coverage intelligence
+brain corp|analytics engineer
+c5915e29f9a7
+capgemini|senior databricks engineer
+capgemini|senior devops release engineer
+cca695090dff
+collectors|associate analytics engineer
+d6513fe6e2a3
+db7c49a5de94
+e1b9b55b9b2d
+e4a4e20ec554
+e672493885f1
+e7b4468e6a42
+ec93c6f9f2d4
+ellis porter - the immigration attorneys|senior data engineer (azure databricks)
+f9afbfa838b6
+fdc701e36e33
+gi alliance|data integration engineer
+granicus|senior devops engineer
+h2 cognitive designs|senior site reliability engineer
+horizon hobby llc|data engineer
+humana|senior dev ops platform engineer
+iris software inc.|senior cloud engineer with aws
+jpc techno inc|data engineer with gcp
+kiewit corporation|sr data engineer
+kiewit|sr data engineer
+las vegas sands corp.|sr devops engineer – ai-first development
+mapfre insurance|data engineer ii
+maximatek|data engineer
+megazone cloud us|cloud platform engineer – kubernetes / eks & devops
+mtsi|senior nutanix systems administrator/platform engineer
+murphy-hoffman company (mhc kenworth)|data engineer
+piper sandler|devops engineer
+provenetix.pvt.ltd|data engineer
+razor|devops engineer mid with harness
+red violet (nasdaq: rdvt)|senior devops engineer
+rent the runway|data analytics engineer
+robotics technologies|senior ai platform engineer
+robotics technologies|senior golang cloud engineer
+robotics technologies|senior kubernetes platform engineer
+sabree software services|software developer/systems engineer — data pipelines and ai (sss-sky-hlv-005)
+selby jennings|senior devops engineer
+serco|sr. cloud engineer - microsoft azure
+spacex|data engineer, application software
+state of missouri|cloud platform engineer (gcp) #0000063
+t-rex solutions, llc|etl developer
+team tti|analytics engineer ii
+tech ladies®|data analytics & ai - data engineer
+techwish|senior data engineer with future/ml experience
+toyota north america|cloud engineer
+trilogy innovations|devops engineer, senior
+vermont mutual insurance group|senior data engineer
+vertiv|business hosting specialist/sr. cloud engineer
+visa|associate data engineer, ai studio
+vmd corp|sr. devops engineer - ts/sci
+zodiac solutions, inc|cloud engineer/developer with cloud paas and/or iaas (google, azure, aws)
