@@ -9965,3 +9965,99 @@ wipro|devops engineer l3
 wood mackenzie|software engineer energy grid data platform.
 zachary piper solutions|azure cloud engineer
 zipliens|data engineer
+0a8480db77d8
+0b00e2c09673
+1b9e194863dc
+242669da5d47
+26283cd43f42
+26696dc7af31
+29033eaee45f
+33734e050bd1
+35d5befdb17b
+43912749cd21
+44a37e444479
+45c8e550a4c2
+49b488947cfa
+4a27713258b8
+4cff2b72ecaa
+4e126214488d
+57fbca97b3ed
+59b9b907110e
+5ac7e096675a
+5db10eae417d
+5de48947e3cc
+5f5c25d32c1f
+6d69c91b2d14
+75ea8ed4bcec
+7606d94c4c94
+7657f9468160
+83ed94e499ad
+8572623ea906
+89c2dc574540
+8fc610b15397
+9c6685c33007
+a332dc5991b0
+a40aac8c8924
+abee24717a9b
+abrahams consulting|senior data engineer – master data management (mdm) & cloud integration
+alliance north america inc|senior devops engineer - edge & test infrastructure
+amazon.com|industrial analytics engineer ii
+amazon|data engineer, flex analytics
+asm|software engineer (devops)
+associated bank|ecm platform engineer senior
+autodesk|network devops engineer
+b18c2e0d14e2
+b58beeaeed3a
+b9dcaa7113ee
+c0fb4969413b
+caloptima|snowflake data engineer (data warehouse programmer-analyst)
+campbell's|data analytics & ai - data engineer
+cfc2e090050b
+cleancapital llc|data engineer
+cleancapital|data engineer
+d0219284c57b
+d47b5a4649ee
+d61d1601c245
+dea5a33b89ec
+deloitte|senior aws infrastructure/devops engineer
+diodes incorporated|.net/python developer
+dominion energy|senior data engineer
+dominion energy|senior data engineer (richmond, va, us, 23219)
+e53293db1245
+e6224b165e47
+eca5721a25e0
+emerson|senior dev ops engineer
+f59d2897a952
+fbde5706fc41
+galt aerospace|senior devsecops platform engineer
+guidehouse|senior data engineer – war data platform subject matter expert
+headwaytek inc|network devops engineer
+johns hopkins applied physics laboratory|devops engineer
+knobelsdorff (ke)|platform engineer
+landing point|python developer
+lawrence livermore national laboratory|senior data and si platform engineer
+maxit consulting - max corporate group|ai agents backend engineer – python & llm tooling (los altos, on-site)
+mitre|associate data engineer
+moderna|senior analytics engineer, people data
+neosys technologies|data engineer
+ngpartners|devops specialist
+onxmaps|senior data engineer
+plus3 it systems|cloud data engineer
+pnc financial services group|senior devops engineer - tempus
+rcr motorsports|motorsports telemetry & data platform engineer
+saransh inc|etl developer
+stripe|analytics engineer
+superworq|backend software engineer ii (python, api)
+t-rex solutions|etl developer
+talemexa|python developer
+tech ladies®|data engineer i, intelligent talent acquisition (ita) - data
+teknoluxion|devops engineer
+the campbell's company|data analytics & ai - data engineer
+united therapeutics|senior data engineer, pricing & gross-to-net
+usaa|ci/cd devops engineer - mid level
+valar atomics|senior cloud infrastructure engineer (aws & azure)
+verticrest enterprise systems|cloud engineer
+vivsoft technologies|senior data engineer (top secret)
+vmd corp|devops engineer - ts/sci
+xcelerate solutions|devops engineer - ts/sci
+xcelerate solutions|sr. devops engineer - ts/sci
