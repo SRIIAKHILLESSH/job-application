@@ -10251,3 +10251,67 @@ tetrad digital integrity llc|data engineering software developer
 tetrad digital integrity llc|devops engineer
 university of alabama, birmingham|advanced analytics engineer
 vyrdia|senior data engineer
+03ac2315ae02
+0e2e2fe8ef77
+11d939b545a1
+1868644eb477
+3b0a9dd1cb19
+3ce10da62380
+41cade0b895b
+4671350fca23
+4ad4624e0de4
+4ff79947f619
+517768bb7b36
+5a64ac71fecd
+5d86d847d3b7
+65351e4ae03f
+6eb1557615e5
+70e58953b8fa
+7a8a4818650d
+7f9b7977e9e0
+80adacabd9be
+a04a75b3b131
+af024ac0e979
+afda27866dfd
+amazon.com|senior data engineer, internal audit
+apetan consulting llc|data engineers / remote
+aristocrat|data engineer
+b1ca50bfee73
+b6b8009c95d3
+braintrust|analytics engineer
+bv teck|data engineer – databricks, python & ai agents
+c6765326af2e
+cbdb2a60edfe
+ctrl +|devops engineer level 3 – software factory
+da886a05ff6a
+dd8a4a000ef3
+e-infosol llc|data engineer
+e8f6534a0b07
+ea20ba0844fb
+erias ventures|enterprise - devops engineer - kubernetes, aws, python
+fb47ea9e851e
+ffa9bdb49a74
+flatiron health|senior data analytics engineer
+fluent trade technologies|devops engineer
+gainwell technologies llc|devops engineer (configuration & release management)
+humana|big data software engineer
+humana|senior data engineer
+infosys|data engineer with spark, scala, pyspark, airflow, python, sql, apache iceberg experience
+intermountain health|devops site reliability engineer
+jobgether|etl developer remote (atlanta)
+jobgether|etl developer remote (new york)
+modus21, llc.|cloud engineer with security clearance
+netrolynx ai|data engineer - aws
+peopletec|data engineer
+phillips 66|advisor ii, devops engineering
+proautomates|devops engineer
+qts|senior devops engineer
+remote hunter|data engineer
+robotics technologies|ai site reliability engineer
+robotics technologies|data engineer – azure
+robotics technologies|infrastructure / site reliability engineer (sre)
+skywest airlines of usa|business intelligence, data engineering & ai analytics engineer
+skywest airlines of usa|senior analytics engineer – bi, data engineering & ai
+skywest airlines|business intelligence, data engineering & ai analytics engineer
+skywest airlines|senior analytics engineer – bi, data engineering & ai
+trend micro inc.|senior data engineer – sustaining engineering group (seg)
