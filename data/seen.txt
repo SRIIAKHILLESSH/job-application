@@ -10357,3 +10357,25 @@ susquehanna international group|software engineer| tactical python developer | e
 talenthop|data engineer (remote)
 tech ladies®|data engineer (remote)
 ust|azure databricks / cloud data engineer
+08c94e24cb55
+2336f6adbbd2
+351c0d33716d
+4770481b5d1e
+5ca6bba7a277
+6053274e168e
+6a795c2b35b5
+8d3a12908b0b
+9a404157682b
+ab2fabbb5d4c
+accenture federal services|senior sre
+apax cloud systems|cloud infrastructure engineer
+diamant software|senior platform engineer
+e2711dd3978c
+fusion innovation|senior systems engineer - data engineering
+group one trading|ai platform engineer
+guruschools|expert data analytics engineer
+referment|senior cloud engineer | hedge fund (9ea499f)
+vervic|ai-ml data platform engineer
+vervic|senior ai-ml data platform engineer
+vervic|senior ai-ml platform engineer
+westline systems|cloud engineer
