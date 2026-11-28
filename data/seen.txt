@@ -10379,3 +10379,35 @@ vervic|ai-ml data platform engineer
 vervic|senior ai-ml data platform engineer
 vervic|senior ai-ml platform engineer
 westline systems|cloud engineer
+1d5dbea8e84d
+306816800cc2
+3bc5c61a2608
+3f5f27227c50
+4704764f5bf4
+4ece277d34f7
+54d2c85c7562
+600d1879748f
+77614bd48e34
+a063bf8089d5
+a733ceb469a9
+aaac720e1756
+amazon.com|sr. data engineer, ww pricing data and insights
+amazon|sr. data engineer, ww pricing data and insights
+aquila software group|azure cloud infrastructure engineer - us
+bank ozk|analyst, data engineering
+c88c4b908844
+d9372aff17bf
+darwinbox|data platform engineer
+deb32b807bcd
+f9c0305ca627
+fiserv|senior data platform engineer - java
+harris & harris|etl developer
+innovative livestock services inc|data engineer
+kpler|data engineer (natural gas)
+les schwab tire centers|data engineer ii - retail technology
+mercer advisors|senior analytics engineer
+peraton|data engineer (senior)
+real chemistry|analytics engineer
+robotics technologies|azure data engineer – databricks
+robotics technologies|junior secdevops engineer
+southern power|operations data engineering analyst
